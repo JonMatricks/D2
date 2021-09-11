@@ -1,5 +1,6 @@
-title:JonMatricks1211-wish-25AUG21
-description:John Matrix. Man. Of. Action.
+title:John Matrix wishlist for Destiny 2
+description:Wishlist for D2 weapons based on personal play style and taste. PSN: JonMatricks, Bungie: JonMatricks#1211
+
 
 // Annual Skate - MK Clip (pve)
 dimwishlist:item=6857689&perks=1926090094,3177308360,1168162263,2458213969
