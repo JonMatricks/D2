@@ -880,37 +880,6 @@
         },
         {
             "description": "",
-            "hash": 3473290087,
-            "name": "",
-            "plugs": [
-                [
-                    4090651448,
-                    1840239774,
-                    1482024992
-                ],
-                [
-                    3142289711,
-                    106909392,
-                    3177308360
-                ],
-                [
-                    3096702027,
-                    1168162263
-                ],
-                [
-                    1546637391,
-                    2848615171,
-                    2551157718,
-                    3523296417,
-                    2458213969
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
             "hash": 720351795,
             "name": "Precision",
             "plugs": [
@@ -1894,14 +1863,14 @@
             ]
         },
         {
-            "description": "",
+            "description": "Boss DPS?",
             "hash": 3473290087,
-            "name": "Auto-loader",
+            "name": "Boss DPS",
             "plugs": [
                 [
                     4090651448,
-                    1840239774,
-                    1482024992
+                    1482024992,
+                    839105230
                 ],
                 [
                     3142289711,
@@ -1911,9 +1880,7 @@
                     3300816228
                 ],
                 [
-                    1546637391,
-                    2848615171,
-                    3523296417
+                    1546637391
                 ]
             ],
             "tags": [
@@ -2932,7 +2899,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "?",
             "hash": 3717177717,
             "name": "CCX",
             "plugs": [
@@ -2942,18 +2909,13 @@
                     663495154
                 ],
                 [
-                    3142289711,
-                    106909392,
-                    3177308360,
-                    3230963543
+                    3142289711
                 ],
                 [
                     1820235745,
-                    2450788523,
                     4071163871
                 ],
                 [
-                    1015611457,
                     4049631843
                 ]
             ],
@@ -3563,48 +3525,16 @@
             "plugs": [
                 [
                     839105230,
-                    1482024992,
-                    4090651448,
-                    1840239774
-                ],
-                [
-                    3142289711,
-                    3177308360
-                ],
-                [
-                    1168162263,
-                    2450788523
-                ],
-                [
-                    2848615171
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 2050789284,
-            "name": "Shield Break",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    1840239774,
-                    1392496348,
                     1482024992
                 ],
                 [
-                    3177308360,
                     3142289711
                 ],
                 [
-                    3096702027
+                    1168162263
                 ],
                 [
-                    1683379515
+                    2848615171
                 ]
             ],
             "tags": [
@@ -3617,57 +3547,20 @@
             "name": "Kill Clip",
             "plugs": [
                 [
-                    1482024992,
-                    4090651448,
-                    1840239774,
-                    1392496348
+                    839105230
                 ],
                 [
-                    106909392,
-                    3230963543
+                    3142289711
                 ],
                 [
-                    2779035018,
-                    1168162263,
-                    4071163871
+                    1168162263
                 ],
                 [
                     1015611457
                 ]
             ],
             "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "For close to mid-range",
-            "hash": 2050789284,
-            "name": "Demolitionist roll",
-            "plugs": [
-                [
-                    1482024992,
-                    4090651448,
-                    1840239774,
-                    1392496348
-                ],
-                [
-                    3142289711,
-                    3177308360,
-                    3230963543,
-                    106909392
-                ],
-                [
-                    1631667848,
-                    2450788523,
-                    2779035018,
-                    4071163871
-                ],
-                [
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "PVE"
+                "PVP"
             ]
         },
         {
@@ -5021,19 +4914,13 @@
             "name": "Vorpal",
             "plugs": [
                 [
-                    1482024992,
-                    4090651448,
-                    1840239774,
-                    1392496348
+                    839105230,
+                    1482024992
                 ],
                 [
-                    3142289711,
-                    3177308360,
-                    3230963543,
-                    106909392
+                    3142289711
                 ],
                 [
-                    1631667848,
                     4071163871,
                     1168162263
                 ],
@@ -6129,21 +6016,21 @@
             "name": "Long Range",
             "plugs": [
                 [
-                    1467527085,
                     4090651448,
-                    3250034553,
-                    1482024992
+                    1482024992,
+                    839105230
                 ],
                 [
-                    1968497646,
-                    1561002382,
                     1885400500
                 ],
                 [
-                    2866798147
+                    957782887
                 ],
                 [
                     591790007
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
@@ -6151,30 +6038,26 @@
             ]
         },
         {
-            "description": "The perks for this gun are so-so",
+            "description": "I don't use snipers much so this is decent according to light.gg",
             "hash": 852551895,
-            "name": "Demo Vorpal",
+            "name": "Vorpal",
             "plugs": [
                 [
                     839105230,
-                    1840239774,
-                    1392496348,
                     1482024992
                 ],
                 [
-                    106909392,
-                    1968497646,
-                    1561002382,
-                    1885400500,
-                    3230963543
+                    1885400500
                 ],
                 [
-                    2866798147,
-                    3300816228
+                    3300816228,
+                    957782887
                 ],
                 [
-                    3523296417,
                     1546637391
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
@@ -6679,47 +6562,41 @@
             ]
         },
         {
-            "description": "",
+            "description": "also seen on light.gg",
             "hash": 3169616514,
             "name": "",
             "plugs": [
                 [
                     1392496348,
-                    1840239774,
                     1482024992,
-                    4090651448
+                    839105230
                 ],
                 [
                     3142289711,
-                    106909392,
-                    3177308360,
-                    3230963543
+                    106909392
                 ],
                 [
                     247725512
                 ],
                 [
-                    3038247973,
-                    3425386926
+                    3038247973
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "",
+            "description": "Fookin Kneeler",
             "hash": 3169616514,
             "name": "Fookin Kneeler",
             "plugs": [
                 [
-                    1392496348,
                     839105230,
                     4090651448,
                     3250034553
                 ],
                 [
-                    3177308360,
                     3142289711
                 ],
                 [
@@ -7024,32 +6901,29 @@
             ]
         },
         {
-            "description": "for PvP Need range or handling MW, per: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons",
+            "description": "for PvP Need range or handling MW, per: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons (S14), and Light.gg (S16)",
             "hash": 108221785,
             "name": "Crucible walker",
             "plugs": [
                 [
-                    4090651448,
-                    1047830412,
-                    1332244541,
-                    1300023272
+                    1332244541
                 ],
                 [
-                    3142289711,
-                    791862061,
-                    2420895100
+                    3142289711
                 ],
                 [
-                    706527188,
-                    2039302152
+                    706527188
                 ],
                 [
                     591790007,
-                    2450788523
+                    1546637391
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -7059,25 +6933,23 @@
             "plugs": [
                 [
                     839105230,
-                    1840239774,
-                    1392496348,
-                    1482024992
+                    4090651448
                 ],
                 [
                     3142289711,
-                    106909392,
-                    3177308360
+                    106909392
                 ],
                 [
                     1820235745
                 ],
                 [
-                    124408337,
-                    3523296417
+                    124408337
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
@@ -7087,10 +6959,8 @@
             "name": "Long Peace",
             "plugs": [
                 [
-                    1467527085,
-                    202670084,
                     3250034553,
-                    1482024992
+                    4090651448
                 ],
                 [
                     3142289711
@@ -7100,10 +6970,12 @@
                 ],
                 [
                     591790007
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
-                "PVE",
                 "PVP"
             ]
         },
@@ -7114,21 +6986,22 @@
             "plugs": [
                 [
                     839105230,
-                    1840239774,
-                    1392496348,
-                    1482024992
+                    1482024992,
+                    4090651448
                 ],
                 [
-                    106909392,
-                    3230963543
+                    3142289711,
+                    106909392
                 ],
                 [
-                    1820235745,
                     2450788523
                 ],
                 [
                     3708227201,
                     4082225868
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
@@ -7150,8 +7023,8 @@
                     1968497646
                 ],
                 [
-                    1820235745,
-                    1645158859
+                    2779035018,
+                    1820235745
                 ],
                 [
                     3425386926,
@@ -7163,25 +7036,25 @@
             ]
         },
         {
-            "description": "For CQC and PvP\nMW: Handling",
+            "description": "Seen on light.gg\nMW: Handling",
             "hash": 3593598010,
-            "name": "CQC ",
+            "name": "light.gg",
             "plugs": [
                 [
-                    13792278,
-                    13792279
+                    679077873,
+                    2405638014
                 ],
                 [
-                    1968497646,
+                    1885400500,
                     1561002382
                 ],
                 [
-                    706527188,
-                    2039302152,
-                    588594999
+                    2779035018
                 ],
                 [
-                    4152709778
+                    4152709778,
+                    11551321,
+                    3425386926
                 ]
             ],
             "tags": [
@@ -7194,14 +7067,14 @@
             "name": "Osmosis Sight",
             "plugs": [
                 [
-                    13792278,
-                    2405638015,
-                    2405638014,
-                    13792279
+                    13792279,
+                    679077873,
+                    679077872
                 ],
                 [
-                    1968497646,
-                    106909392
+                    1885400500,
+                    1561002382,
+                    1968497646
                 ],
                 [
                     247725512,
@@ -7213,31 +7086,6 @@
             ],
             "tags": [
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "for stability, precision\nMW: Handling, Stability",
-            "hash": 1641430382,
-            "name": "Sharpshooter",
-            "plugs": [
-                [
-                    679077873,
-                    679077872
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    247725512
-                ],
-                [
-                    4152709778,
-                    11551321,
-                    2387244414
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -7588,28 +7436,28 @@
             ]
         },
         {
-            "description": "PvP per Blueberries: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons (S14)",
+            "description": "PvP per Blueberries: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons (S14) and light.gg (S16)",
             "hash": 852551895,
             "name": "PvP",
             "plugs": [
                 [
-                    3250034553,
-                    202670084
+                    839105230
                 ],
                 [
-                    1561002382,
-                    1885400500,
-                    1968497646
+                    1885400500
                 ],
                 [
                     957782887
                 ],
                 [
                     47981717
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -10321,22 +10169,20 @@
             "name": "PvP Bond",
             "plugs": [
                 [
-                    1467527085,
-                    202670084,
                     3250034553,
-                    1482024992
+                    4090651448
                 ],
                 [
-                    3142289711,
-                    3177308360
+                    3142289711
                 ],
                 [
-                    2846385770,
-                    2450788523
+                    2846385770
                 ],
                 [
-                    957782887,
-                    3523296417
+                    957782887
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
@@ -10656,56 +10502,24 @@
             ]
         },
         {
-            "description": "For PvP\nMW: Handling, Range",
-            "hash": 1641430382,
-            "name": "Iron Sight",
-            "plugs": [
-                [
-                    13792279,
-                    13792278,
-                    2405638015,
-                    2405638014
-                ],
-                [
-                    106909392,
-                    1968497646,
-                    1561002382
-                ],
-                [
-                    3161816588,
-                    706527188
-                ],
-                [
-                    1546637391,
-                    4152709778
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "For PvE.\nMW: Range, Reload",
             "hash": 1641430382,
             "name": "Vorpal Sight",
             "plugs": [
                 [
-                    13792278,
-                    2405638015,
-                    2405638014,
-                    13792279
+                    13792279,
+                    679077873,
+                    679077872
                 ],
                 [
                     1968497646,
-                    106909392,
-                    1561002382
+                    1885400500
                 ],
                 [
                     247725512,
                     2010801679
                 ],
                 [
-                    4049631843,
                     1546637391
                 ]
             ],
@@ -15946,30 +15760,6 @@
             ]
         },
         {
-            "description": "Grenadier's Precision Pulse. Arrowhead brake for recoil (add counterbalance mod for more), ricochet for stability (and fun!), Heating Up for more accuracy, Junkie for damage buff w/ grenadier builds. ",
-            "hash": 2097055732,
-            "name": "Precision Grenadier",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    2748258257,
-                    1570042021
-                ],
-                [
-                    2422968039,
-                    11612903
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
             "description": "Some light.gg preferred perks.",
             "hash": 372697604,
             "name": "Can't at a",
@@ -16201,25 +15991,25 @@
             ]
         },
         {
-            "description": "",
+            "description": "Edge Lord... Also seen on light.gg",
             "hash": 1796949035,
-            "name": "",
+            "name": "Edge Lord",
             "plugs": [
                 [
                     938542991,
                     2827049491
                 ],
                 [
-                    52780822,
-                    599007201,
-                    3625355092
+                    52780822
                 ],
                 [
                     3705817207
                 ],
                 [
-                    2396489472,
-                    354401740
+                    2396489472
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
@@ -16227,7 +16017,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Another \"Edge\" sword",
             "hash": 1796949035,
             "name": "",
             "plugs": [
@@ -16237,16 +16027,16 @@
                     2827049491
                 ],
                 [
-                    52780822,
-                    599007201,
-                    3625355092
+                    52780822
                 ],
                 [
                     1749209109
                 ],
                 [
-                    4049631843,
                     4104185692
+                ],
+                [
+                    3989629871
                 ]
             ],
             "tags": [
@@ -16916,7 +16706,7 @@
             ]
         },
         {
-            "description": "Anti-Champion Pulse. Ricochet & Heating Up to help aim, appended mag for extra shots between reloads (use Backup Mag mod for even more).",
+            "description": "Anti-Champion Pulse. Ricochet & Heating Up to help aim, appended mag for extra shots between reloads (use Backup Mag mod and/or Overflow for even more).",
             "hash": 2097055732,
             "name": "Anti-Champion",
             "plugs": [
@@ -16924,23 +16714,24 @@
                     839105230
                 ],
                 [
-                    1087426260
+                    1885400500
                 ],
                 [
-                    2748258257,
-                    1570042021
+                    3643424744,
+                    2682205016
                 ],
                 [
-                    3418165135,
-                    1546637391
+                    1546637391,
+                    3418165135
                 ]
             ],
             "tags": [
+                "PVE",
                 "GodPVE"
             ]
         },
         {
-            "description": "Wishlist for random rolls. Deeper ammo reserves. Appended Mag + Overflow for extra time between reloads.",
+            "description": "Overflowing Fury. Deeper ammo reserves optional. Overflow for extra time between reloads, not sure how it affects Focused Fury (50% of mag as precision, +20% for 11s)",
             "hash": 2097055732,
             "name": "Overflow",
             "plugs": [
@@ -16950,7 +16741,7 @@
                     1392496348
                 ],
                 [
-                    1087426260
+                    1885400500
                 ],
                 [
                     3643424744,
@@ -16962,11 +16753,12 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVE",
+                "GodPVE"
             ]
         },
         {
-            "description": "PvP build? I dunno... these are the popular perks on Light.gg.",
+            "description": "?? these are the popular perks on Light.gg.",
             "hash": 2097055732,
             "name": "PvP Mind",
             "plugs": [
@@ -16986,7 +16778,8 @@
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVP",
+                "PVE"
             ]
         },
         {
@@ -17089,7 +16882,7 @@
             ]
         },
         {
-            "description": "Precision Pulse. Arrowhead Brake for recoil (add counterbalance mod for more), Ricochet for stability (and fun!), Heating Up for more accuracy (at x2: 30 acc, 30 stab, 40 recoil for 5.5s), Focused Fury for damage buff (20%, 11s) longer than Junkie, easier to proc. ",
+            "description": "Focused Mind: Precision Pulse. Arrowhead Brake for recoil (add counterbalance mod for more), Ricochet for stability (and fun!), Heating Up for more accuracy (at x2: 30 acc, 30 stab, 40 recoil for 5.5s), Focused Fury for damage buff (20%, 11s) longer than Junkie, no time limit on hits to proc. ",
             "hash": 2097055732,
             "name": "Focused Mind",
             "plugs": [
@@ -17109,7 +16902,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -17528,6 +17321,271 @@
                 ]
             ],
             "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Grenadier's Precision Pulse. Arrowhead brake for recoil (add counterbalance mod for more), ricochet for stability (and fun!), Heating Up for more accuracy, Junkie for damage buff w/ grenadier builds. ",
+            "hash": 2097055732,
+            "name": "Precision Grenadier",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2748258257,
+                    1570042021
+                ],
+                [
+                    2422968039,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Light.gg fave (S16)",
+            "hash": 1141547457,
+            "name": "PvP?",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512
+                ],
+                [
+                    591790007
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Adaptive Reach.",
+            "hash": 1141547457,
+            "name": "Adaptive Reach",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1048183818
+                ],
+                [
+                    591790007
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2050789284,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871,
+                    2450788523
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "PvP version (see light.gg)",
+            "hash": 3473290087,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    957782887,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Dragonfly",
+            "hash": 3473290087,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2284787283,
+                    2010801679,
+                    1168162263
+                ],
+                [
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kill clip PvP roll",
+            "hash": 1141547457,
+            "name": "PvP",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512
+                ],
+                [
+                    1015611457
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "light.gg",
+            "hash": 1641430382,
+            "name": "",
+            "plugs": [
+                [
+                    679077873,
+                    13792279
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    247725512
+                ],
+                [
+                    11551321
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "light.gg",
+            "hash": 3169616514,
+            "name": "",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Seen on light.gg",
+            "hash": 3717177717,
+            "name": "light.gg",
+            "plugs": [
+                [
+                    663495154
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523,
+                    1359896290
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "???",
+            "hash": 3717177717,
+            "name": "CCX?",
+            "plugs": [
+                [
+                    2209280307,
+                    663495155,
+                    663495154
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    4152709778
+                ]
+            ],
+            "tags": [
+                "PVE",
                 "PVP"
             ]
         }
