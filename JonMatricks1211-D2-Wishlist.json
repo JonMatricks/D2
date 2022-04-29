@@ -13860,18 +13860,18 @@
             ]
         },
         {
-            "description": "One Stat for All",
+            "description": "One Stat for All. Demigodroll.",
             "hash": 2852052802,
             "name": "One Stat for All",
             "plugs": [
                 [
                     839105230,
                     4090651448,
-                    1482024992
+                    1482024992,
+                    1392496348
                 ],
                 [
                     1968497646,
-                    1561002382,
                     1885400500
                 ],
                 [
@@ -13879,6 +13879,9 @@
                 ],
                 [
                     4049631843
+                ],
+                [
+                    3988215619
                 ]
             ],
             "tags": [
@@ -13886,19 +13889,18 @@
             ]
         },
         {
-            "description": "Subsistence",
+            "description": "Subsistence. MW: Handling",
             "hash": 2852052802,
             "name": "PvE Subsistence",
             "plugs": [
                 [
                     839105230,
-                    3661387068,
-                    1482024992
+                    4090651448,
+                    1392496348
                 ],
                 [
-                    1968497646,
-                    2420895100,
-                    1885400500
+                    1885400500,
+                    2420895100
                 ],
                 [
                     1820235745
@@ -13915,19 +13917,18 @@
             ]
         },
         {
-            "description": "Vorpal Auto",
+            "description": "Vorpal Auto.  MW: Handling",
             "hash": 2852052802,
             "name": "Vorpal Auto",
             "plugs": [
                 [
                     839105230,
-                    3661387068,
-                    1482024992,
-                    4090651448
+                    4090651448,
+                    1392496348
                 ],
                 [
-                    1968497646,
-                    1885400500
+                    1885400500,
+                    2420895100
                 ],
                 [
                     3643424744
@@ -14791,8 +14792,7 @@
             "plugs": [
                 [
                     839105230,
-                    1392496348,
-                    1482024992
+                    4090651448
                 ],
                 [
                     1968497646
@@ -14810,7 +14810,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -14821,7 +14821,7 @@
                 [
                     839105230,
                     1392496348,
-                    1482024992
+                    1467527085
                 ],
                 [
                     1885400500
@@ -15767,7 +15767,7 @@
             ]
         },
         {
-            "description": "Rhulk Smash - for high-risk CQC with Bosses",
+            "description": "Rhulk Smash! For high-risk CQC with Bosses & Ultras",
             "hash": 2534546147,
             "name": "Rhulk Smash",
             "plugs": [
@@ -15786,6 +15786,9 @@
                 [
                     1546637391,
                     3418165135
+                ],
+                [
+                    3363267119
                 ]
             ],
             "tags": [
@@ -15793,7 +15796,7 @@
             ]
         },
         {
-            "description": "Berserker mode - fast handling, movement, etc to cut through trash mobs",
+            "description": "Berserker mode - fast handling, movement, etc to cut through trash mobs. MW: Handling",
             "hash": 2534546147,
             "name": "",
             "plugs": [
@@ -15805,9 +15808,7 @@
                 ],
                 [
                     1631667848,
-                    402033656,
-                    2450788523,
-                    4207509907
+                    402033656
                 ],
                 [
                     4082225868,
@@ -17408,6 +17409,141 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "Subsistence demigodroll. MW: Handling",
+            "hash": 2852052802,
+            "name": "PvE Subsistence Demigodroll",
+            "plugs": [
+                [
+                    3661387068,
+                    1467527085,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    2420895100
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    124408337
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Vorpal Auto B-roll, adequate but not ideal.  MW: Handling",
+            "hash": 2852052802,
+            "name": "Vorpal Auto B-Roll",
+            "plugs": [
+                [
+                    3661387068,
+                    1467527085,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    2420895100
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Curated roll from the vending machine.",
+            "hash": 3434944005,
+            "name": "Curated roll",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    1500996326
+                ],
+                [
+                    2866798147,
+                    201365942
+                ],
+                [
+                    1546637391,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Curated roll / ritual weapon.",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679,
+                    3523296417
+                ],
+                [
+                    1546637391,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Ritual weapon so only one roll for it.",
+            "hash": 3216652511,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061
+                ],
+                [
+                    509074078,
+                    1428297954
+                ],
+                [
+                    4082225868,
+                    957782887
+                ],
+                [
+                    744217850,
+                    4091460919,
+                    515704826
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
