@@ -14354,7 +14354,7 @@
             ]
         },
         {
-            "description": "Auto-Loading to save time, Frenzy for no-effort buffs. OFA only good if the wave hits count.",
+            "description": "Auto-Loading to save time, Frenzy for no-effort buffs. OFA only good if the wave hits count. [Season 16]",
             "hash": 4096943616,
             "name": "Auto Frenzy For All",
             "plugs": [
@@ -16335,7 +16335,7 @@
             ]
         },
         {
-            "description": "Shield breaker, shield maker (improved). Land Tank origit trait compliments oversheild.",
+            "description": "Shield breaker, shield maker. Land Tank origin trait compliments oversheild. [Season 16]",
             "hash": 4096943616,
             "name": "Shield breaker, shield maker",
             "plugs": [
@@ -17113,32 +17113,6 @@
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "One Stat for All: Wave frame might make good use of this perk combo (only if the wave hits count)",
-            "hash": 4096943616,
-            "name": "One Stat for All.",
-            "plugs": [
-                [
-                    3525010810,
-                    3798852852,
-                    3809316345
-                ],
-                [
-                    2822142346
-                ],
-                [
-                    1409206216,
-                    1583705720
-                ],
-                [
-                    859780267,
-                    4049631843
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
