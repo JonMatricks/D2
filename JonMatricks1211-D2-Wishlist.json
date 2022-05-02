@@ -2674,17 +2674,15 @@
             ]
         },
         {
-            "description": "Firefly\nMW: Range",
+            "description": "Rewind + Firefly.   \nMW: Range",
             "hash": 3186018373,
             "name": "Vision of Firefly",
             "plugs": [
                 [
                     839105230,
-                    1482024992
+                    4090651448
                 ],
                 [
-                    1968497646,
-                    1561002382,
                     1885400500
                 ],
                 [
@@ -4345,29 +4343,25 @@
             ]
         },
         {
-            "description": "When smothered by mobs and for crowd control.\nMW: handling, reload",
+            "description": "Think this is not the preferred pve shotty\nMW: handling, reload",
             "hash": 2855157553,
-            "name": "A Smothering Death",
+            "name": "",
             "plugs": [
                 [
                     466087222,
-                    1482024992,
-                    4090651448
+                    1332244541,
+                    1300023272
                 ],
                 [
                     791862061,
-                    106909392,
-                    3177308360,
                     3142289711
                 ],
                 [
                     4071163871,
-                    1631667848,
                     3161816588
                 ],
                 [
-                    4104185692,
-                    3708227201
+                    4104185692
                 ]
             ],
             "tags": [
@@ -6468,21 +6462,17 @@
             ]
         },
         {
-            "description": "PvE godroll. For shooting and tossing grenades, with added benefit of elemental weapon damage.",
+            "description": "Divine Judgement (PvE godroll): For shooting and grenades, with added benefit of elemental weapon damage.  MW: Range.",
             "hash": 1476654960,
             "name": "Divine Judgement",
             "plugs": [
                 [
                     1926090095,
-                    1926090093,
                     1926090094,
                     1926090092
                 ],
                 [
-                    3142289711,
-                    106909392,
-                    3230963543,
-                    3177308360
+                    3142289711
                 ],
                 [
                     3523296417
@@ -6492,29 +6482,24 @@
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
         {
-            "description": "Give your enemies a nice surprise with Timed Payload.",
+            "description": "Delayed Judgement: Timed Payload. MW: Range",
             "hash": 1476654960,
             "name": "Delayed Judgement",
             "plugs": [
                 [
                     1926090095,
-                    1926090093,
                     1926090094,
                     1926090092
                 ],
                 [
                     3142289711,
-                    106909392,
-                    3230963543,
-                    3177308360
+                    106909392
                 ],
                 [
-                    1195158366,
                     3523296417
                 ],
                 [
@@ -6526,22 +6511,16 @@
             ]
         },
         {
-            "description": "For elemental damage with primary and grenadiers. This (and Judgement) is one of two weapons with this perk combo.\nS15",
+            "description": "Dragon Breath: For grenadiers & elemental damage w/ primary. This (and Judgement) is one of two weapons with this perk combo.  MW: Range",
             "hash": 507038823,
             "name": "Dragon Breath",
             "plugs": [
                 [
                     1467527085,
-                    839105230,
-                    1840239774,
-                    1482024992,
-                    1392496348
+                    4090651448
                 ],
                 [
-                    1561002382,
-                    1968497646,
-                    1885400500,
-                    3230963543
+                    1885400500
                 ],
                 [
                     3523296417
@@ -6551,24 +6530,18 @@
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
         {
-            "description": "For continuous combat and clearing.",
+            "description": "Deep Breath: For continuous shooting and clearing.  MW: Range",
             "hash": 507038823,
             "name": "Deep Breath",
             "plugs": [
                 [
-                    1467527085,
-                    839105230,
-                    1840239774,
-                    1392496348,
-                    1482024992
+                    4090651448
                 ],
                 [
-                    1968497646,
                     1885400500
                 ],
                 [
@@ -6580,7 +6553,6 @@
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
@@ -7223,51 +7195,46 @@
             ]
         },
         {
-            "description": "Osmosis for any element and firefly for the boom. HIR is 2nd best for 4th slot.\nMW: range, stability",
+            "description": "Osmosis for elemental kinetic and Firefly for the boom. \nMW: range.",
             "hash": 3653573172,
             "name": "Praedyth's Retribution",
             "plugs": [
                 [
                     4090651448,
-                    1482024992,
-                    1392496348,
-                    1840239774
-                ],
-                [
-                    3142289711,
-                    106909392
-                ],
-                [
-                    1774574192
-                ],
-                [
-                    3824105627,
-                    2213355989
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "An attempt at a PvP roll for a primary sniper.\nMW: handling, range",
-            "hash": 3653573172,
-            "name": "Praedyth's Redress",
-            "plugs": [
-                [
-                    1840239774,
-                    1482024992
+                    839105230
                 ],
                 [
                     3142289711
                 ],
                 [
-                    706527188,
-                    588594999
+                    1774574192
                 ],
                 [
-                    47981717,
                     3824105627
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "An attempt at a PvP roll for a primary sniper.\nMW: handling",
+            "hash": 3653573172,
+            "name": "Praedyth's Redress",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    47981717
                 ]
             ],
             "tags": [
@@ -7275,20 +7242,16 @@
             ]
         },
         {
-            "description": "G-PvE. Firefly w/ Osmosis.\nMW: Range, Handling",
+            "description": "G-PvE. Firefly w/ Osmosis.\nMW: Range",
             "hash": 1987769101,
             "name": "Revenge Lost",
             "plugs": [
                 [
                     4090651448,
-                    1482024992,
-                    1840239774,
-                    1392496348
+                    839105230
                 ],
                 [
-                    3142289711,
-                    106909392,
-                    3177308360
+                    3142289711
                 ],
                 [
                     1774574192
@@ -7308,19 +7271,16 @@
             "plugs": [
                 [
                     1840239774,
-                    1482024992
+                    839105230
                 ],
                 [
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
-                    588594999,
                     706527188
                 ],
                 [
-                    47981717,
-                    4104185692
+                    47981717
                 ]
             ],
             "tags": [
@@ -7633,47 +7593,38 @@
             ]
         },
         {
-            "description": "\"Hand of Fate\" [S15]: X Payload for double boom gun or Osmosis for elemental boom-gun.\nMW: range, handling, or reload?",
+            "description": "Hand of Fate: Explosive Payload + Firefly for double boom gun.\nMW: range",
             "hash": 2171478765,
             "name": "Hand of Fate",
             "plugs": [
                 [
                     3250034553,
-                    1482024992,
-                    4090651448,
-                    1840239774
+                    4090651448
                 ],
                 [
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
-                    3038247973,
-                    1774574192
+                    3038247973
                 ],
                 [
                     3824105627
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "\"Twist of Fate\" [S15]: Rewind Rounds to save reload time. \nMW: range or reload?",
+            "description": "Twist of Fate: Rewind Rounds to save reload time. \nMW: range",
             "hash": 2171478765,
             "name": "Twist of Fate",
             "plugs": [
                 [
-                    1840239774,
-                    1392496348,
-                    1482024992,
                     4090651448,
                     3250034553
                 ],
                 [
-                    3230963543,
                     3142289711,
                     106909392
                 ],
@@ -7681,8 +7632,7 @@
                     3418782618
                 ],
                 [
-                    3824105627,
-                    4104185692
+                    3824105627
                 ]
             ],
             "tags": [
@@ -8099,27 +8049,25 @@
             ]
         },
         {
-            "description": "for PvE sniping and long range combat",
+            "description": "Long Walk on The Beach: For team play, use when near allies. MW: Range",
             "hash": 3326850591,
-            "name": "The Long Shot",
+            "name": "The Long Walk on The Beach",
             "plugs": [
                 [
-                    3661387068,
                     839105230,
-                    4090651448,
-                    1392496348,
-                    1482024992
+                    4090651448
                 ],
                 [
-                    1968497646,
-                    1885400500
+                    1885400500,
+                    1087426260,
+                    2420895100
                 ],
                 [
-                    1168162263,
-                    2284787283
+                    2284787283,
+                    3643424744
                 ],
                 [
-                    4104185692
+                    1771339417
                 ]
             ],
             "tags": [
@@ -8127,60 +8075,24 @@
             ]
         },
         {
-            "description": "For team play, use when near allies.",
-            "hash": 3326850591,
-            "name": "The Long Walk on The Beach",
-            "plugs": [
-                [
-                    3661387068,
-                    839105230,
-                    4090651448,
-                    1840239774,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    1968497646,
-                    1561002382,
-                    1885400500,
-                    3230963543
-                ],
-                [
-                    2621346526
-                ],
-                [
-                    1771339417
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "PVP"
-            ]
-        },
-        {
-            "description": "Run 'n gun, mostly PvP. Or what I imagine sniping in PvP is like, since I can't do that.",
+            "description": "The Long Run: Run 'n gun, PvP. Or what I imagine sniping in PvP is like, since I can't do that.",
             "hash": 3326850591,
             "name": "The Long Run",
             "plugs": [
                 [
-                    3661387068,
                     839105230,
                     4090651448,
-                    1840239774,
-                    1392496348,
-                    1482024992
+                    1840239774
                 ],
                 [
-                    1968497646
+                    1885400500
                 ],
                 [
                     3161816588,
-                    2450788523
+                    3643424744
                 ],
                 [
-                    706527188,
-                    957782887,
-                    588594999
+                    957782887
                 ]
             ],
             "tags": [
@@ -8246,33 +8158,6 @@
             ]
         },
         {
-            "description": "For quick plays in PvP or run 'n gun PvE.",
-            "hash": 1476654960,
-            "name": "Snap Judgement",
-            "plugs": [
-                [
-                    1926090095,
-                    1926090093,
-                    1926090094,
-                    1926090092
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    3161816588
-                ],
-                [
-                    588594999,
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP",
-                "PVE"
-            ]
-        },
-        {
             "description": "For those who use bows in PvP. \nCombat bows: minimize draw time (maximize draw speed), use Swashbuckler for close quarters, explosive perks if possible, or anything that compliments your play style (e.g. demolitionist). MW: draw time",
             "hash": 1621657423,
             "name": "Second Wind",
@@ -8300,23 +8185,15 @@
             ]
         },
         {
-            "description": "For more precision, stability when firing.",
+            "description": "Demigodroll",
             "hash": 507038823,
-            "name": "Bated Breath",
+            "name": "grenades",
             "plugs": [
                 [
-                    839105230,
-                    1392496348,
-                    1482024992
+                    3523296417
                 ],
                 [
-                    1885400500
-                ],
-                [
-                    1359896290
-                ],
-                [
-                    2846385770
+                    1774574192
                 ]
             ],
             "tags": [
@@ -8379,18 +8256,16 @@
             ]
         },
         {
-            "description": "Vorpal now only +10% to bosses. Need a vorpal solar rocket, tho. Alloy casing for reload/DPS.\nMW: Velocity, Blast Radius",
+            "description": "Vorpal now only +10% to bosses (S16). Need a vorpal solar rocket, tho. \nMW: Velocity or Blast Radius",
             "hash": 4050645223,
             "name": "Hezen Vorpal",
             "plugs": [
                 [
                     1478423395,
-                    3525010810,
-                    1844523823
+                    3525010810
                 ],
                 [
-                    2985827016,
-                    2822142346
+                    3796465595
                 ],
                 [
                     3977735242
@@ -8404,32 +8279,32 @@
             ]
         },
         {
-            "description": "PvE godroll (according to me). Maximum explosive damage. Clusterbomb for clearing or Lasting Impression for +20% dmg \nMW: Handling, Reload",
+            "description": "Maximum explosive damage. Clusterbomb for clearing, overflow for deeper clip. \nMW: Velocity or Blast Radius",
             "hash": 4050645223,
             "name": "Hezen Veneration",
             "plugs": [
                 [
                     1478423395,
-                    1844523823,
                     981914802,
                     3525010810
                 ],
                 [
                     1996142143,
-                    2985827016,
                     3796465595
                 ],
                 [
-                    3977735242
+                    3643424744
+                ],
+                [
+                    1275731761
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "godroll, also light.gg faves.\nMW: Range",
+            "description": "Subsistent Measure. Continuous shooting & firefly explosions.\nMW: Range",
             "hash": 471518543,
             "name": "Subsistent Measure",
             "plugs": [
@@ -8449,34 +8324,6 @@
             ],
             "tags": [
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "demigodrolls, Light.gg 2nd faves\nMW: Reload?",
-            "hash": 471518543,
-            "name": "Re-Measure",
-            "plugs": [
-                [
-                    839105230,
-                    1467527085,
-                    4090651448
-                ],
-                [
-                    106909392,
-                    1087426260,
-                    2420895100
-                ],
-                [
-                    3418782618,
-                    1820235745
-                ],
-                [
-                    2213355989,
-                    3824105627
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -9342,30 +9189,26 @@
             ]
         },
         {
-            "description": "Subsistence roll. \nMW: stability, range",
+            "description": "Subsistence roll. \nMW: Range",
             "hash": 2481758391,
             "name": "Subsistent Darkness",
             "plugs": [
                 [
                     839105230,
-                    1392496348,
-                    1482024992,
-                    1840239774,
                     4090651448
                 ],
                 [
-                    1968497646
+                    1885400500
                 ],
                 [
                     1820235745
                 ],
                 [
-                    3425386926,
-                    4049631843
+                    3425386926
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -10650,7 +10493,7 @@
             ]
         },
         {
-            "description": "Emphasis on mobility and clearing.\nMW: Impact?\n(JonhMatricks#1211)",
+            "description": "Emphasis on mobility and clearing.\nMW: Impact",
             "hash": 3366545721,
             "name": "Assassin's Wind",
             "plugs": [
@@ -10675,7 +10518,7 @@
             ]
         },
         {
-            "description": "(JonhMatricks#1211)\nMW: Impact",
+            "description": "Relentless ad clear.\nMW: Impact",
             "hash": 3366545721,
             "name": "Relentless Strikes",
             "plugs": [
@@ -10694,8 +10537,7 @@
                     1749209109
                 ],
                 [
-                    3708227201,
-                    354401740
+                    3708227201
                 ]
             ],
             "tags": [
@@ -11012,15 +10854,15 @@
             ]
         },
         {
-            "description": "[jonmatricks#1211] Godroll (or demigodroll)\nMW: Handling, Range\nBest basestats of shotguns (I currently have)\nbasestat:impact:>=70 basestat:aimassist:>=60 basestat:handling:>=50",
+            "description": "Good Heritage:  demigodroll?\nMW: Range",
             "hash": 4248569242,
             "name": "Good Heritage",
             "plugs": [
                 [
                     4090651448,
                     3250034553,
-                    1467527085,
-                    1840239774
+                    1840239774,
+                    202670084
                 ],
                 [
                     791862061,
@@ -11030,17 +10872,15 @@
                     1523832109
                 ],
                 [
-                    2450788523,
                     957782887
                 ]
             ],
             "tags": [
-                "PVE",
-                "GodPVE"
+                "PVE"
             ]
         },
         {
-            "description": "[jonmatricks#1211, s15] PvP\nMW: Handling, Range\nBest basestats of shotguns (I currently have)\nbasestat:impact:>=70 basestat:aimassist:>=60 basestat:handling:>=50",
+            "description": "PvP.\nMW: Handling, Range",
             "hash": 4248569242,
             "name": "PvP Heritage",
             "plugs": [
@@ -11051,7 +10891,6 @@
                     4090651448
                 ],
                 [
-                    106909392,
                     3142289711,
                     791862061
                 ],
@@ -11063,23 +10902,23 @@
                 ]
             ],
             "tags": [
-                "GodPVP"
+                "PVP"
             ]
         },
         {
-            "description": "Special perk edition.\nMW: ??",
+            "description": "For Posterity: unique perk combo.\nMW: Range",
             "hash": 3281285075,
             "name": "For Posterity",
             "plugs": [
                 [
-                    1392496348,
                     1482024992,
-                    4090651448
+                    4090651448,
+                    202670084,
+                    1467527085,
+                    3250034553
                 ],
                 [
-                    2420895100,
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
                     1523832109
@@ -11089,33 +10928,30 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "[jonmatricks#1211, s15] \nDamage buff perks.\nMW: ??",
+            "description": "Rampage. demi-godroll.\nMW: Range",
             "hash": 3281285075,
             "name": "Damage Buffs",
             "plugs": [
                 [
-                    1392496348,
-                    1482024992,
                     4090651448,
-                    1840239774
+                    839105230,
+                    1467527085,
+                    202670084,
+                    3250034553
                 ],
                 [
                     106909392,
-                    3142289711,
-                    3177308360
+                    3142289711
                 ],
                 [
-                    1523832109,
-                    247725512,
-                    3096702027
+                    1523832109
                 ],
                 [
-                    3425386926,
-                    4049631843
+                    3425386926
                 ]
             ],
             "tags": [
@@ -11206,7 +11042,7 @@
             ]
         },
         {
-            "description": "PvE flame scout w/ perks unique to this gun.\nMW: Stability, Handling",
+            "description": "PvE flame scout w/ perks unique to this gun.\nMW: Range",
             "hash": 1392919471,
             "name": "Trustee",
             "plugs": [
@@ -11850,7 +11686,7 @@
             ]
         },
         {
-            "description": "PvE.\nMW: Range, Reload, Handling",
+            "description": "Explosive Elemental in primary slot.\nMW: Range",
             "hash": 1216319404,
             "name": "Lost Fate",
             "plugs": [
@@ -11872,24 +11708,20 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
                 "PVE"
             ]
         },
         {
-            "description": "PvE. Maybe PvP\nMW: Range, Reload",
+            "description": "Explosive Firefly. PvE. Maybe PvP\nMW: Range",
             "hash": 1216319404,
             "name": "Fate Lost",
             "plugs": [
                 [
                     4090651448,
-                    1482024992,
-                    3250034553,
-                    1840239774
+                    3250034553
                 ],
                 [
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
                     3038247973
@@ -11899,102 +11731,20 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "PvP Fatebringer\nMW: Handling, Reload",
-            "hash": 1216319404,
-            "name": "PvP Fatebringer",
-            "plugs": [
-                [
-                    1840239774,
-                    1482024992,
-                    839105230
-                ],
-                [
-                    3142289711,
-                    106909392,
-                    2420895100
-                ],
-                [
-                    3038247973
-                ],
-                [
-                    4104185692
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "non-Osmosis PvE\nMW: Range, Handling",
+            "description": "non-Osmosis PvE. light.gg godroll.\nMW: Range, Handling",
             "hash": 1987769101,
             "name": "Lost Revenge",
             "plugs": [
                 [
                     4090651448,
-                    1482024992,
-                    1840239774,
-                    1392496348
+                    839105230
                 ],
                 [
-                    3142289711,
-                    106909392,
-                    3177308360
-                ],
-                [
-                    2866798147,
-                    3418782618
-                ],
-                [
-                    3824105627
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "PvE",
-            "hash": 690668916,
-            "name": "Vision of Time",
-            "plugs": [
-                [
-                    4090651448,
-                    1482024992,
-                    1392496348
-                ],
-                [
-                    1968497646,
-                    1561002382
-                ],
-                [
-                    2387244414,
-                    3418782618
-                ],
-                [
-                    4267945040
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "PvE.\nMW: Range",
-            "hash": 690668916,
-            "name": "Lost Confluence",
-            "plugs": [
-                [
-                    1482024992,
-                    4090651448,
-                    1840239774,
-                    1392496348
-                ],
-                [
-                    1968497646
+                    3142289711
                 ],
                 [
                     3418782618
@@ -12004,7 +11754,31 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Rewind time lost: Firefly + Rewind Rounds is light.gg preferred\nMW: Range",
+            "hash": 690668916,
+            "name": "Vision of Firefly",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         },
         {
@@ -12081,26 +11855,17 @@
             ]
         },
         {
-            "description": "Reloader\nMW: Reload",
+            "description": "demigodrolls",
             "hash": 1216319404,
-            "name": "Rewind Time",
+            "name": "meh",
             "plugs": [
                 [
-                    4090651448,
-                    1482024992,
-                    3250034553,
-                    1840239774
+                    3418782618,
+                    3038247973,
+                    1774574192
                 ],
                 [
-                    106909392,
-                    3230963543
-                ],
-                [
-                    3418782618
-                ],
-                [
-                    4104185692,
-                    1015611457
+                    3824105627
                 ]
             ],
             "tags": [
@@ -12108,13 +11873,11 @@
             ]
         },
         {
-            "description": "Tempt Fate: PvP. \nMW: I have no idea. Handling? Range? [Season 15]",
+            "description": "\"insert fate pun\": Osmosis + firefly for elemental explosions. \nMW: Range",
             "hash": 2171478765,
-            "name": "Tempt Fate",
+            "name": "Tempt Fate - S16",
             "plugs": [
                 [
-                    1840239774,
-                    1482024992,
                     3250034553,
                     4090651448
                 ],
@@ -12123,15 +11886,14 @@
                     106909392
                 ],
                 [
-                    3038247973
+                    1774574192
                 ],
                 [
-                    4104185692,
-                    47981717
+                    3824105627
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVE"
             ]
         },
         {
@@ -12635,16 +12397,15 @@
             ]
         },
         {
-            "description": "Golden Tricorn needs Arc ability matching damage (+50% in PvE).\nMW: Handling",
+            "description": "Bullfighter (PvE): Golden Tricorn needs Arc ability matching damage (for +50% in PvE).\nMW: Handling",
             "hash": 2563012876,
             "name": "Bullfighter",
             "plugs": [
                 [
-                    4090651448,
-                    1482024992
+                    1482024992,
+                    1332244541
                 ],
                 [
-                    106909392,
                     791862061,
                     3142289711
                 ],
@@ -12852,9 +12613,9 @@
             ]
         },
         {
-            "description": "Eyes Luna. Precision kills. MW: Range, Reload [S16]",
+            "description": "Young Hawk-Moon: Precision kills. MW: Range [S16]",
             "hash": 235827225,
-            "name": "Eyes Luna",
+            "name": "Eyas-Luna",
             "plugs": [
                 [
                     1926090092,
@@ -12929,9 +12690,9 @@
             ]
         },
         {
-            "description": "Grenadier Swordsman?.\nMW: Impact, obvs",
+            "description": "Unrelenting Reaction. Kill to heal. MW: Impact, obvs",
             "hash": 2139640995,
-            "name": "Hero of Add Clear",
+            "name": "Hero of Ad Clear",
             "plugs": [
                 [
                     2827049491,
@@ -12943,10 +12704,9 @@
                     269888150
                 ],
                 [
-                    3523296417
+                    3108830275
                 ],
                 [
-                    354401740,
                     2396489472
                 ]
             ],
@@ -13197,55 +12957,47 @@
             ]
         },
         {
-            "description": "1000 Meter Stare. MW: Range, Handling? [s15]",
+            "description": "1000 Meter Stare. MW: Range",
             "hash": 4164201232,
             "name": "1000m Stare",
             "plugs": [
                 [
-                    3250034553,
-                    4090651448,
                     839105230
                 ],
                 [
-                    3142289711,
-                    3177308360
+                    3142289711
                 ],
                 [
-                    2866798147,
-                    3400784728
+                    2866798147
                 ],
                 [
-                    2848615171,
-                    2610012052
+                    2848615171
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "1000 Yard Run: Keep it moving. [s15]",
+            "description": "1000 Yard Dash: Quickdraw & snapshot for speed.  MW: Range",
             "hash": 4164201232,
-            "name": "1000 Yard Run",
+            "name": "1000 Yard Dash",
             "plugs": [
                 [
-                    1840239774,
-                    839105230,
-                    1482024992
+                    839105230
                 ],
                 [
-                    106909392,
-                    3230963543
+                    3142289711
                 ],
                 [
-                    1428297954
+                    706527188
                 ],
                 [
-                    588594999
+                    957782887
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -13385,54 +13137,47 @@
             ]
         },
         {
-            "description": "Golden Tricorn needs Arc ability matching damage (+45% in PvP).\nCQC, melee",
+            "description": "buleberries.gg likes Threat Detector, light.gg prefers Perpetual Motion, but top combo is threat + opening.    MW: Range",
             "hash": 2563012876,
             "name": "Mano 64",
             "plugs": [
                 [
-                    466087222,
-                    1047830412,
-                    4090651448,
-                    1300023272
+                    1332244541,
+                    1482024992,
+                    466087222
                 ],
                 [
-                    791862061,
-                    106909392
+                    3142289711
                 ],
                 [
                     4071163871
                 ],
                 [
-                    2679249093,
-                    4082225868
+                    47981717
                 ]
             ],
             "tags": [
-                "PVE",
-                "PVP"
+                "GodPVP"
             ]
         },
         {
-            "description": "PvE Scout.\nMW: Stability, Handling",
+            "description": "Light.gg fave perk combo\nMW: Range",
             "hash": 1392919471,
             "name": "Trustee Shooter",
             "plugs": [
                 [
-                    1392496348,
-                    1482024992,
-                    4090651448
+                    4090651448,
+                    839105230
                 ],
                 [
-                    3177308360,
                     3142289711,
                     106909392
                 ],
                 [
-                    2387244414,
-                    1168162263
+                    1523832109
                 ],
                 [
-                    3201496230
+                    2213355989
                 ]
             ],
             "tags": [
@@ -13591,62 +13336,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "Keep moving",
-            "hash": 2563012876,
-            "name": "Mobile 64",
-            "plugs": [
-                [
-                    466087222,
-                    1047830412,
-                    4090651448,
-                    1300023272
-                ],
-                [
-                    791862061,
-                    106909392,
-                    3142289711
-                ],
-                [
-                    1428297954
-                ],
-                [
-                    2450788523
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "PvP??\nMW: Handling, Range\nBest basestats of shotguns (I currently have)\nbasestat:impact:>=70 basestat:aimassist:>=60 basestat:handling:>=50",
-            "hash": 4248569242,
-            "name": "PvP Heritage 2",
-            "plugs": [
-                [
-                    1840239774,
-                    3250034553,
-                    1467527085,
-                    4090651448
-                ],
-                [
-                    106909392,
-                    3142289711,
-                    791862061
-                ],
-                [
-                    1866048759,
-                    3161816588
-                ],
-                [
-                    2450788523,
-                    588594999
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -15731,7 +15420,7 @@
             ]
         },
         {
-            "description": "Sub-missiongun",
+            "description": "SMG: Submissiongun. MW: Range.",
             "hash": 3886416794,
             "name": "Sub-missiongun",
             "plugs": [
@@ -15740,8 +15429,7 @@
                     4090651448
                 ],
                 [
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
                     1820235745,
@@ -16100,25 +15788,22 @@
             ]
         },
         {
-            "description": "Overflowing Darkness\nMW: stability, range",
+            "description": "Overflowing Darkness\nMW: Range",
             "hash": 2481758391,
             "name": "Overflowing Darkness",
             "plugs": [
                 [
                     839105230,
-                    1392496348,
-                    1482024992,
                     4090651448
                 ],
                 [
-                    1968497646
+                    1885400500
                 ],
                 [
                     3643424744
                 ],
                 [
-                    3425386926,
-                    4049631843
+                    3425386926
                 ]
             ],
             "tags": [
@@ -17303,7 +16988,7 @@
         {
             "description": "demigodroll. MW: Range",
             "hash": 4230965989,
-            "name": "Ideal roll",
+            "name": "Not ideal roll",
             "plugs": [
                 [
                     4090651448,
@@ -17561,6 +17246,330 @@
                 [
                     1546637391,
                     3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "500 Meter Stare. PvE demigodroll. MW: Range",
+            "hash": 4164201232,
+            "name": "1000m Stare",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    280464955,
+                    2866798147
+                ],
+                [
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 507038823,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    4104185692,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Demolition Junkie. MW: Range",
+            "hash": 507038823,
+            "name": "Demolition Junkie",
+            "plugs": [
+                [
+                    1467527085,
+                    4090651448
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "preferred on light.gg",
+            "hash": 2855157553,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541,
+                    1047830412
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "preferred on blueberries.gg",
+            "hash": 2855157553,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412,
+                    1300023272,
+                    1332244541
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 2481758391,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    3643424744,
+                    1820235745
+                ],
+                [
+                    3425386926,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 2171478765,
+            "name": "",
+            "plugs": [
+                [
+                    3038247973,
+                    1774574192
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "see 631439337",
+            "hash": 631439337,
+            "name": "",
+            "plugs": [
+                [
+                    3161816588,
+                    3418782618
+                ],
+                [
+                    1546637391,
+                    47981717
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "light.gg godroll. MW: Range",
+            "hash": 3653573172,
+            "name": "Praedyth's Rewind",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 3653573172,
+            "name": "",
+            "plugs": [
+                [
+                    1774574192,
+                    3418782618
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 1987769101,
+            "name": "",
+            "plugs": [
+                [
+                    1774574192,
+                    3418782618
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "see regular version: 4050645223",
+            "hash": 1921159786,
+            "name": "",
+            "plugs": [
+                [
+                    3643424744,
+                    3977735242
+                ],
+                [
+                    1275731761,
+                    1546637391
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "demigodroll",
+            "hash": 471518543,
+            "name": "",
+            "plugs": [
+                [
+                    3418782618,
+                    1820235745
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 1476654960,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    1774574192
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Unique Heritage: Only gun to roll with these perks. MW: Range",
+            "hash": 4248569242,
+            "name": "Unique Heritage",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 3281285075,
+            "name": "meh",
+            "plugs": [
+                [
+                    1523832109
+                ],
+                [
+                    3201496230,
+                    3425386926
                 ]
             ],
             "tags": [
