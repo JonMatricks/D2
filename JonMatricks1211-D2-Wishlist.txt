@@ -645,6 +645,37 @@ dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,957782887
 dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,957782887
 
 
+// The Title - Vorpal Title (pve)
+//notes: Vorpal Title tags:pve
+dimwishlist:item=294129361&perks=839105230,1885400500,4071163871,1546637391,1702976605
+
+
+// The Title - Melee Title (pve)
+//notes: Melee Title tags:pve
+dimwishlist:item=294129361&perks=839105230,1885400500,1631667848,4082225868,1702976605
+
+
+// The Title - One Stat For All Title (pve)
+//notes: One Stat For All Title tags:pve
+dimwishlist:item=294129361&perks=839105230,1885400500,1583705720,4049631843,1702976605
+
+
+// The Title - demigodroll? (pve)
+//notes: demigodroll? tags:pve
+dimwishlist:item=294129361&perks=4071163871,3708227201
+dimwishlist:item=294129361&perks=4071163871,1546637391
+
+
+// The Title (pve)
+//notes: demigodroll? tags:pve
+dimwishlist:item=294129361&perks=1583705720,4049631843
+
+
+// The Title (pve)
+//notes: demigodroll? tags:pve
+dimwishlist:item=294129361&perks=1631667848,4082225868
+
+
 // Pointed Inquiry - Anti-Barrier (god-pve)
 //notes: Anti-Barrier Shield Breaker, great for Barrier Champs. tags:god-pve
 dimwishlist:item=297296830&perks=839105230,1968497646,3096702027,3431277734,1471995745

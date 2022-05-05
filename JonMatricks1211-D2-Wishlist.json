@@ -17575,6 +17575,130 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Vorpal Title",
+            "hash": 294129361,
+            "name": "Vorpal Title",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Melee Title",
+            "hash": 294129361,
+            "name": "Melee Title",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1631667848
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "One Stat For All Title",
+            "hash": 294129361,
+            "name": "One Stat For All Title",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1583705720
+                ],
+                [
+                    4049631843
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll?",
+            "hash": 294129361,
+            "name": "demigodroll?",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    3708227201,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll?",
+            "hash": 294129361,
+            "name": "",
+            "plugs": [
+                [
+                    1583705720
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll?",
+            "hash": 294129361,
+            "name": "",
+            "plugs": [
+                [
+                    1631667848
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
