@@ -7914,79 +7914,44 @@
             ]
         },
         {
-            "description": "For stability and precision kills\nMW: Charge Time",
+            "description": "Demi-godroll. MW: Handling",
             "hash": 1399243961,
-            "name": "Reed's Headstone",
+            "name": "demigodroll",
             "plugs": [
                 [
-                    1392496348,
-                    1482024992,
-                    839105230,
-                    3250034553
+                    3400784728
                 ],
                 [
-                    689005463,
-                    2969185026,
-                    1687452232
+                    1771339417
                 ],
                 [
-                    2284787283
-                ],
-                [
-                    124408337
+                    3988215619
                 ]
             ],
             "tags": [
-                "PVE",
-                "GodPVE"
+                "PVE"
             ]
         },
         {
-            "description": "For Trials of Osiris",
-            "hash": 1399243961,
-            "name": "Reed's Trial",
-            "plugs": [
-                [
-                    1840239774
-                ],
-                [
-                    1687452232,
-                    689005463
-                ],
-                [
-                    706527188
-                ],
-                [
-                    1264398905,
-                    124408337
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For other PvE play",
+            "description": "Pre Origin Perk rolls",
             "hash": 1399243961,
             "name": "No Ragrets",
             "plugs": [
                 [
                     1840239774,
                     839105230,
-                    1392496348,
-                    1482024992,
                     4090651448
                 ],
                 [
                     1687452232,
-                    689005463
+                    2680121939
                 ],
                 [
                     2284787283
                 ],
                 [
-                    3425386926,
-                    1546637391
+                    1546637391,
+                    124408337
                 ]
             ],
             "tags": [
@@ -8869,14 +8834,13 @@
             ]
         },
         {
-            "description": "Precision perks.\nMW: Stability, range",
+            "description": "Precision perks.\nMW: Stability",
             "hash": 3658188704,
             "name": "Precise Message",
             "plugs": [
                 [
                     839105230,
-                    1392496348,
-                    1482024992
+                    4090651448
                 ],
                 [
                     1885400500
@@ -8886,38 +8850,14 @@
                     1168162263
                 ],
                 [
-                    4049631843,
                     3047969693
+                ],
+                [
+                    2988596335
                 ]
             ],
             "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Attempt at a Trials / PvP build\nMW: Handling",
-            "hash": 3658188704,
-            "name": "Bad Message",
-            "plugs": [
-                [
-                    839105230,
-                    1840239774
-                ],
-                [
-                    2420895100,
-                    3230963543
-                ],
-                [
-                    2387244414,
-                    2450788523
-                ],
-                [
-                    1264398905,
-                    4104185692
-                ]
-            ],
-            "tags": [
-                "PVP"
+                "GodPVE"
             ]
         },
         {
@@ -9528,34 +9468,6 @@
                 [
                     3425386926,
                     4082225868
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Focus on buffs for final blows",
-            "hash": 3658188704,
-            "name": "Kill The Messenger",
-            "plugs": [
-                [
-                    839105230,
-                    1840239774,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    1968497646,
-                    1561002382
-                ],
-                [
-                    1195158366,
-                    1570042021
-                ],
-                [
-                    4104185692,
-                    4049631843
                 ]
             ],
             "tags": [
@@ -15060,7 +14972,7 @@
             ]
         },
         {
-            "description": "Precision and stability",
+            "description": "Precision and stability, based on light.gg. MW: Range",
             "hash": 2638190703,
             "name": "Precision and stability",
             "plugs": [
@@ -15083,8 +14995,8 @@
                 ]
             ],
             "tags": [
-                "PVE",
-                "GodPVP"
+                "GodPVP",
+                "GodPVE"
             ]
         },
         {
@@ -15109,7 +15021,6 @@
                     2458213969
                 ],
                 [
-                    4091460919,
                     2988596335
                 ]
             ],
@@ -17694,6 +17605,136 @@
                 ],
                 [
                     4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigod roll",
+            "hash": 3658188704,
+            "name": "",
+            "plugs": [
+                [
+                    247725512,
+                    1168162263
+                ],
+                [
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Tap Line. MW: Handling, Range",
+            "hash": 1399243961,
+            "name": "Tap Line",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    1687452232,
+                    2680121939
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1771339417
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Godroll Summoner. MW: Range",
+            "hash": 1907698332,
+            "name": "Mandatory Summons",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    2988596335
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Failed Summons. Demigodroll.",
+            "hash": 1907698332,
+            "name": "Failed Summons",
+            "plugs": [
+                [
+                    3643424744
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    2988596335
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "AP Embrace.",
+            "hash": 2638190703,
+            "name": "AP Embrace.",
+            "plugs": [
+                [
+                    1968497646
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    2988596335
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 2638190703,
+            "name": "",
+            "plugs": [
+                [
+                    3400784728
+                ],
+                [
+                    2896038713
+                ],
+                [
+                    2988596335
                 ]
             ],
             "tags": [
