@@ -4615,11 +4615,12 @@ dimwishlist:item=1216319404&perks=1482024992,3142289711,1774574192,3824105627
 dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,3824105627
 
 
-// Fatebringer (Timelost) - meh (pve)
-//notes: demigodrolls tags:pve
-dimwishlist:item=1216319404&perks=3418782618,3824105627
-dimwishlist:item=1216319404&perks=3038247973,3824105627
-dimwishlist:item=1216319404&perks=1774574192,3824105627
+// Fatebringer (Timelost) - demigodroll (pve)
+//notes: demigodroll tags:pve
+dimwishlist:item=1216319404&perks=3142289711,1774574192,3824105627
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627
+dimwishlist:item=1216319404&perks=106909392,1774574192,3824105627
+dimwishlist:item=1216319404&perks=106909392,3038247973,3824105627
 
 
 // Sweet Sorrow - Such... (pve,god-pve)

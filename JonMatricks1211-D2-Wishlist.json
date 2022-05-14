@@ -11767,24 +11767,6 @@
             ]
         },
         {
-            "description": "demigodrolls",
-            "hash": 1216319404,
-            "name": "meh",
-            "plugs": [
-                [
-                    3418782618,
-                    3038247973,
-                    1774574192
-                ],
-                [
-                    3824105627
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "\"insert fate pun\": Osmosis + firefly for elemental explosions. \nMW: Range",
             "hash": 2171478765,
             "name": "Tempt Fate - S16",
@@ -17853,6 +17835,27 @@
                 [
                     1546637391,
                     1354429876
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 1216319404,
+            "name": "demigodroll",
+            "plugs": [
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    1774574192,
+                    3038247973
+                ],
+                [
+                    3824105627
                 ]
             ],
             "tags": [
