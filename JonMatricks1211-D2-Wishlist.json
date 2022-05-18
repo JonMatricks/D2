@@ -192,21 +192,20 @@
             ]
         },
         {
-            "description": "The best all-round kinetic auto rifle around (as of S14/15)\nMW: Range, Stability",
+            "description": "Chroma CRUSH: The best all-round kinetic auto rifle around (as of S14/15)\nMW: Range, Stability",
             "hash": 1119734784,
             "name": "Chroma CRUSH",
             "plugs": [
                 [
                     4090651448,
-                    1840239774,
                     1482024992,
-                    1392496348,
-                    839105230
+                    3250034553,
+                    839105230,
+                    1840239774
                 ],
                 [
-                    106909392,
-                    3177308360,
-                    3142289711
+                    3142289711,
+                    106909392
                 ],
                 [
                     1820235745
@@ -574,21 +573,18 @@
             ]
         },
         {
-            "description": "Subsistince build for continuous shooting and auto-renew buff.\nMW: Handling, Stability, Range",
+            "description": "Extraordinary Subsistence: For continuous shooting and low effort damage buff.\nMW: Range",
             "hash": 1097616550,
             "name": "Extraordinary Subsistence",
             "plugs": [
                 [
                     839105230,
                     4090651448,
-                    1840239774,
                     1482024992,
-                    1392496348
+                    3250034553
                 ],
                 [
                     106909392,
-                    3177308360,
-                    2420895100,
                     3142289711
                 ],
                 [
@@ -596,12 +592,10 @@
                 ],
                 [
                     3425386926,
-                    4049631843,
                     4104185692
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
@@ -2434,16 +2428,15 @@
             ]
         },
         {
-            "description": "Maximize charge time.\nMW: Charge time",
+            "description": "Quick PLUG: Maximize charge time. (updated for WQ)\nMW: Charge time",
             "hash": 534775659,
-            "name": "Fast PLUG",
+            "name": "Quick PLUG",
             "plugs": [
                 [
-                    1840239774,
-                    1482024992,
                     1392496348,
                     4090651448,
-                    3250034553
+                    3250034553,
+                    839105230
                 ],
                 [
                     689005463
@@ -2454,13 +2447,14 @@
                     1645158859
                 ],
                 [
-                    1799762209,
-                    1427256713
+                    2652708987
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
                 "PVE",
-                "GodPVE",
                 "PVP"
             ]
         },
@@ -2670,7 +2664,7 @@
             ]
         },
         {
-            "description": "Subsistence roll.\nMW: Range",
+            "description": "Jury Duty: the Subsistence roll.\nMW: Range.",
             "hash": 681067419,
             "name": "Jury Duty",
             "plugs": [
@@ -2698,7 +2692,7 @@
             ]
         },
         {
-            "description": "MW: Range",
+            "description": "Jury Selection: Rapid Hit + Payload is the best scout combo. May be only scout w/ Rapid Hit + Firefly. MW: Range",
             "hash": 681067419,
             "name": "Jury Selection",
             "plugs": [
@@ -2750,30 +2744,29 @@
             ]
         },
         {
-            "description": "",
+            "description": "Extraordinary Frenzy: Overflow + Frenzy. Light.gg fave (20% of perk combos). MW: Range",
             "hash": 1097616550,
-            "name": "Stable Rendition",
+            "name": "Extraordinary Frenzy",
             "plugs": [
                 [
                     4090651448,
-                    1840239774,
-                    3661387068,
-                    1392496348,
-                    1482024992
+                    839105230,
+                    3250034553,
+                    3661387068
                 ],
                 [
-                    3177308360
+                    3142289711,
+                    106909392
                 ],
                 [
-                    2387244414
+                    3643424744
                 ],
                 [
-                    3425386926,
-                    4049631843
+                    4104185692
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -3814,13 +3807,12 @@
                     1926090092
                 ],
                 [
-                    3177308360,
-                    3142289711
+                    3142289711,
+                    3177308360
                 ],
                 [
                     1168162263,
-                    3400784728,
-                    2946784966
+                    3400784728
                 ],
                 [
                     2848615171,
@@ -3830,35 +3822,6 @@
             "tags": [
                 "PVE",
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "Shoot, punch, run, etc.\nMW: handling",
-            "hash": 6857689,
-            "name": "Swashbuckler",
-            "plugs": [
-                [
-                    1926090094,
-                    1926090095,
-                    1926090092,
-                    1926090093
-                ],
-                [
-                    106909392,
-                    3230963543,
-                    3142289711,
-                    3177308360
-                ],
-                [
-                    1168162263,
-                    3161816588
-                ],
-                [
-                    4082225868
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -3948,24 +3911,22 @@
             ]
         },
         {
-            "description": "One For All for a nice long damage buff (~35%, 10 sec)\nMW: Range, reload",
+            "description": "Servant to All: One For All for a nice long damage buff (~35%, 10 sec)\nMW: Range, reload",
             "hash": 1107446438,
             "name": "Servant of All",
             "plugs": [
                 [
                     839105230,
                     4090651448,
-                    1840239774,
-                    1392496348,
-                    1482024992
+                    1392496348
                 ],
                 [
-                    3177308360,
-                    3142289711
+                    3142289711,
+                    106909392
                 ],
                 [
-                    1570042021,
-                    2450788523
+                    247725512,
+                    1820235745
                 ],
                 [
                     4049631843
@@ -5106,40 +5067,7 @@
             ]
         },
         {
-            "description": "",
-            "hash": 2891672170,
-            "name": "Zenoclast",
-            "plugs": [
-                [
-                    1482024992,
-                    466087222,
-                    1047830412
-                ],
-                [
-                    3177308360,
-                    3142289711,
-                    106909392,
-                    791862061
-                ],
-                [
-                    1556840489,
-                    2039302152,
-                    3161816588,
-                    2284787283,
-                    3300816228
-                ],
-                [
-                    3523296417,
-                    3425386926,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
+            "description": "Shield Break.",
             "hash": 2891672170,
             "name": "Shield Break",
             "plugs": [
@@ -5149,8 +5077,9 @@
                     1482024992
                 ],
                 [
-                    3177308360,
-                    3142289711
+                    3142289711,
+                    791862061,
+                    106909392
                 ],
                 [
                     3096702027
@@ -5164,17 +5093,16 @@
             ]
         },
         {
-            "description": "",
+            "description": "Punching. Popular perks.",
             "hash": 2891672170,
             "name": "Swashbuckler",
             "plugs": [
                 [
-                    1482024992,
                     1047830412,
-                    466087222
+                    466087222,
+                    1482024992
                 ],
                 [
-                    3177308360,
                     791862061,
                     106909392,
                     3142289711
@@ -5183,7 +5111,9 @@
                     1631667848
                 ],
                 [
-                    4082225868
+                    4082225868,
+                    2679249093,
+                    2360754333
                 ]
             ],
             "tags": [
@@ -6956,62 +6886,6 @@
             ]
         },
         {
-            "description": "John M. special\nMW: Handling",
-            "hash": 1119734784,
-            "name": "Crucible Rush",
-            "plugs": [
-                [
-                    4090651448,
-                    3250034553,
-                    1482024992
-                ],
-                [
-                    3142289711,
-                    106909392
-                ],
-                [
-                    588594999,
-                    1359896290
-                ],
-                [
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "GodPVP"
-            ]
-        },
-        {
-            "description": "For generating energy in very specific PvE use cases.\nMW: I don't care.",
-            "hash": 1119734784,
-            "name": "Energy Rush",
-            "plugs": [
-                [
-                    4090651448,
-                    1840239774,
-                    1482024992,
-                    1392496348
-                ],
-                [
-                    106909392,
-                    3177308360,
-                    3142289711
-                ],
-                [
-                    1820235745,
-                    1570042021,
-                    1359896290
-                ],
-                [
-                    2726471870,
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "PvP per Blueberries: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons (S14) and light.gg (S16)",
             "hash": 852551895,
             "name": "PvP",
@@ -7265,28 +7139,24 @@
             ]
         },
         {
-            "description": "For rapid reloads and kill clip buffs.  MW: Range, reload",
+            "description": "Hands-on Leader: Kills proc perks.  MW: Range",
             "hash": 1107446438,
             "name": "Hands-on Leader",
             "plugs": [
                 [
-                    1840239774,
-                    1482024992,
                     1392496348,
                     4090651448,
                     839105230
                 ],
                 [
                     106909392,
-                    3230963543
+                    3142289711
                 ],
                 [
-                    1168162263,
-                    247725512
+                    1570042021
                 ],
                 [
-                    2458213969,
-                    1015611457
+                    3425386926
                 ]
             ],
             "tags": [
@@ -7294,7 +7164,7 @@
             ]
         },
         {
-            "description": "Subsistence for continuous kills. My personal preference is to have osmosis for element damage in the primary slot. Auto-triggered damage buffs like Rampage, Frenzy, maybe One-For-All also work.\nMW: range, reload",
+            "description": "My personal preference is to have osmosis for element damage in the primary slot.\nMW: range, reload",
             "hash": 1107446438,
             "name": "Servant of Godrolls",
             "plugs": [
@@ -7304,19 +7174,18 @@
                     839105230
                 ],
                 [
-                    3177308360,
-                    3142289711
+                    3142289711,
+                    106909392
                 ],
                 [
-                    1820235745
+                    247725512
                 ],
                 [
                     1774574192
                 ]
             ],
             "tags": [
-                "GodPVE",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -7852,9 +7721,9 @@
             ]
         },
         {
-            "description": "Pre Origin Perk rolls",
+            "description": "Regrettable: Pre Origin Perk rolls",
             "hash": 1399243961,
-            "name": "No Ragrets",
+            "name": "Regrettable",
             "plugs": [
                 [
                     1840239774,
@@ -7866,7 +7735,8 @@
                     2680121939
                 ],
                 [
-                    2284787283
+                    2284787283,
+                    3400784728
                 ],
                 [
                     1546637391,
@@ -8085,7 +7955,7 @@
             ]
         },
         {
-            "description": "Subsistence for continuous kills with a damage buff from OFA (~35%, 10s), Frenzy (~20%), or Rampage (~11% x3 stacks).\nMW: range, reload",
+            "description": "Here to Serve: Subsistence for continuous kills with a damage buff from Frenzy (~20%), or Rampage (~11% x3 stacks). OFA (~35%, 10s), not ideal to proc.\nMW: range, reload",
             "hash": 1107446438,
             "name": "Here to Serve",
             "plugs": [
@@ -8097,15 +7967,14 @@
                     1392496348
                 ],
                 [
-                    3177308360,
-                    3142289711
+                    3142289711,
+                    106909392
                 ],
                 [
                     1820235745
                 ],
                 [
                     3425386926,
-                    4049631843,
                     4104185692
                 ]
             ],
@@ -8114,25 +7983,26 @@
             ]
         },
         {
-            "description": "For PvP or run-n-gun.",
+            "description": "First come, first served: For PvP.",
             "hash": 1107446438,
             "name": "First come, first served",
             "plugs": [
                 [
                     839105230,
                     3661387068,
-                    1392496348
+                    4090651448
                 ],
                 [
-                    3177308360
+                    3142289711,
+                    106909392,
+                    3230963543
                 ],
                 [
-                    3700496672,
-                    2450788523,
-                    2946784966
+                    247725512,
+                    1168162263
                 ],
                 [
-                    957782887
+                    1015611457
                 ]
             ],
             "tags": [
@@ -8188,7 +8058,7 @@
             ]
         },
         {
-            "description": "Subsistent Measure. Continuous shooting & firefly explosions.\nMW: Range",
+            "description": "Measure Once, Shoot Twice: Continuous shooting & firefly explosions.\nMW: Range",
             "hash": 471518543,
             "name": "Subsistent Measure",
             "plugs": [
@@ -8211,7 +8081,7 @@
             ]
         },
         {
-            "description": "Demolitionist for grenadier kit + adrenaline junkie for alleged update. 2nd column perk is whatever.\nMW: Range.",
+            "description": "Explosive Measure: Demolitionist for grenadier kit + adrenaline junkie.\nMW: Range.",
             "hash": 471518543,
             "name": "Explosive Measure",
             "plugs": [
@@ -8220,6 +8090,12 @@
                     1467527085,
                     4090651448,
                     1392496348
+                ],
+                [
+                    106909392,
+                    3142289711,
+                    3230963543,
+                    3177308360
                 ],
                 [
                     3523296417
@@ -8908,7 +8784,7 @@
             ]
         },
         {
-            "description": "JM PvE Godroll: Rampage (10 / 21 / 33% buff, 3-4s) or  HI Reserves (last half clip is +12 to +25%). Prefer perks for rounds vs mags.\nMW: stability, range",
+            "description": "Thuggish Ruggish Bone: Rampage (10 / 21 / 33% buff, 3-4s). Outlaw for quick reload or Rangefinder for ADSing. \nMW: Stability, Range",
             "hash": 568515759,
             "name": "Thuggish Ruggish Bone",
             "plugs": [
@@ -8927,8 +8803,7 @@
                     2846385770
                 ],
                 [
-                    3425386926,
-                    2213355989
+                    3425386926
                 ]
             ],
             "tags": [
@@ -8937,7 +8812,7 @@
             ]
         },
         {
-            "description": "Kill clip\nMW: reload",
+            "description": "Krayzie Bone: Kill clip. HI reserves.\nMW: reload",
             "hash": 568515759,
             "name": "Krayzie Bone",
             "plugs": [
@@ -8962,7 +8837,7 @@
             ]
         },
         {
-            "description": "Full auto fire.\nMW: stability, reload",
+            "description": "Bizzy Bone: Rangefinder.\nMW: stability, reload",
             "hash": 568515759,
             "name": "Bizzy Bone",
             "plugs": [
@@ -8979,7 +8854,7 @@
                     1885400500
                 ],
                 [
-                    4267945040
+                    2846385770
                 ],
                 [
                     2213355989,
@@ -9810,12 +9685,14 @@
             ]
         },
         {
-            "description": "Max range\nMW: Range, Charge time",
+            "description": "Long PLUG: Max range.\nMW: Range, Charge time",
             "hash": 534775659,
             "name": "Long Plug",
             "plugs": [
                 [
-                    4090651448
+                    4090651448,
+                    3250034553,
+                    202670084
                 ],
                 [
                     2969185026
@@ -9827,8 +9704,10 @@
                     2779035018
                 ],
                 [
-                    1427256713,
-                    1799762209
+                    1427256713
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
@@ -9836,34 +9715,30 @@
             ]
         },
         {
-            "description": "Max damage\nMW: Charge time, range",
+            "description": "Big PLUG: Reservoir Reloader. Constant reloads and big damage (updated for WQ).\nMW: Charge time, Range ",
             "hash": 534775659,
             "name": "Big PLUG",
             "plugs": [
                 [
                     4090651448,
                     839105230,
-                    1840239774,
-                    3250034553,
-                    1392496348,
-                    1482024992
+                    1392496348
                 ],
                 [
                     1687452232
                 ],
                 [
-                    1570042021,
-                    1645158859,
-                    2779035018,
-                    2450788523
+                    671806388
                 ],
                 [
-                    1427256713,
-                    11612903
+                    1427256713
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -10244,17 +10119,15 @@
                     1926090095
                 ],
                 [
-                    3177308360,
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
                     3161816588,
-                    2866798147,
-                    2946784966
+                    2866798147
                 ],
                 [
-                    47981717
+                    47981717,
+                    1954620775
                 ]
             ],
             "tags": [
@@ -10862,7 +10735,7 @@
             ]
         },
         {
-            "description": "One of two auto-proc damage buffs. Barrels for stability/recoil control.\nMW: Range, Reload, Handling",
+            "description": "The Price is Right: One of two auto-proc damage buffs. Barrels for stability/recoil control.\nMW: Range, Reload, Handling",
             "hash": 2147010335,
             "name": "Price is Right",
             "plugs": [
@@ -10877,7 +10750,6 @@
                     3177308360
                 ],
                 [
-                    2779035018,
                     3643424744
                 ],
                 [
@@ -10886,7 +10758,6 @@
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
@@ -10999,94 +10870,63 @@
             ]
         },
         {
-            "description": "Range and stability for precision shooting.\nMW: Stability, Range",
-            "hash": 654370424,
-            "name": "United Nation of Beasts",
-            "plugs": [
-                [
-                    4090651448,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    3142289711,
-                    3177308360
-                ],
-                [
-                    2387244414,
-                    1168162263
-                ],
-                [
-                    2848615171
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "For PvE mainly.\nMW: Range, Handling",
+            "description": "Beasts of No Nation: Outlaw + Damage perk.\nMW: Range, Handling",
             "hash": 654370424,
             "name": "Beasts of No Nation",
             "plugs": [
                 [
                     4090651448,
-                    1392496348,
-                    1482024992
+                    202670084,
+                    3250034553,
+                    1467527085
                 ],
                 [
                     3142289711,
-                    106909392,
-                    3177308360
+                    106909392
                 ],
                 [
-                    2387244414,
-                    2010801679,
                     1168162263
                 ],
                 [
                     3038247973,
-                    3425386926
+                    2848615171
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "PvP (?)\nMW: Handling, Range, Reload",
+            "description": "League of Nations of Beasts: Kills proc perks.\nMW: Handling, Range, Reload",
             "hash": 654370424,
             "name": "League of Nations of Beasts",
             "plugs": [
                 [
                     202670084,
                     4090651448,
-                    1840239774
+                    3250034553
                 ],
                 [
                     3142289711,
-                    106909392,
-                    2420895100
+                    106909392
                 ],
                 [
-                    47981717,
-                    2387244414,
-                    1168162263,
-                    2010801679
+                    2010801679,
+                    1168162263
                 ],
                 [
-                    3038247973,
                     3425386926
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVP",
+                "PVE"
             ]
         },
         {
-            "description": "From Light.gg\n",
+            "description": "United Nations of Beasts: Outlaw + Kill Clip is 8% of rolls on light.gg",
             "hash": 654370424,
-            "name": "Little Light Roll",
+            "name": "United Nations of Beasts",
             "plugs": [
                 [
                     202670084,
@@ -11104,6 +10944,7 @@
                 ]
             ],
             "tags": [
+                "PVP",
                 "PVE"
             ]
         },
@@ -11322,7 +11163,7 @@
             ]
         },
         {
-            "description": "Palindrome vs Environment. OFA (35%, 10s) and Rampage (10/ 21/ 33%, 5s) give bigger bonus than Hi Impact Reserves.\nMW: Stability, Handling, Range",
+            "description": "Palindrome vs Environment. OFA (35%, 10s) and Rampage (10/ 21/ 33%, 5s).\nMW: Stability, Range",
             "hash": 432476743,
             "name": "Palindrome vs Environment",
             "plugs": [
@@ -11333,13 +11174,18 @@
                     3250034553
                 ],
                 [
-                    1968497646
+                    1968497646,
+                    1885400500,
+                    1561002382
                 ],
                 [
-                    1820235745
+                    3643424744
                 ],
                 [
-                    4049631843
+                    3425386926
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
@@ -11354,50 +11200,26 @@
             "plugs": [
                 [
                     839105230,
-                    1840239774
+                    4090651448,
+                    3250034553
                 ],
                 [
                     2420895100,
-                    1968497646,
-                    1561002382
+                    1561002382,
+                    1885400500
                 ],
                 [
-                    1168162263,
-                    2450788523
+                    706527188
                 ],
                 [
-                    2846385770,
-                    2213355989
+                    2846385770
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Palindrome vs Environment. OFA (35%, 10s) and Rampage (10/ 21/ 33%, 5s) give bigger bonus than Hi Impact Reserves.\nMW: Stability, Handling, Range",
-            "hash": 432476743,
-            "name": "Palindrome vs Environment",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448
-                ],
-                [
-                    1968497646,
-                    1561002382,
-                    2420895100
-                ],
-                [
-                    1168162263
-                ],
-                [
-                    4049631843,
-                    3425386926
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -11456,7 +11278,7 @@
             ]
         },
         {
-            "description": "Explosive Elemental in primary slot.\nMW: Range",
+            "description": "Lost Fate: Explosive Elemental in primary slot.\nMW: Range",
             "hash": 1216319404,
             "name": "Lost Fate",
             "plugs": [
@@ -11482,9 +11304,9 @@
             ]
         },
         {
-            "description": "Explosive Firefly. PvE. Maybe PvP\nMW: Range",
+            "description": "Firebringer: Explosive + Firefly. Default perks. PvE maybe PvP\nMW: Range",
             "hash": 1216319404,
-            "name": "Fate Lost",
+            "name": "Firebringer",
             "plugs": [
                 [
                     4090651448,
@@ -11675,7 +11497,7 @@
             ]
         },
         {
-            "description": "Vorpal edition\nMW: Charge Time",
+            "description": "Boss's Regret: Vorpal edition. Updated for WQ.\nMW: Charge Time",
             "hash": 2475355656,
             "name": "Boss's Regret",
             "plugs": [
@@ -11687,13 +11509,17 @@
                 ],
                 [
                     1687452232,
-                    689005463
+                    2680121939
                 ],
                 [
-                    2284787283
+                    2284787283,
+                    3400784728
                 ],
                 [
                     1546637391
+                ],
+                [
+                    3988215619
                 ]
             ],
             "tags": [
@@ -12047,7 +11873,7 @@
             ]
         },
         {
-            "description": "MW: Stability, Range",
+            "description": "Jackal Sniper. MW: Stability, Range",
             "hash": 548958835,
             "name": "Jackal Sniper",
             "plugs": [
@@ -12071,7 +11897,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Shield Break.",
             "hash": 548958835,
             "name": "Shield Break",
             "plugs": [
@@ -12124,7 +11950,7 @@
             ]
         },
         {
-            "description": "MW: Stability, Range, Handling",
+            "description": "Plasma Sniper. MW: Stability, Range",
             "hash": 548958835,
             "name": "Plasma Sniper",
             "plugs": [
@@ -12367,7 +12193,7 @@
         {
             "description": "Young Hawk-Moon: Precision kills. MW: Range [S16]",
             "hash": 235827225,
-            "name": "Eyas-Luna",
+            "name": "Young Hawk-Moon",
             "plugs": [
                 [
                     1926090092,
@@ -12627,7 +12453,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVP"
             ]
         },
         {
@@ -16158,7 +15984,7 @@
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -16611,7 +16437,7 @@
             ]
         },
         {
-            "description": "Lower handling but better range than Arrowhead. MW: Stability, Range",
+            "description": "Covenant Beam: Lower handling but better range than Arrowhead. MW: Stability, Range",
             "hash": 548958835,
             "name": "Covenant Beam",
             "plugs": [
@@ -16816,64 +16642,6 @@
                 ],
                 [
                     3363267119
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Subsistence demigodroll. MW: Handling",
-            "hash": 2852052802,
-            "name": "PvE Subsistence Demigodroll",
-            "plugs": [
-                [
-                    3661387068,
-                    1467527085,
-                    1840239774,
-                    1482024992
-                ],
-                [
-                    1885400500,
-                    2420895100
-                ],
-                [
-                    1820235745
-                ],
-                [
-                    124408337
-                ],
-                [
-                    3988215619
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Vorpal Auto B-roll, adequate but not ideal.  MW: Handling",
-            "hash": 2852052802,
-            "name": "Vorpal Auto B-Roll",
-            "plugs": [
-                [
-                    3661387068,
-                    1467527085,
-                    1840239774,
-                    1482024992
-                ],
-                [
-                    1885400500,
-                    2420895100
-                ],
-                [
-                    3643424744
-                ],
-                [
-                    1546637391
-                ],
-                [
-                    3988215619
                 ]
             ],
             "tags": [
@@ -17257,10 +17025,16 @@
             "tags": []
         },
         {
-            "description": "demigodroll",
+            "description": "Adequate Measures: a demigodroll",
             "hash": 471518543,
-            "name": "",
+            "name": "Adequate Measures",
             "plugs": [
+                [
+                    106909392,
+                    3142289711,
+                    1087426260,
+                    2420895100
+                ],
                 [
                     3418782618,
                     1820235745
@@ -17269,7 +17043,9 @@
                     3824105627
                 ]
             ],
-            "tags": []
+            "tags": [
+                "PVE"
+            ]
         },
         {
             "description": "demigodrolls",
@@ -17429,13 +17205,14 @@
             ]
         },
         {
-            "description": "Tap Line. MW: Handling, Range",
+            "description": "No Regrets: The godroll. MW: Charge time, Range",
             "hash": 1399243961,
-            "name": "Tap Line",
+            "name": "No Regrets",
             "plugs": [
                 [
                     1840239774,
-                    4090651448
+                    4090651448,
+                    839105230
                 ],
                 [
                     1687452232,
@@ -17694,6 +17471,9 @@
                 [
                     2846385770,
                     1954620775
+                ],
+                [
+                    4008116374
                 ]
             ],
             "tags": [
@@ -17708,15 +17488,18 @@
             "plugs": [
                 [
                     3142289711,
-                    3230963543,
-                    106909392
+                    106909392,
+                    3230963543
                 ],
                 [
                     247725512
                 ],
                 [
-                    2846385770,
-                    1954620775
+                    1954620775,
+                    2846385770
+                ],
+                [
+                    4008116374
                 ]
             ],
             "tags": [
@@ -17868,6 +17651,145 @@
                 ],
                 [
                     744217850
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Perpetual Execution. A popular perk combo.",
+            "hash": 2708806099,
+            "name": "Perpetual Execution",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    1885400500
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    454085387
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Sheildbreaker: Adaptive Munitions + Turnabout, mostly for Match Game situations. (Updated for WQ).",
+            "hash": 534775659,
+            "name": "Sheildbreaker / Match Game",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    3250034553,
+                    1392496348
+                ],
+                [
+                    2680121939,
+                    2969185026,
+                    1687452232
+                ],
+                [
+                    1048183818
+                ],
+                [
+                    2209918983
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "One Stat For All.\nMW: Stability, Range",
+            "hash": 432476743,
+            "name": "One Stat For All.",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1968497646,
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1583705720
+                ],
+                [
+                    4049631843
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Boss's Regret: Vorpal edition. Pre-WQ.\nMW: Charge Time",
+            "hash": 2475355656,
+            "name": "Boss's Regret",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    1687452232,
+                    2680121939
+                ],
+                [
+                    2284787283,
+                    3400784728
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "light.gg",
+            "hash": 2891672170,
+            "name": "light.gg",
+            "plugs": [
+                [
+                    1332244541,
+                    466087222,
+                    1482024992
+                ],
+                [
+                    791862061,
+                    106909392
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    2679249093,
+                    2360754333,
+                    1546637391
                 ]
             ],
             "tags": [
