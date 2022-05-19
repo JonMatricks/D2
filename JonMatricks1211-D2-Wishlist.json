@@ -1061,35 +1061,9 @@
             ]
         },
         {
-            "description": "Max range.\nMW: Range",
+            "description": "Quick PLUG: Maximize charge time. (updated for WQ)\nMW: Charge time",
             "hash": 1289000550,
-            "name": "Ranged PLUG",
-            "plugs": [
-                [
-                    4090651448
-                ],
-                [
-                    2969185026
-                ],
-                [
-                    2450788523,
-                    2779035018,
-                    1570042021,
-                    1645158859
-                ],
-                [
-                    1799762209,
-                    1427256713
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Max speed. Accel coils. (MW: Charge Time)",
-            "hash": 1289000550,
-            "name": "Fast Plug",
+            "name": "Quick PLUG",
             "plugs": [
                 [
                     4090651448,
@@ -1106,8 +1080,10 @@
                     1645158859
                 ],
                 [
-                    1799762209,
-                    1427256713
+                    2652708987
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
@@ -1991,9 +1967,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "Stacked in Cash: Subsistence so you never run out.",
             "hash": 1046651176,
-            "name": "Subsistence",
+            "name": "Stacked in Cash",
             "plugs": [
                 [
                     4090651448,
@@ -2020,21 +1996,18 @@
             ]
         },
         {
-            "description": "",
+            "description": "Exact Change: Precision hits.",
             "hash": 1046651176,
-            "name": "Precision",
+            "name": "Exact Change",
             "plugs": [
                 [
-                    1840239774,
                     4090651448,
-                    1482024992,
                     1392496348,
                     839105230
                 ],
                 [
                     1561002382,
-                    3142289711,
-                    3177308360
+                    3142289711
                 ],
                 [
                     247725512,
@@ -2692,7 +2665,7 @@
             ]
         },
         {
-            "description": "Jury Selection: Rapid Hit + Payload is the best scout combo. May be only scout w/ Rapid Hit + Firefly. MW: Range",
+            "description": "Jury Selection: Rapid Hit + Payload is the best scout combo. This may be only scout w/ Rapid Hit + Firefly. MW: Range",
             "hash": 681067419,
             "name": "Jury Selection",
             "plugs": [
@@ -3913,7 +3886,7 @@
         {
             "description": "Servant to All: One For All for a nice long damage buff (~35%, 10 sec)\nMW: Range, reload",
             "hash": 1107446438,
-            "name": "Servant of All",
+            "name": "Servant to All",
             "plugs": [
                 [
                     839105230,
@@ -4162,7 +4135,7 @@
             ]
         },
         {
-            "description": "(jonmatricks#1211) For ad-blocking. A subsistence shotty might make me use shotguns. Dmg buff options: OFA (35%), Trench Barrel, Adrenaline Junkie (post Dec '21 update)\nMW: Range, Handling",
+            "description": "Keep Laughing: For add-blocking. A subsistence shotty might make me use shotguns. Dmg buff options: OFA (35%), Trench Barrel, Adrenaline Junkie\nMW: Range, Handling",
             "hash": 1028582252,
             "name": "Keep Laughing",
             "plugs": [
@@ -4193,7 +4166,7 @@
             ]
         },
         {
-            "description": "Vorpal edition for bosses and lightbearers.\nMW: Handling",
+            "description": "The Killing Joke: Vorpal edition for bosses and lightbearers. I don't know how to shotgun in PvP.\nMW: Handling",
             "hash": 1028582252,
             "name": "The Killing Joke",
             "plugs": [
@@ -4210,7 +4183,6 @@
                 ],
                 [
                     3096702027,
-                    2621346526,
                     1556840489
                 ],
                 [
@@ -4482,7 +4454,7 @@
             ]
         },
         {
-            "description": "I require subsistence for godroll on full-auto weapons. Frenzy is always nice. Rampage > OFA for damage buff. Demo for grenadier builds.\nMW: range, handling",
+            "description": "I require subsistence for godroll on full-auto weapons. Frenzy is always nice. Rampage is no-effort, but OFA lasts longer (35% 10s). Demolitionist for grenadier builds.\nMW: range, handling",
             "hash": 2496875173,
             "name": "Subsistence Verse",
             "plugs": [
@@ -5293,9 +5265,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "Thread the Needle: Precision shots with Rapid hit + Dragonfly.",
             "hash": 3075224551,
-            "name": "Dragonfly",
+            "name": "Thread the Needle",
             "plugs": [
                 [
                     1840239774,
@@ -5314,61 +5286,6 @@
                 ],
                 [
                     2848615171
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3075224551,
-            "name": "Frenzy",
-            "plugs": [
-                [
-                    1840239774,
-                    1392496348,
-                    1482024992,
-                    4090651448
-                ],
-                [
-                    689005463,
-                    2680121939
-                ],
-                [
-                    2450788523
-                ],
-                [
-                    4104185692
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3075224551,
-            "name": "Demolitionist",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230,
-                    4090651448,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    689005463,
-                    3868766766,
-                    2969185026
-                ],
-                [
-                    247725512,
-                    2284787283
-                ],
-                [
-                    3523296417
                 ]
             ],
             "tags": [
@@ -6483,7 +6400,7 @@
             ]
         },
         {
-            "description": "Keep shooting with Subsistence\nMW: handling",
+            "description": "Keep the Peace: Keep shooting with Subsistence\nMW: handling",
             "hash": 829330711,
             "name": "Keep the Peace",
             "plugs": [
@@ -6510,9 +6427,9 @@
             ]
         },
         {
-            "description": "Maxmium range. Base range is about 70-76.\nMW: range",
+            "description": "Word is Bond: Maxmium range. Base range is about 70-76.\nMW: range",
             "hash": 829330711,
-            "name": "Long Peace",
+            "name": "Word is Bond",
             "plugs": [
                 [
                     3250034553,
@@ -6536,9 +6453,9 @@
             ]
         },
         {
-            "description": "for CQC, mobs, swarms, etc.\nMW: handling",
+            "description": "Peaceful Negotiation: for CQC, mobs, swarms, etc.\nMW: handling",
             "hash": 829330711,
-            "name": "Peace Negotiation",
+            "name": "Peaceful Negotiation",
             "plugs": [
                 [
                     839105230,
@@ -7164,9 +7081,9 @@
             ]
         },
         {
-            "description": "My personal preference is to have osmosis for element damage in the primary slot.\nMW: range, reload",
+            "description": "A Servant of Godrolls: My personal preference is to have osmosis for element damage in the primary slot.\nMW: range, reload",
             "hash": 1107446438,
-            "name": "Servant of Godrolls",
+            "name": "A Servant of Godrolls",
             "plugs": [
                 [
                     1840239774,
@@ -7242,9 +7159,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "Vorpal LFR.",
             "hash": 3075224551,
-            "name": "Boss FLR",
+            "name": "Boss LFR",
             "plugs": [
                 [
                     1840239774,
@@ -7261,7 +7178,6 @@
                 ],
                 [
                     247725512,
-                    3300816228,
                     2284787283
                 ],
                 [
@@ -7983,7 +7899,7 @@
             ]
         },
         {
-            "description": "First come, first served: For PvP.",
+            "description": "First come, first served: Kill & reload & repeat. For PvP.",
             "hash": 1107446438,
             "name": "First come, first served",
             "plugs": [
@@ -9236,9 +9152,9 @@
             ]
         },
         {
-            "description": "Mostly for crucible",
+            "description": "Player-vs-Peacebond: Mostly for crucible",
             "hash": 829330711,
-            "name": "PvP Bond",
+            "name": "Player-vs-Peacebond",
             "plugs": [
                 [
                     3250034553,
@@ -9291,7 +9207,7 @@
             ]
         },
         {
-            "description": "Vorpal edition.\nMW: Handling or Range",
+            "description": "Eye of Ra: Vorpal edition.\nMW: Handling or Range",
             "hash": 3164743584,
             "name": "Eye of Ra",
             "plugs": [
@@ -9303,7 +9219,6 @@
                 ],
                 [
                     3142289711,
-                    3177308360,
                     106909392
                 ],
                 [
@@ -9322,7 +9237,7 @@
             ]
         },
         {
-            "description": "Trials edition.\nMW: Handling or Stability",
+            "description": "Eye of Osiris: Trials edition.\nMW: Handling or Stability",
             "hash": 3164743584,
             "name": "Eye of Osiris",
             "plugs": [
@@ -9352,7 +9267,7 @@
             ]
         },
         {
-            "description": "For patient sniping\nMW: Range",
+            "description": "One Eye: For patient sniping\nMW: Range",
             "hash": 3164743584,
             "name": "One Eye",
             "plugs": [
@@ -9368,13 +9283,11 @@
                 ],
                 [
                     280464955,
-                    2946784966,
                     1168162263
                 ],
                 [
                     47981717,
-                    2551157718,
-                    2213355989
+                    2551157718
                 ]
             ],
             "tags": [
@@ -9382,9 +9295,9 @@
             ]
         },
         {
-            "description": "Run n' gun in the sun.\n",
+            "description": "Sol-ar Powered: Run n' gun in the sun. ???\n",
             "hash": 3164743584,
-            "name": "Solar Powered",
+            "name": "Sol-ar Powered",
             "plugs": [
                 [
                     3250034553,
@@ -9399,8 +9312,7 @@
                 [
                     588594999,
                     957782887,
-                    2450788523,
-                    2866798147
+                    2450788523
                 ],
                 [
                     957782887,
@@ -9630,64 +9542,36 @@
             ]
         },
         {
-            "description": "Max stability, recoil control\nMW: Charge Time, Stability",
+            "description": "Big PLUG: Reservoir Reloader. Constant reloads and big damage (updated for WQ).\nMW: Charge time, Range ",
             "hash": 1289000550,
-            "name": "Stable Plug",
-            "plugs": [
-                [
-                    839105230,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    3868766766
-                ],
-                [
-                    1570042021,
-                    1645158859
-                ],
-                [
-                    1427256713,
-                    1799762209
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Max Damage\nMW: Charge Time, Range",
-            "hash": 1289000550,
-            "name": "Big Plug",
+            "name": "Big PLUG",
             "plugs": [
                 [
                     4090651448,
-                    1840239774,
                     1392496348,
-                    3250034553,
-                    1482024992
+                    839105230
                 ],
                 [
                     1687452232
                 ],
                 [
-                    1570042021,
-                    1645158859,
-                    2450788523,
-                    2779035018
+                    671806388
                 ],
                 [
                     1427256713
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
             "description": "Long PLUG: Max range.\nMW: Range, Charge time",
             "hash": 534775659,
-            "name": "Long Plug",
+            "name": "Long PLUG",
             "plugs": [
                 [
                     4090651448,
@@ -10601,9 +10485,9 @@
             ]
         },
         {
-            "description": "[jonmatricks#1211, s15]  Vorpal edition.\nMW: Range, Stability, Handling",
+            "description": "Succeed The Throne: Vorpal edition.\nMW: Range, Stability, Handling?? [as of s15] ",
             "hash": 2990047042,
-            "name": "Vorpal edition",
+            "name": "Succeed The Throne",
             "plugs": [
                 [
                     1840239774,
@@ -10628,7 +10512,7 @@
             ]
         },
         {
-            "description": "[jonmatricks#1211, s15]  PvE edition.\nMW: Range, Stability, Handling",
+            "description": "Osmosis for elemental in kinetic slot.\nMW: Range, Stability, Handling",
             "hash": 2990047042,
             "name": "Osmosis",
             "plugs": [
@@ -11527,33 +11411,7 @@
             ]
         },
         {
-            "description": "",
-            "hash": 1289000550,
-            "name": "",
-            "plugs": [
-                [
-                    4090651448,
-                    1840239774,
-                    3250034553,
-                    1482024992
-                ],
-                [
-                    689005463,
-                    2680121939
-                ],
-                [
-                    4252909580
-                ],
-                [
-                    1427256713
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "(jonmatricks#1211) Vorpal edition. Even with Vorpal changes, useful for gold-bars and doesn't require a proc action.\nMW: Range, Handling",
+            "description": "No Joke: PvE Vorpal edition. Even with Vorpal changes, useful for gold-bars and doesn't require a proc action.\nMW: Range, Handling?",
             "hash": 1028582252,
             "name": "No Joke",
             "plugs": [
@@ -12191,9 +12049,9 @@
             ]
         },
         {
-            "description": "Young Hawk-Moon: Precision kills. MW: Range [S16]",
+            "description": "Yung Hawk-Moon: Precision hits/kills. MW: Range [S16]",
             "hash": 235827225,
-            "name": "Young Hawk-Moon",
+            "name": "Yung Hawk-Moon",
             "plugs": [
                 [
                     1926090092,
@@ -13055,9 +12913,9 @@
             ]
         },
         {
-            "description": "Headstone",
+            "description": "Lay them to rest with Headstone. MW: Range.",
             "hash": 1019000888,
-            "name": "Perses Headstone",
+            "name": "Headstone",
             "plugs": [
                 [
                     839105230
@@ -13080,7 +12938,7 @@
             ]
         },
         {
-            "description": "One Stat for All for the novelty of it.",
+            "description": "One Stat for All: for the novelty of it. MW: Range.",
             "hash": 1019000888,
             "name": "One Stat for All",
             "plugs": [
@@ -13095,6 +12953,9 @@
                 ],
                 [
                     4049631843
+                ],
+                [
+                    1607056502
                 ]
             ],
             "tags": [
@@ -13102,9 +12963,9 @@
             ]
         },
         {
-            "description": "Explosive Scout. Also a light.gg fave.",
+            "description": "Perses-Destroy: Rapid Hit + Explosive Payload. Great combo for scout rifle. Also a light.gg fave. πέρθω ",
             "hash": 1019000888,
-            "name": "Explosive Scout",
+            "name": "Perses-Destroy",
             "plugs": [
                 [
                     839105230
@@ -13117,6 +12978,9 @@
                 ],
                 [
                     3038247973
+                ],
+                [
+                    1607056502
                 ]
             ],
             "tags": [
@@ -14637,9 +14501,9 @@
             ]
         },
         {
-            "description": "Precision and stability, based on light.gg. MW: Range",
+            "description": "🎵Aisha, Aisha so glad to meetcha🎵: Precision and stability, based on light.gg. MW: Range",
             "hash": 2638190703,
-            "name": "Precision and stability",
+            "name": "🎵Aisha, Aisha so glad to meetcha🎵",
             "plugs": [
                 [
                     1482024992,
@@ -14665,9 +14529,9 @@
             ]
         },
         {
-            "description": "Reloader for MK clip.",
+            "description": "I passed her a lolli pop and a letter: Reloader perks for MK clip.",
             "hash": 2638190703,
-            "name": "MK clip",
+            "name": "I passed her a lolli pop and a letter",
             "plugs": [
                 [
                     1840239774,
@@ -15082,7 +14946,7 @@
             ]
         },
         {
-            "description": "Apocalypse - Dragonfly explosions, stability, deep clip. MW: Charge time, Range",
+            "description": "Apocalypse: Dragonfly explosions, stability, deep clip. MW: Charge time, Range",
             "hash": 999767358,
             "name": "Apocalypse",
             "plugs": [
@@ -15111,9 +14975,9 @@
             ]
         },
         {
-            "description": "Sudden Catastrophe - shoot fast. MW: charge time.",
+            "description": "Catastrophe: shoot fast. MW: charge time, stability, range??",
             "hash": 999767358,
-            "name": "Sudden Catastrophe",
+            "name": "Catastrophe",
             "plugs": [
                 [
                     839105230,
@@ -15245,9 +15109,9 @@
             ]
         },
         {
-            "description": "Grenade Delivery - ",
+            "description": "Delivert: Grenadier roll. MW: ? ",
             "hash": 768621510,
-            "name": "Grenade Delivery",
+            "name": "Delivert",
             "plugs": [
                 [
                     839105230,
@@ -15276,9 +15140,9 @@
             ]
         },
         {
-            "description": "Slow Delivery - Chill clip to control mobs. Heating Up for stability",
+            "description": "Free Delivery - Chill clip to control mobs. Heating Up for stability.",
             "hash": 768621510,
-            "name": "Slow Delivery",
+            "name": "Free Delivery",
             "plugs": [
                 [
                     839105230,
@@ -15629,9 +15493,9 @@
             ]
         },
         {
-            "description": "Perseus roll. Clash with Titans using Vorpal.",
+            "description": "Clash against Titans with vorpal. MW: Range. Πέρσης.",
             "hash": 1019000888,
-            "name": "Perseus",
+            "name": "Son of Crius",
             "plugs": [
                 [
                     839105230
@@ -15763,7 +15627,7 @@
             ]
         },
         {
-            "description": "Safe choice - light.gg fave",
+            "description": "The Safe Choice - light.gg fave. Rapid Hit + Explosive Payload always good on scouts.",
             "hash": 3242168339,
             "name": "Safe choice",
             "plugs": [
@@ -15786,37 +15650,13 @@
             ]
         },
         {
-            "description": "Ambitious Assassin",
+            "description": "Unsafe: Outlaw + Dragonfly (or Payload) for precision kills.",
             "hash": 3242168339,
-            "name": "Ambitious",
+            "name": "Unsafe",
             "plugs": [
                 [
-                    839105230,
-                    4090651448
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    2010801679
-                ],
-                [
-                    2848615171,
-                    3038247973,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Safe choice - light.gg fave",
-            "hash": 3242168339,
-            "name": "Outlaw",
-            "plugs": [
-                [
-                    4090651448
+                    4090651448,
+                    839105230
                 ],
                 [
                     3142289711
@@ -15825,12 +15665,12 @@
                     1168162263
                 ],
                 [
-                    3038247973,
-                    2848615171
+                    2848615171,
+                    3038247973
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -16437,7 +16277,7 @@
             ]
         },
         {
-            "description": "Covenant Beam: Lower handling but better range than Arrowhead. MW: Stability, Range",
+            "description": "Covenant Beam: Extended has lower handling but better range than Arrowhead. MW: Stability, Range",
             "hash": 548958835,
             "name": "Covenant Beam",
             "plugs": [
@@ -17319,9 +17159,9 @@
             ]
         },
         {
-            "description": "Vorpal",
+            "description": "🎵You are the girl that I neva had🎵: Vorpal edition.",
             "hash": 2638190703,
-            "name": "Vorpal",
+            "name": "🎵You are the girl that I neva had🎵",
             "plugs": [
                 [
                     839105230,
@@ -17683,9 +17523,9 @@
             ]
         },
         {
-            "description": "Sheildbreaker: Adaptive Munitions + Turnabout, mostly for Match Game situations. (Updated for WQ).",
+            "description": "Un-PLUG: Sheildbreaker w/ Adaptive Munitions + Turnabout, mostly for Match Game situations. (Updated for WQ).",
             "hash": 534775659,
-            "name": "Sheildbreaker / Match Game",
+            "name": "Un-PLUG",
             "plugs": [
                 [
                     4090651448,
@@ -17794,6 +17634,60 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "Un-PLUG: Sheildbreaker w/ Adaptive Munitions + Turnabout, mostly for Match Game situations. (Updated for WQ).",
+            "hash": 1289000550,
+            "name": "Un-PLUG",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    3250034553,
+                    1392496348
+                ],
+                [
+                    1687452232,
+                    2680121939,
+                    2969185026
+                ],
+                [
+                    1048183818
+                ],
+                [
+                    2209918983
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Vorpalsafe: in case a purple vorpal scout is needed. [MW: Range]",
+            "hash": 3242168339,
+            "name": "Vorpalsafe",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512,
+                    1168162263
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
