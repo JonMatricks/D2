@@ -18616,6 +18616,391 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "stucatto. Precision shots via Explosive Payload",
+            "hash": 4019668921,
+            "name": "stucatto",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1168162263,
+                    3400784728
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Scorch Scout. For Solar 3.0 builds. MW: Range.",
+            "hash": 4019668921,
+            "name": "Scorch Scout",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    744594675
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Demigod roll. Perk combo absent barrel and clip/ammo",
+            "hash": 4019668921,
+            "name": "Demigod roll",
+            "plugs": [
+                [
+                    3400784728,
+                    1168162263
+                ],
+                [
+                    2848615171,
+                    3038247973
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Demigod roll. Perk combo absent barrel and clip/ammo",
+            "hash": 4019668921,
+            "name": "Demigod roll. Perk combo absent barrel and clip/ammo",
+            "plugs": [
+                [
+                    744594675,
+                    3400784728
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Complete Denial: Only trace with adaptive muni, new Killing Tally perk.",
+            "hash": 2323544076,
+            "name": "Complete Denial",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1048183818,
+                    3431277734
+                ],
+                [
+                    557221067,
+                    2896748467
+                ],
+                [
+                    1250481499
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Demigod roll. Batteries not included.",
+            "hash": 2323544076,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1392496348,
+                    1467527085
+                ],
+                [
+                    1048183818,
+                    1570042021,
+                    744594675
+                ],
+                [
+                    557221067
+                ],
+                [
+                    1250481499
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Devoid of Heroism: Void ability synergy. E.g volatile rounds.",
+            "hash": 2488587246,
+            "name": "Devoid of Heroism",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1392496348
+                ],
+                [
+                    3142289711,
+                    1885400500
+                ],
+                [
+                    744594675
+                ],
+                [
+                    776531651
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Void Vorpal edition.",
+            "hash": 2488587246,
+            "name": "Void Vorpal ",
+            "plugs": [
+                [
+                    839105230,
+                    1392496348,
+                    4090651448,
+                    1467527085
+                ],
+                [
+                    3142289711,
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    744594675
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Solar Synergy. Melee apply scorch and reload mag.",
+            "hash": 2490988246,
+            "name": "Solar Synergy",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "CQC Mini-Tool. When surrounded.",
+            "hash": 2490988246,
+            "name": "CQC Mini-Tool",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774
+                ],
+                [
+                    106909392,
+                    3230963543
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3708227201
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "New Drang w/ Solar 3.0 synergy.",
+            "hash": 502356570,
+            "name": "New Drang",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    744594675,
+                    2139363611
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Shield breaker. Barrels & ammo vary.",
+            "hash": 502356570,
+            "name": "Shield breaker",
+            "plugs": [
+                [
+                    1683379515
+                ],
+                [
+                    2209918983,
+                    4293542123
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Dearly Beloved, we are gathered here to admire this godroll...",
+            "hash": 3107853529,
+            "name": "Dearly Beloved",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    1885400500
+                ],
+                [
+                    957782887,
+                    4116820839
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Demigodroll",
+            "hash": 3107853529,
+            "name": "",
+            "plugs": [
+                [
+                    1467527085,
+                    3250034553,
+                    1392496348,
+                    3661387068
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    957782887
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 3107853529,
+            "name": "",
+            "plugs": [
+                [
+                    2866798147
+                ],
+                [
+                    2551157718
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
