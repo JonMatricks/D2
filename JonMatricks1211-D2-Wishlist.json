@@ -14879,9 +14879,7 @@
                 ],
                 [
                     4104185692,
-                    3007133316,
-                    3523296417,
-                    1906147653
+                    3007133316
                 ],
                 [
                     3363267119
@@ -14892,38 +14890,9 @@
             ]
         },
         {
-            "description": "Rhulk Smash! For high-risk CQC with Bosses & Ultras",
+            "description": "Rhulk Smash!  fast handling, movement, etc to cut through trash mobs.",
             "hash": 2534546147,
             "name": "Rhulk Smash",
-            "plugs": [
-                [
-                    580685494
-                ],
-                [
-                    3721627275
-                ],
-                [
-                    1631667848,
-                    402033656,
-                    1738338041,
-                    3526486541
-                ],
-                [
-                    1546637391,
-                    3418165135
-                ],
-                [
-                    3363267119
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Berserker mode - fast handling, movement, etc to cut through trash mobs. MW: Handling",
-            "hash": 2534546147,
-            "name": "",
             "plugs": [
                 [
                     5699512
@@ -14938,6 +14907,34 @@
                 [
                     4082225868,
                     1161469972
+                ],
+                [
+                    3363267119
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Berserker mode - For high-risk CQC with Bosses & Ultras MW: Handling",
+            "hash": 2534546147,
+            "name": "",
+            "plugs": [
+                [
+                    5699512,
+                    580685494
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    1631667848,
+                    402033656
+                ],
+                [
+                    1546637391,
+                    3418165135
                 ],
                 [
                     3363267119
@@ -14961,23 +14958,22 @@
                     3868766766
                 ],
                 [
-                    2848615171,
-                    169755979
+                    2848615171
                 ],
                 [
                     2284787283,
-                    3563868667
+                    3078487919
                 ],
                 [
                     3363267119
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
-            "description": "Catastrophe: shoot fast. MW: charge time, stability, range??",
+            "description": "Catastrophe: shoot fast. MW: charge time",
             "hash": 999767358,
             "name": "Catastrophe",
             "plugs": [
@@ -14990,11 +14986,9 @@
                     689005463
                 ],
                 [
-                    2652708987,
-                    617966211
+                    2652708987
                 ],
                 [
-                    3563868667,
                     2284787283
                 ],
                 [
@@ -16463,9 +16457,9 @@
             ]
         },
         {
-            "description": "Precision set. A favorite on light.gg. Enhanced battery for focused fury, 4th time's helps. MW: Charge time",
+            "description": "Calamity: Bait-and-Switch grants 35% for 10s. A favorite on light.gg. Bigger battery to help continuous shooting. MW: Stability, Range",
             "hash": 999767358,
-            "name": "Precision",
+            "name": "Calamity",
             "plugs": [
                 [
                     839105230,
@@ -16479,15 +16473,15 @@
                     848860060
                 ],
                 [
-                    2896038713,
-                    2402480669
+                    3078487919,
+                    3744057135
                 ],
                 [
                     3363267119
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
