@@ -17969,19 +17969,20 @@
             ]
         },
         {
-            "description": "Chill clip.",
+            "description": "DPS. Shoot, swap, shoot again. MW: Charge Time",
             "hash": 2715240478,
-            "name": "Chill clip.",
+            "name": "DPS",
             "plugs": [
                 [
-                    839105230
+                    839105230,
+                    4090651448
                 ],
                 [
                     2680121939,
                     1687452232
                 ],
                 [
-                    671806388
+                    3300816228
                 ],
                 [
                     2978966579
@@ -17991,7 +17992,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -18421,7 +18422,7 @@
             ]
         },
         {
-            "description": "Boss DPS",
+            "description": "Vorpal edition?",
             "hash": 2715240478,
             "name": "Boss DPS",
             "plugs": [
@@ -18437,8 +18438,7 @@
                 ],
                 [
                     744594675,
-                    1556840489,
-                    1645158859
+                    1556840489
                 ],
                 [
                     1546637391
@@ -19480,6 +19480,34 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Well-Rounded Tricorn. MW: Charge Time, Range, Impact?",
+            "hash": 2715240478,
+            "name": "Well-Rounded Tricorn",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    689005463,
+                    2680121939,
+                    1687452232
+                ],
+                [
+                    744594675
+                ],
+                [
+                    2610012052
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
