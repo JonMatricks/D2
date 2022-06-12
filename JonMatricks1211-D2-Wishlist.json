@@ -15105,7 +15105,7 @@
             ]
         },
         {
-            "description": "Delivert: Grenadier roll. MW: ? ",
+            "description": "Delivert: Bait & Switch",
             "hash": 768621510,
             "name": "Delivert",
             "plugs": [
@@ -15120,12 +15120,11 @@
                     2969185026
                 ],
                 [
-                    3523296417,
-                    1906147653
+                    2172504645,
+                    1799762209
                 ],
                 [
-                    11612903,
-                    2422968039
+                    3078487919
                 ],
                 [
                     3363267119
@@ -15136,7 +15135,7 @@
             ]
         },
         {
-            "description": "Free Delivery - Chill clip to control mobs. Heating Up for stability.",
+            "description": "Free Delivery - Chill clip to control mobs. Heating Up for stability. as of S17 Riptide may be better chill clip fusion",
             "hash": 768621510,
             "name": "Free Delivery",
             "plugs": [
@@ -19504,6 +19503,37 @@
                 ],
                 [
                     4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Grenadier roll. MW: ? ",
+            "hash": 768621510,
+            "name": "nades",
+            "plugs": [
+                [
+                    839105230,
+                    1467527085,
+                    1392496348
+                ],
+                [
+                    689005463,
+                    2680121939,
+                    2969185026
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    11612903,
+                    2422968039
+                ],
+                [
+                    3363267119
                 ]
             ],
             "tags": [
