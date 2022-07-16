@@ -16786,22 +16786,6 @@
             "tags": []
         },
         {
-            "description": "see regular version: 4050645223",
-            "hash": 1921159786,
-            "name": "",
-            "plugs": [
-                [
-                    3643424744,
-                    3977735242
-                ],
-                [
-                    1275731761,
-                    1546637391
-                ]
-            ],
-            "tags": []
-        },
-        {
             "description": "Adequate Measures: a demigodroll",
             "hash": 471518543,
             "name": "Adequate Measures",
@@ -18567,7 +18551,6 @@
                     3142289711
                 ],
                 [
-                    1168162263,
                     3400784728
                 ],
                 [
@@ -18582,7 +18565,7 @@
             ]
         },
         {
-            "description": "Scorch Scout. For Solar 3.0 builds. MW: Range.",
+            "description": "Scorch Scout. For Solar 3.0 scorching and ability spamming. MW: Range.",
             "hash": 4019668921,
             "name": "Scorch Scout",
             "plugs": [
@@ -18608,37 +18591,26 @@
             ]
         },
         {
-            "description": "Demigod roll. Perk combo absent barrel and clip/ammo",
+            "description": "Demigod roll. Perk combo absent preferred barrel and clip/ammo",
             "hash": 4019668921,
             "name": "Demigod roll",
             "plugs": [
                 [
+                    1087426260,
+                    106909392,
+                    1431678320,
+                    3230963543,
+                    3142289711
+                ],
+                [
                     3400784728,
-                    1168162263
-                ],
-                [
-                    2848615171,
-                    3038247973
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Demigod roll. Perk combo absent barrel and clip/ammo",
-            "hash": 4019668921,
-            "name": "Demigod roll. Perk combo absent barrel and clip/ammo",
-            "plugs": [
-                [
                     744594675,
-                    3400784728
+                    3700496672
                 ],
                 [
-                    4293542123
+                    3038247973,
+                    4293542123,
+                    1048183818
                 ],
                 [
                     4008116374
@@ -19593,6 +19565,87 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "Explosive payload hits ammo twice, granting double ammo pickup. (as of S17)",
+            "hash": 4019668921,
+            "name": "Shoot-To-Loot",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3700496672
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Demigodroll",
+            "hash": 690668916,
+            "name": "Demigodroll",
+            "plugs": [
+                [
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382
+                ],
+                [
+                    3418782618,
+                    3592538738,
+                    2946784966
+                ],
+                [
+                    4104185692,
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Godroll. Timelost always rolls with Overflow and Cluster bomb.",
+            "hash": 1921159786,
+            "name": "Timelost ",
+            "plugs": [
+                [
+                    1478423395,
+                    981914802,
+                    3525010810
+                ],
+                [
+                    3796465595,
+                    2822142346,
+                    1996142143
+                ],
+                [
+                    3300816228,
+                    3977735242
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
