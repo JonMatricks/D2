@@ -4491,20 +4491,20 @@
             "plugs": [
                 [
                     839105230,
-                    1392496348,
                     1482024992,
                     1467527085,
-                    4090651448
+                    4090651448,
+                    202670084,
+                    3250034553
                 ],
                 [
                     1885400500,
-                    3177308360,
                     3142289711
                 ],
                 [
-                    1168162263,
                     2866798147,
-                    1556840489
+                    1556840489,
+                    2946784966
                 ],
                 [
                     1774574192
@@ -6095,30 +6095,6 @@
             ]
         },
         {
-            "description": "Fookin Kneeler",
-            "hash": 3169616514,
-            "name": "Fookin Kneeler",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    280464955
-                ],
-                [
-                    2869569095
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "",
             "hash": 3669616453,
             "name": "Tracking Cluster",
@@ -6636,7 +6612,6 @@
                 ]
             ],
             "tags": [
-                "GodPVE",
                 "GodPVP"
             ]
         },
@@ -6902,30 +6877,6 @@
             ]
         },
         {
-            "description": "An attempt at a PvP roll for a primary sniper.\nMW: handling",
-            "hash": 3653573172,
-            "name": "Praedyth's Redress",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    706527188
-                ],
-                [
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "G-PvE. Firefly w/ Osmosis.\nMW: Range",
             "hash": 1987769101,
             "name": "Revenge Lost",
@@ -6946,29 +6897,6 @@
             ],
             "tags": [
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "PvP edition. From Light.gg\nhttps://www.light.gg/db/items/1987769101/praedyths-revenge-timelost/",
-            "hash": 1987769101,
-            "name": "PvPraedyth",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    706527188
-                ],
-                [
-                    47981717
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -9503,12 +9431,9 @@
                 ],
                 [
                     1885400500,
-                    3142289711,
-                    2420895100,
-                    106909392
+                    3142289711
                 ],
                 [
-                    588594999,
                     2866798147
                 ],
                 [
@@ -10241,44 +10166,42 @@
             "tags": []
         },
         {
-            "description": "Chain Reaction for clearing.\nMW: Handling, Velocity",
+            "description": "No Sleep. Auto-loading holster.Chain Reaction for clearing.\nMW: Blast Radius",
             "hash": 3740842661,
             "name": "No Sleep",
             "plugs": [
                 [
                     1478423395,
                     3525010810,
-                    3798852852
+                    981914802
                 ],
                 [
-                    2985827016,
                     1996142143,
                     3796465595,
                     2822142346
                 ],
                 [
-                    3977735242,
-                    3300816228,
-                    706527188
+                    3300816228
                 ],
                 [
-                    2396489472
+                    2396489472,
+                    3523296417,
+                    1546637391
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
         {
-            "description": "Vorpal\nMW: Velocity, Handling",
+            "description": "Sleep Tracker. Tracking rockets.\nMW: Velocity, Blast Radius",
             "hash": 3740842661,
-            "name": "Vorpal",
+            "name": "Tracking",
             "plugs": [
                 [
                     1478423395,
                     3525010810,
-                    3798852852
+                    981914802
                 ],
                 [
                     3796465595,
@@ -10287,12 +10210,12 @@
                     1996142143
                 ],
                 [
-                    3300816228,
-                    3977735242,
-                    706527188
+                    3977735242
                 ],
                 [
-                    1546637391
+                    1546637391,
+                    3523296417,
+                    2396489472
                 ]
             ],
             "tags": [
@@ -11201,7 +11124,6 @@
                 ]
             ],
             "tags": [
-                "PVE",
                 "GodPVE"
             ]
         },
@@ -13211,24 +13133,52 @@
             ]
         },
         {
-            "description": "Team sniping MW: Range",
+            "description": "Team sniping. light.gg godroll. MW: Range",
             "hash": 2233545123,
             "name": "Team sniping",
             "plugs": [
                 [
                     839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    1771339417
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Boss Sniping, also light.gg fave. MW: Range",
+            "hash": 2233545123,
+            "name": "Boss Sniping ",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
                     1467527085,
-                    4090651448
+                    3661387068
                 ],
                 [
                     3142289711
                 ],
                 [
                     1354429876,
-                    1556840489
+                    3300816228
                 ],
                 [
-                    1771339417
+                    1546637391
                 ],
                 [
                     4008116374
@@ -13239,50 +13189,20 @@
             ]
         },
         {
-            "description": "Boss Sniping, also light.gg fave. MW: Range",
-            "hash": 2233545123,
-            "name": "Boss Sniping",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    1482024992,
-                    1467527085
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1354429876
-                ],
-                [
-                    1546637391
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "PVE",
-                "GodPVE"
-            ]
-        },
-        {
             "description": "PvP sniping?",
             "hash": 2233545123,
             "name": "PvP sniping",
             "plugs": [
                 [
                     4090651448,
-                    1840239774
+                    1840239774,
+                    839105230
                 ],
                 [
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
-                    2866798147,
-                    3300816228
+                    2866798147
                 ],
                 [
                     957782887
@@ -13569,19 +13489,19 @@
             ]
         },
         {
-            "description": "Blast radius",
+            "description": "light.gg",
             "hash": 3568377122,
-            "name": "Blast radius",
+            "name": "light.gg",
             "plugs": [
                 [
                     1478423395,
                     1844523823
                 ],
                 [
-                    1380253176
+                    3301904089,
+                    409831596
                 ],
                 [
-                    951095735,
                     3523296417
                 ],
                 [
@@ -13596,7 +13516,7 @@
             ]
         },
         {
-            "description": "Direct Hits For chill clip. ",
+            "description": "Direct Hits For chill clip. Demolitionist is ideal.",
             "hash": 3568377122,
             "name": "Chill clip",
             "plugs": [
@@ -13608,7 +13528,6 @@
                     3301904089
                 ],
                 [
-                    951095735,
                     3523296417
                 ],
                 [
@@ -15931,26 +15850,25 @@
             ]
         },
         {
-            "description": "light.gg",
+            "description": "light.gg godroll",
             "hash": 3169616514,
-            "name": "",
+            "name": "light.gg",
             "plugs": [
                 [
-                    3661387068
+                    202670084
                 ],
                 [
-                    3142289711,
-                    1087426260
+                    3142289711
                 ],
                 [
                     957782887
                 ],
                 [
-                    47981717
+                    3038247973
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -16259,35 +16177,6 @@
                 ],
                 [
                     1427256713
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Demigodroll. MW: Range",
-            "hash": 2233545123,
-            "name": "Mini-Boss Sniping",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    1467527085
-                ],
-                [
-                    106909392,
-                    1087426260
-                ],
-                [
-                    1354429876
-                ],
-                [
-                    1546637391,
-                    1771339417
-                ],
-                [
-                    4008116374
                 ]
             ],
             "tags": [
@@ -16736,6 +16625,9 @@
             "name": "",
             "plugs": [
                 [
+                    3142289711
+                ],
+                [
                     1774574192,
                     3418782618
                 ],
@@ -16752,6 +16644,9 @@
             "hash": 1987769101,
             "name": "",
             "plugs": [
+                [
+                    3142289711
+                ],
                 [
                     1774574192,
                     3418782618
@@ -17230,30 +17125,6 @@
             "tags": [
                 "PVE",
                 "PVP"
-            ]
-        },
-        {
-            "description": "demigodroll?? MW: Range.",
-            "hash": 1967303408,
-            "name": "",
-            "plugs": [
-                [
-                    3142289711,
-                    106909392,
-                    1087426260
-                ],
-                [
-                    2846385770
-                ],
-                [
-                    3425386926
-                ],
-                [
-                    3989629871
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -17948,22 +17819,18 @@
             ]
         },
         {
-            "description": "Kills proc perks. light.gg prefers feeding frenzy. MW: Range",
+            "description": "Rampage Frenzy. Go wild, yo. MW: Range",
             "hash": 1601177201,
-            "name": "Kills proc perks",
+            "name": "Rampage Frenzy",
             "plugs": [
                 [
-                    839105230,
-                    1467527085,
-                    4090651448
+                    839105230
                 ],
                 [
-                    3142289711,
-                    106909392
+                    3142289711
                 ],
                 [
-                    2779035018,
-                    744594675
+                    2779035018
                 ],
                 [
                     3425386926
@@ -17992,6 +17859,7 @@
                     106909392
                 ],
                 [
+                    2779035018,
                     744594675
                 ],
                 [
@@ -20395,6 +20263,195 @@
                 ],
                 [
                     2988596335
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Direct Hits For chill clip. However, Demolitionist is ideal in column 3.",
+            "hash": 3568377122,
+            "name": "Chill clip b",
+            "plugs": [
+                [
+                    1478423395,
+                    1844523823
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2978966579
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll, get ability energy",
+            "hash": 3568377122,
+            "name": "demigodroll",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    2978966579,
+                    3592538738
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Auto-Loading Thunder.",
+            "hash": 1967303408,
+            "name": "Auto-Loading Thunder",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    2420895100
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "light.gg fave for pvp?",
+            "hash": 108221785,
+            "name": "light.gg",
+            "plugs": [
+                [
+                    3436462433
+                ],
+                [
+                    591790007
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "adagio for 30% dmg for 10 sec",
+            "hash": 2591111628,
+            "name": "adagio",
+            "plugs": [
+                [
+                    1556840489,
+                    3096702027,
+                    3436462433
+                ],
+                [
+                    3673922083
+                ],
+                [
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Shepherds Watch. Team shooting, PvE",
+            "hash": 3743729616,
+            "name": "Shepherds Watch",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    3142289711
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 1601177201,
+            "name": "demigodrolls",
+            "plugs": [
+                [
+                    3661387068,
+                    1467527085,
+                    1392496348,
+                    839105230
+                ],
+                [
+                    744594675,
+                    2779035018
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 2233545123,
+            "name": "demigodroll",
+            "plugs": [
+                [
+                    3300816228,
+                    1354429876,
+                    1556840489
+                ],
+                [
+                    1771339417,
+                    1546637391
+                ],
+                [
+                    4008116374
                 ]
             ],
             "tags": [
