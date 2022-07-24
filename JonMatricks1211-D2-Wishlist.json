@@ -943,7 +943,7 @@
             ]
         },
         {
-            "description": "Vorpal for bosses and guardians, emphasis on reloading or overloading.",
+            "description": "Vorpal for bosses and guardians, emphasis on reloading or overloading. MW: Velocity",
             "hash": 4255586669,
             "name": "Empty Vorpal",
             "plugs": [
@@ -968,7 +968,7 @@
             ]
         },
         {
-            "description": "For breaking shields (if one were ever to need a grenade launcher to do so.) Ideal barrels are subject to debate.",
+            "description": "For breaking shields (if one were ever to need a grenade launcher to do so.) Ideal barrels are subject to debate.  MW: Velocity",
             "hash": 4255586669,
             "name": "Broken Vessel",
             "plugs": [
@@ -1195,9 +1195,9 @@
             ]
         },
         {
-            "description": "Rapid Hit. Light.gg. MW: Handling?",
+            "description": "Survivor's Guilt.  My aim isn't good enough for Rapid Hit (2 sec buff). Light.gg likes. MW: Handling?",
             "hash": 310708513,
-            "name": "Rapid Hit",
+            "name": "Survivor's Guilt",
             "plugs": [
                 [
                     839105230,
@@ -1208,8 +1208,8 @@
                     1561002382
                 ],
                 [
-                    247725512,
-                    1168162263
+                    1168162263,
+                    247725512
                 ],
                 [
                     1015611457
@@ -3058,8 +3058,7 @@
                 [
                     839105230,
                     1467527085,
-                    1392496348,
-                    1482024992
+                    3661387068
                 ],
                 [
                     1885400500
@@ -3086,8 +3085,9 @@
             "plugs": [
                 [
                     839105230,
-                    1840239774,
-                    1392496348
+                    4090651448,
+                    3250034553,
+                    3661387068
                 ],
                 [
                     1968497646
@@ -3518,7 +3518,7 @@
             ]
         },
         {
-            "description": "Swashbuckler",
+            "description": "Swashbuckler. MW: Range",
             "hash": 378498222,
             "name": "Swashbuckler",
             "plugs": [
@@ -3531,7 +3531,8 @@
                 [
                     1885400500,
                     1561002382,
-                    2420895100
+                    679225683,
+                    1087426260
                 ],
                 [
                     1631667848
@@ -3548,39 +3549,7 @@
             ]
         },
         {
-            "description": "Reloader",
-            "hash": 378498222,
-            "name": "Reloader",
-            "plugs": [
-                [
-                    839105230,
-                    1392496348,
-                    1482024992,
-                    4090651448,
-                    1467527085
-                ],
-                [
-                    3230963543,
-                    679225683,
-                    1431678320
-                ],
-                [
-                    2779035018,
-                    2946784966
-                ],
-                [
-                    1015611457
-                ],
-                [
-                    744217850
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "CQC",
+            "description": "CQC godroll",
             "hash": 378498222,
             "name": "CQC",
             "plugs": [
@@ -3597,40 +3566,38 @@
                     4071163871
                 ],
                 [
-                    4104185692,
                     3708227201
                 ],
                 [
-                    744217850
+                    744217850,
+                    4008116374
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "Subsistence / Overflow",
+            "description": "Subsistence. MW: Range",
             "hash": 378498222,
-            "name": "Subsistence / Overflow",
+            "name": "Subsistence",
             "plugs": [
                 [
                     839105230,
                     1467527085,
-                    1482024992
+                    4090651448
                 ],
                 [
                     1561002382,
                     1885400500
                 ],
                 [
-                    1820235745,
-                    3643424744
+                    1820235745
                 ],
                 [
-                    4082225868,
                     11612903,
                     4104185692,
-                    3708227201
+                    4082225868
                 ],
                 [
                     744217850
@@ -5031,7 +4998,7 @@
             ]
         },
         {
-            "description": "Shield Break.",
+            "description": "Shield Break. MW: Range",
             "hash": 2891672170,
             "name": "Shield Break",
             "plugs": [
@@ -5057,7 +5024,7 @@
             ]
         },
         {
-            "description": "Punching. Popular perks.",
+            "description": "Punching. Popular perks.MW: Range",
             "hash": 2891672170,
             "name": "Swashbuckler",
             "plugs": [
@@ -5076,8 +5043,10 @@
                 ],
                 [
                     4082225868,
-                    2679249093,
                     2360754333
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
@@ -7692,7 +7661,7 @@
             ]
         },
         {
-            "description": "For frenzied combat, clearing, and rapid reload / firing.",
+            "description": "For frenzied combat, clearing, and ability spamming.  MW: Velocity",
             "hash": 4255586669,
             "name": "Empty Lot",
             "plugs": [
@@ -7702,12 +7671,10 @@
                     3525010810
                 ],
                 [
-                    1716000303,
                     3032599245
                 ],
                 [
-                    2779035018,
-                    4071163871
+                    3300816228
                 ],
                 [
                     4082225868,
@@ -8528,11 +8495,11 @@
                     839105230
                 ],
                 [
-                    2420895100,
                     1885400500
                 ],
                 [
-                    2779035018
+                    2779035018,
+                    2846385770
                 ],
                 [
                     3425386926
@@ -12878,7 +12845,7 @@
             ]
         },
         {
-            "description": "Perses-Destroy: Rapid Hit + Explosive Payload. Great combo for scout rifle. Also a light.gg fave. πέρθω ",
+            "description": "Perses-Destroy: Explosive Payload. Great for scout rifle. Also a light.gg fave. Undecided on 3rd column, mixed feelings about rapid hit. πέρθω ",
             "hash": 1019000888,
             "name": "Perses-Destroy",
             "plugs": [
@@ -12889,7 +12856,7 @@
                     3142289711
                 ],
                 [
-                    247725512
+                    2946784966
                 ],
                 [
                     3038247973
@@ -12899,7 +12866,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -15312,7 +15279,7 @@
             ]
         },
         {
-            "description": "Clash against Titans with vorpal. MW: Range. Πέρσης.",
+            "description": "Son of Crius: Clash against Titans with vorpal. Or use Explosive Payload. Downgraded my opinion of Rapid Hit. \nMW: Range. Πέρσης.",
             "hash": 1019000888,
             "name": "Son of Crius",
             "plugs": [
@@ -15326,14 +15293,15 @@
                     247725512
                 ],
                 [
-                    1546637391
+                    1546637391,
+                    3038247973
                 ],
                 [
                     1607056502
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -15492,37 +15460,9 @@
             ]
         },
         {
-            "description": "Survivor's Osmosis (Beyond Light)",
+            "description": "Frenzy Junkie. Subsistence is nice, but so is heating up and A.Asassin. MW: Range",
             "hash": 310708513,
-            "name": "Survivor's Osmosis",
-            "plugs": [
-                [
-                    4090651448,
-                    839105230,
-                    1467527085
-                ],
-                [
-                    1885400500,
-                    1968497646,
-                    1561002382
-                ],
-                [
-                    2010801679,
-                    247725512,
-                    1820235745
-                ],
-                [
-                    1774574192
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Frenzy",
-            "hash": 310708513,
-            "name": "Frenzy",
+            "name": "Frenzy Junkie",
             "plugs": [
                 [
                     839105230,
@@ -15535,10 +15475,12 @@
                 ],
                 [
                     1570042021,
-                    1820235745
+                    2010801679
                 ],
                 [
-                    4104185692
+                    4104185692,
+                    11612903,
+                    1774574192
                 ],
                 [
                     4091460919
@@ -17316,9 +17258,9 @@
             ]
         },
         {
-            "description": "light.gg",
+            "description": "one-two punch.  light.gg MW: Range",
             "hash": 2891672170,
-            "name": "light.gg",
+            "name": "one-two punch",
             "plugs": [
                 [
                     1332244541,
@@ -17330,16 +17272,19 @@
                     106909392
                 ],
                 [
-                    3161816588
+                    3161816588,
+                    1631667848
                 ],
                 [
-                    2679249093,
-                    2360754333,
-                    1546637391
+                    2679249093
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVP",
+                "PVE"
             ]
         },
         {
@@ -18262,7 +18207,8 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVE",
+                "GodPVE"
             ]
         },
         {
@@ -18279,17 +18225,18 @@
                     106909392
                 ],
                 [
-                    3400784728
+                    1428297954
                 ],
                 [
-                    2896038713
+                    1954620775,
+                    47981717
                 ],
                 [
                     744217850
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVP"
             ]
         },
         {
@@ -19931,9 +19878,9 @@
             ]
         },
         {
-            "description": "Survivor's Guilt.  Osmosis. Post-WQ foundry perks.",
+            "description": "Subsistent Epitaph: Subsistence is ideal. Osmosis, Frenzy, Junkie all nice. Post-WQ foundry perks. MW: Range",
             "hash": 310708513,
-            "name": "Survivor's Guilt",
+            "name": "Subsistent Epitaph",
             "plugs": [
                 [
                     839105230,
@@ -19945,39 +19892,11 @@
                     1885400500
                 ],
                 [
-                    2010801679,
                     1820235745
                 ],
                 [
-                    1774574192
-                ],
-                [
-                    4091460919
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Heating Adrenaline.  ",
-            "hash": 310708513,
-            "name": "Heating Adrenaline.  ",
-            "plugs": [
-                [
-                    1467527085,
-                    839105230,
-                    4090651448
-                ],
-                [
-                    1885400500,
-                    1561002382
-                ],
-                [
-                    1570042021,
-                    1820235745
-                ],
-                [
+                    1774574192,
+                    4104185692,
                     11612903
                 ],
                 [
@@ -19985,7 +19904,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -20682,6 +20601,92 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 575830664,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    3425386926,
+                    1954620775
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "pre-WQ PvE godroll",
+            "hash": 4156253727,
+            "name": "pre-WQ PvE godroll",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3425386926,
+                    1546637391,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Auto-loading holster. Plus some damage perk. MW: Range",
+            "hash": 2891672170,
+            "name": "Auto-loading holster",
+            "plugs": [
+                [
+                    1482024992,
+                    1332244541,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3523296417,
+                    2679249093,
+                    3425386926,
+                    2360754333,
+                    1546637391,
+                    3708227201,
+                    4082225868
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
