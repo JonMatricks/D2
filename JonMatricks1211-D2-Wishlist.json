@@ -11470,9 +11470,9 @@
             ]
         },
         {
-            "description": "MW: Velocity, Handling",
+            "description": "Flashbang Vorpal MW: Velocity, Handling [S18]",
             "hash": 3849810018,
-            "name": "",
+            "name": "Flashbang Vorpal",
             "plugs": [
                 [
                     3525010810,
@@ -11480,13 +11480,16 @@
                     981914802
                 ],
                 [
-                    3301904089
+                    3032599245
                 ],
                 [
                     3300816228
                 ],
                 [
                     1546637391
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
@@ -11494,9 +11497,9 @@
             ]
         },
         {
-            "description": "MW: Handling, Reload",
+            "description": "One-Two Puglist MW: Handling",
             "hash": 1679868061,
-            "name": "",
+            "name": "One-Two Puglist",
             "plugs": [
                 [
                     1482024992,
@@ -11504,15 +11507,17 @@
                 ],
                 [
                     791862061,
-                    1087426260,
-                    2420895100
+                    1087426260
                 ],
                 [
-                    1820235745,
-                    3161816588
+                    691659142
                 ],
                 [
-                    2360754333
+                    2360754333,
+                    2679249093
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
@@ -11544,102 +11549,26 @@
             ]
         },
         {
-            "description": "Battle Rifle: Perks for smoother run-n-gun shooting. \nMW: Stability, Handling, Range",
+            "description": "A Battle Rifle 117 would be proud of. MW: Range [Season 18]",
             "hash": 2708806099,
-            "name": "Battle Rifle",
-            "plugs": [
-                [
-                    839105230,
-                    3661387068,
-                    4090651448
-                ],
-                [
-                    3142289711,
-                    1885400500
-                ],
-                [
-                    2450788523,
-                    1168162263
-                ],
-                [
-                    454085387
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Jackal Sniper. MW: Stability",
-            "hash": 548958835,
-            "name": "Jackal Sniper",
+            "name": "Blunt Rifle",
             "plugs": [
                 [
                     839105230
                 ],
                 [
-                    3868766766,
-                    2969185026
+                    3142289711
                 ],
                 [
-                    1820235745
+                    691659142,
+                    536173722
                 ],
                 [
-                    2610012052
-                ]
-            ],
-            "tags": [
-                "GodPVE",
-                "Controller"
-            ]
-        },
-        {
-            "description": "Shield Break.",
-            "hash": 548958835,
-            "name": "Shield Break",
-            "plugs": [
-                [
-                    1482024992,
-                    839105230,
-                    1467527085
+                    454085387,
+                    2529412083
                 ],
                 [
-                    732557052,
-                    2969185026,
-                    2680121939
-                ],
-                [
-                    3096702027
-                ],
-                [
-                    1683379515
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Eager Elite. For skiing, mobility, etc.",
-            "hash": 3257091166,
-            "name": "Eager Elite",
-            "plugs": [
-                [
-                    436053704,
-                    1261178282,
-                    938542991
-                ],
-                [
-                    52780822,
-                    599007201,
-                    269888150
-                ],
-                [
-                    3705817207,
-                    1749209109
-                ],
-                [
-                    2077819806
+                    1260401931
                 ]
             ],
             "tags": [
@@ -11647,28 +11576,31 @@
             ]
         },
         {
-            "description": "Plasma Sniper. MW: Stability, Range",
-            "hash": 548958835,
-            "name": "Plasma Sniper",
+            "description": "Eager Elite. For skiing, mobility, etc. [Season 18]",
+            "hash": 3257091166,
+            "name": "Eager Elite",
             "plugs": [
                 [
-                    839105230,
-                    1467527085
+                    1261178282,
+                    436053704
                 ],
                 [
-                    2680121939,
-                    3868766766
+                    52780822
                 ],
                 [
-                    1820235745
+                    1749209109,
+                    4085959009
                 ],
                 [
-                    4104185692,
-                    4049631843
+                    2077819806,
+                    1618208178
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -11808,15 +11740,13 @@
             ]
         },
         {
-            "description": "Grenadier. MW: Stability, Handling, Range",
+            "description": "Grenadier. MW: Range [Season 18]",
             "hash": 2708806099,
             "name": "Grenadier",
             "plugs": [
                 [
                     839105230,
-                    3661387068,
-                    4090651448,
-                    1482024992
+                    4090651448
                 ],
                 [
                     3142289711,
@@ -11830,7 +11760,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -12077,25 +12007,25 @@
             ]
         },
         {
-            "description": "Arbiter's Plasma Sword. Frenzy Trance for bonuses in sustained combat. [S15]",
+            "description": "Arbiter's Plasma Sword. Frenzy Trance for bonuses in sustained combat. [S18]",
             "hash": 3257091167,
             "name": "Plasma Sword",
             "plugs": [
                 [
-                    3666208348,
                     938542991,
-                    1261178282,
                     436053704
                 ],
                 [
-                    52780822,
-                    269888150
+                    52780822
                 ],
                 [
                     3705817207
                 ],
                 [
                     4104185692
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
@@ -12103,77 +12033,24 @@
             ]
         },
         {
-            "description": "Vorpal Half. If Vorpal is actually worth keeping in Year 6.",
+            "description": "Vorpal Half. [Season 18]",
             "hash": 3257091167,
             "name": "Vorpal Half",
             "plugs": [
                 [
-                    1261178282,
-                    3666208348,
                     938542991
                 ],
                 [
-                    52780822,
-                    269888150,
-                    599007201
+                    52780822
                 ],
                 [
-                    3705817207,
                     1749209109
                 ],
                 [
                     1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Kill clip. Light.gg fave.\nMW:  Range",
-            "hash": 2708806099,
-            "name": "Kill clip",
-            "plugs": [
-                [
-                    839105230,
-                    3661387068,
-                    4090651448
                 ],
                 [
-                    3142289711,
-                    1885400500
-                ],
-                [
-                    1168162263
-                ],
-                [
-                    1015611457
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "For attacking",
-            "hash": 3257091166,
-            "name": "1/2 Truth",
-            "plugs": [
-                [
-                    2827049491,
-                    938542991,
-                    3666208348
-                ],
-                [
-                    52780822,
-                    269888150
-                ],
-                [
-                    1749209109,
-                    3705817207
-                ],
-                [
-                    354401740
+                    1260401931
                 ]
             ],
             "tags": [
@@ -12277,25 +12154,25 @@
             ]
         },
         {
-            "description": "Eager Half: A Mobility Sword.",
+            "description": "Eager Half: A Mobility Sword. [Season 18]",
             "hash": 3257091167,
             "name": "Eager Half",
             "plugs": [
                 [
-                    1261178282
+                    1261178282,
+                    436053704
                 ],
                 [
-                    52780822,
-                    599007201
+                    52780822
                 ],
                 [
                     2077819806
                 ],
                 [
-                    4104185692,
-                    3708227201,
-                    1546637391,
-                    3913600130
+                    3708227201
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
@@ -15532,13 +15409,12 @@
             ]
         },
         {
-            "description": "Snap Finder. MW: Range",
+            "description": "Snap Finder. Decent PvP roll. MW: Range",
             "hash": 2708806099,
             "name": "Snap Finder",
             "plugs": [
                 [
                     839105230,
-                    3661387068,
                     4090651448
                 ],
                 [
@@ -15553,7 +15429,7 @@
                 ]
             ],
             "tags": [
-                "GodPVP"
+                "PVP"
             ]
         },
         {
@@ -15990,7 +15866,7 @@
             ]
         },
         {
-            "description": "Covenant Beam: Extended has lower handling but better range than Arrowhead. MW: Stability, Range",
+            "description": "Covenant Beam: Max Range. Extended has lower handling but better range than Arrowhead. MW: Range",
             "hash": 548958835,
             "name": "Covenant Beam",
             "plugs": [
@@ -15998,18 +15874,22 @@
                     1467527085
                 ],
                 [
-                    3868766766,
                     2969185026
                 ],
                 [
                     1820235745
                 ],
                 [
-                    2610012052
+                    2610012052,
+                    3523296417,
+                    4293542123,
+                    4104185692
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
-                "GodPVE",
                 "PVE",
                 "Mouse"
             ]
@@ -16251,9 +16131,9 @@
             ]
         },
         {
-            "description": "ad-clear MW: Velocity, Handling",
+            "description": "Ambitious Rampage MW: Velocity, Handling",
             "hash": 3849810018,
-            "name": "",
+            "name": "Ambitious Rampage",
             "plugs": [
                 [
                     3525010810,
@@ -16261,39 +16141,17 @@
                     981914802
                 ],
                 [
-                    3032599245
-                ],
-                [
-                    3300816228
-                ],
-                [
-                    3523296417
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "demigodroll MW: Velocity, Handling",
-            "hash": 3849810018,
-            "name": "ambitious vorpal",
-            "plugs": [
-                [
-                    3525010810,
-                    1478423395,
-                    981914802
-                ],
-                [
-                    3301904089,
-                    3032599245
+                    3032599245,
+                    3301904089
                 ],
                 [
                     2010801679
                 ],
                 [
-                    1546637391,
-                    3523296417
+                    3425386926
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
@@ -17109,31 +16967,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "Perpetual Execution. A popular perk combo.",
-            "hash": 2708806099,
-            "name": "Perpetual Execution",
-            "plugs": [
-                [
-                    839105230,
-                    3661387068,
-                    4090651448
-                ],
-                [
-                    3142289711,
-                    1885400500
-                ],
-                [
-                    1428297954
-                ],
-                [
-                    454085387
-                ]
-            ],
-            "tags": [
-                "PVP"
             ]
         },
         {
@@ -18644,13 +18477,12 @@
             ]
         },
         {
-            "description": "Snappy & Blunt: useful for ability/melee synergy like Solar 3.0. Blunt Execution Rounds grants 100 handling, +500% dmg (100% in PvP) for 1 burst.",
+            "description": "Snappy & Blunt: useful for ability/melee synergy like Solar 3.0. Blunt Execution Rounds grants 100 handling, +500% dmg (100% in PvP) for 1 burst. MW: Range",
             "hash": 2708806099,
             "name": "Snappy & Blunt",
             "plugs": [
                 [
                     839105230,
-                    3661387068,
                     4090651448
                 ],
                 [
@@ -18665,7 +18497,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -19733,8 +19565,10 @@
                     3700496672
                 ],
                 [
-                    4104185692,
-                    4049631843
+                    4104185692
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
@@ -20724,6 +20558,145 @@
                 ],
                 [
                     4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Burn Rifle for Solar 3.0 Build. MW: Range",
+            "hash": 2708806099,
+            "name": "Burn Rifle",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3523296417,
+                    691659142,
+                    536173722,
+                    1906147653
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    1260401931
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Snapshot-Gutshot - compensate for people who can't aim well in PvP, but ADS anyway. MW: Range [Season 18]",
+            "hash": 2708806099,
+            "name": "Snap-Gut",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    957782887
+                ],
+                [
+                    1365187766
+                ],
+                [
+                    1260401931
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blazed Path. BURN BEAM. MW: STability [S18]",
+            "hash": 548958835,
+            "name": "Blazed Path",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    732557052,
+                    2680121939
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    1260401931
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Shield Breaker. MW: Stability [S18]",
+            "hash": 548958835,
+            "name": "Shield Breaker",
+            "plugs": [
+                [
+                    839105230,
+                    1467527085,
+                    1482024992
+                ],
+                [
+                    2680121939,
+                    732557052
+                ],
+                [
+                    1048183818,
+                    3096702027
+                ],
+                [
+                    1683379515
+                ],
+                [
+                    1260401931
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Well-Rounded Tricorn.",
+            "hash": 548958835,
+            "name": "Well-Rounded Tricorn",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    732557052,
+                    2680121939,
+                    3868766766
+                ],
+                [
+                    744594675
+                ],
+                [
+                    2610012052,
+                    3523296417
+                ],
+                [
+                    1260401931
                 ]
             ],
             "tags": [
