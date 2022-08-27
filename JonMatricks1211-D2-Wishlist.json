@@ -20702,6 +20702,601 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "New fave solar AR. Omolon made improvements on The Number (S14 arc).  MW: Range",
+            "hash": 2119346509,
+            "name": "The New Number",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290,
+                    3060983774
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Shield breaker",
+            "hash": 2119346509,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    1048183818
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "No more need for Threaded Needle... MW: Range",
+            "hash": 1911060537,
+            "name": "Taipan is a snake",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1771339417
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Team Taipan shooting. MW: Range / charge time",
+            "hash": 1911060537,
+            "name": "Team Taipan",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    2621346526
+                ],
+                [
+                    1771339417
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Slam Poetry. MW: Range",
+            "hash": 2671639706,
+            "name": "Slam Poetry",
+            "plugs": [
+                [
+                    839105230,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1631667848,
+                    744594675
+                ],
+                [
+                    691659142
+                ],
+                [
+                    744217850,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Outlaw Rampage....?? MW: Range/Reload",
+            "hash": 2671639706,
+            "name": "Outlaw Rampage",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    2420895100
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    744217850,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Boudicca. MW: Range or Handling [JonMatricks#1211, S18]",
+            "hash": 1916287826,
+            "name": "Celtic Queen",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    691659142
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Surrounded Threat Frenzy. MW: Handling or Reload [JonMatricks#1211, S18]",
+            "hash": 1916287826,
+            "name": "Roman Rebel",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    4104185692,
+                    3708227201
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Plucked-22. Ability regen with your gun. MW: Range [JonMatricks#1211, S18]",
+            "hash": 4100775158,
+            "name": "Plucked-22",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2010801679,
+                    3513791699
+                ],
+                [
+                    691659142,
+                    3523296417
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": " ? [JonMatricks#1211, S18]",
+            "hash": 4100775158,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Anything Pizza: Osmosis SMGm MW: Range [JonMatricks#1211, S18]",
+            "hash": 4100775158,
+            "name": "Anything Pizza",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3513791699
+                ],
+                [
+                    1774574192
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "No Headstone for Outlaws. [JonMatricks#1211, S18]",
+            "hash": 2531963421,
+            "name": "No Headstone for Outlaws",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    124408337
+                ],
+                [
+                    3907865655
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Swashbuckler, indeed. MW: Handling [JonMatricks#1211, S18]",
+            "hash": 2531963421,
+            "name": "Blunderbuss",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    106909392
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    4082225868,
+                    1161469972
+                ],
+                [
+                    3907865655
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Arc melee builds. MW: Handling or Range. [JonMatricks#1211, S18]",
+            "hash": 1298815317,
+            "name": "Brigands have no laws",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    691659142,
+                    536173722
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ],
+                [
+                    3907865655
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Re-skinned Stochastic Variable (s14). MW: Range [JonMatricks#1211, S18]",
+            "hash": 2988121501,
+            "name": "Variable Stochastic",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4082225868,
+                    11612903
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Arc melee builds. MW: Handling [JonMatricks#1211, S18]",
+            "hash": 2988121501,
+            "name": "Grave buckler",
+            "plugs": [
+                [
+                    839105230,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1631667848
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Grenadier builds. [JonMatricks#1211, S18]",
+            "hash": 2988121501,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Range [JonMatricks#1211, S18]",
+            "hash": 2988121501,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    1482024992,
+                    4090651448,
+                    1467527085
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3708227201
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Subsistent Rampage. MW: Range [JonMatricks#1211, S18]",
+            "hash": 1141927949,
+            "name": "Subsistent Rampage",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Well-rounded Puglist Tricorn for run-n-gun ability spamming. MW: Handling. [JonMatricks#1211, S18]",
+            "hash": 1141927949,
+            "name": "Well-rounded Puglist Tricorn",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    744594675
+                ],
+                [
+                    691659142,
+                    2610012052
+                ],
+                [
+                    515704826
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Desperate Outlaw: Precision Kills. MW: Handling [JonMatricks#1211, S18]",
+            "hash": 1141927949,
+            "name": "Desperate Outlaw",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    3047969693
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Heated Rampage: MW Range [JonMatricks#1211, S18]",
+            "hash": 1141927949,
+            "name": "Heated Rampage",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1570042021
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    515704826,
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
