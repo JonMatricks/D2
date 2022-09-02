@@ -1385,6 +1385,21 @@ dimwishlist:item=409551876&perks=1467527085,1561002382,4071163871,957782887,4091
 dimwishlist:item=409551876&perks=1840239774,1561002382,4071163871,957782887,4091460919
 
 
+// Zaouli's Bane - Canoli Cane.  (god-pve)
+//notes: Canoli Cane. Incandescent Explosive. MW: Range [jonmatricks#1211, S18] tags:god-pve
+dimwishlist:item=431721920&perks=839105230,3142289711,3038247973,4293542123,120721526
+
+
+// Zaouli's Bane - Demopuglist (pve)
+//notes: Demopuglist: Ability spamming.  [jonmatricks#1211, S18] tags:pve
+dimwishlist:item=431721920&perks=839105230,3142289711,691659142,3523296417,120721526
+
+
+// Zaouli's Bane - Explosive Firefly (pve)
+//notes: Explosive Firefly. MW: Range [S18] tags:pve
+dimwishlist:item=431721920&perks=839105230,3142289711,3038247973,3824105627,120721526
+
+
 // The Palindrome - Palindrome vs Environment (pve,god-pve)
 //notes: Palindrome vs Environment. OFA (35%, 10s) and Rampage (10/ 21/ 33%, 5s).
 MW: Stability, Range tags:pve,god-pve
@@ -4428,6 +4443,17 @@ dimwishlist:item=1313528549&perks=1261178282,269888150,1749209109,1546637391
 dimwishlist:item=1313528549&perks=1261178282,599007201,1749209109,1546637391
 
 
+// Qullim's Terminus - Killing Stats (god-pve)
+//notes: Killing Stats. MW: Reload. [jonmatricks#1211, S18] tags:god-pve
+dimwishlist:item=1321506184&perks=839105230,3142289711,1583705720,557221067,120721526
+
+
+// Qullim's Terminus (pve)
+//notes: demigodroll [jonmatricks#1211, S18] tags:pve
+dimwishlist:item=1321506184&perks=839105230,3142289711,1359896290,557221067,120721526
+dimwishlist:item=1321506184&perks=839105230,3142289711,1570042021,557221067,120721526
+
+
 // Chrysura Melo - Demolition Wasp (pve,god-pve)
 //notes: For the grenadier. Shoot to toss grenades, and toss grenades to shoot.
 MW: stability, handling
@@ -6384,6 +6410,19 @@ dimwishlist:item=1924276978&perks=1482024992,3230963543,1645158859,2213355989,74
 dimwishlist:item=1924276978&perks=1392496348,3142289711,1645158859,2213355989,744217850
 dimwishlist:item=1924276978&perks=1392496348,1431678320,1645158859,2213355989,744217850
 dimwishlist:item=1924276978&perks=1392496348,3230963543,1645158859,2213355989,744217850
+
+
+// Doom of Chelchis - Dragonfirefly (god-pve)
+//notes: Dragonfirefly: solar & void explosion. MW: Range [jonmatricks#1211, S18]  tags:god-pve
+dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171,120721526
+dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,169755979,120721526
+dimwishlist:item=1937552980&perks=839105230,3142289711,1183436451,2848615171,120721526
+dimwishlist:item=1937552980&perks=839105230,3142289711,1183436451,169755979,120721526
+
+
+// Doom of Chelchis - One Stat For All (pve)
+//notes: One Stat For All. MW: Range. [jonmatricks#1211, S18]  tags:pve
+dimwishlist:item=1937552980&perks=839105230,3142289711,1583705720,4049631843,120721526
 
 
 // Truthteller - Auto-loading (god-pve)
@@ -11628,6 +11667,27 @@ dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887,4091
 dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887,515704826
 
 
+// Defiance of Yasmin - Snap Line (pve)
+//notes: Vorpal Snap Line. MW: Handling [jonmatricks#1211, S18] tags:pve
+dimwishlist:item=3228096719&perks=839105230,3142289711,957782887,1771339417,120721526
+dimwishlist:item=3228096719&perks=839105230,3142289711,957782887,1546637391,120721526
+
+
+// Defiance of Yasmin - Opening Snapshot (pvp)
+//notes: Opening Snapshot. MW: Handling [jonmatricks#1211, S18] tags:pvp
+dimwishlist:item=3228096719&perks=839105230,3142289711,957782887,47981717,120721526
+
+
+// Defiance of Yasmin - Teamshooter (pve)
+//notes: Teamshooter. MW: Handling [jonmatricks#1211, S18] tags:pve
+dimwishlist:item=3228096719&perks=839105230,3142289711,2621346526,1771339417,120721526
+
+
+// Defiance of Yasmin - Demosmosis (pve)
+//notes: Demosmosis. MW: Handling [jonmatricks#1211, S18] tags:pve
+dimwishlist:item=3228096719&perks=839105230,3142289711,1774574192,3523296417,120721526
+
+
 // Vouchsafe - Safe choice (god-pve)
 //notes: The Safe Choice - light.gg fave. Rapid Hit + Explosive Payload always good on scouts. tags:god-pve
 dimwishlist:item=3242168339&perks=4090651448,3142289711,247725512,2848615171
@@ -14263,6 +14323,25 @@ dimwishlist:item=3937866388&perks=1482024992,106909392,4071163871,3708227201
 // Seventh Seraph SI-2 (pve)
 //notes: tags:pve
 dimwishlist:item=3937866388&perks=4090651448,3142289711,3523296417,1546637391
+
+
+// Midha's Reckoning - Unrelenting Reservoir (pve)
+//notes: Unrelenting Reservoir. MW: Charge Time tags:pve
+dimwishlist:item=3969066556&perks=839105230,1687452232,3108830275,1427256713,120721526
+dimwishlist:item=3969066556&perks=839105230,689005463,3108830275,1427256713,120721526
+
+
+// Midha's Reckoning - Surrounded and Cornered. (pve)
+//notes: Surrounded and Cornered. tags:pve
+dimwishlist:item=3969066556&perks=839105230,1687452232,1799762209,3708227201,120721526
+dimwishlist:item=3969066556&perks=839105230,689005463,1799762209,3708227201,120721526
+dimwishlist:item=3969066556&perks=839105230,2680121939,1799762209,3708227201,120721526
+
+
+// Midha's Reckoning - Golden Gloves (pve)
+//notes: Golden Gloves. MW: Charge Time [jonmatricks#1211, S18] tags:pve
+dimwishlist:item=3969066556&perks=839105230,1687452232,691659142,2610012052,120721526
+dimwishlist:item=3969066556&perks=839105230,689005463,691659142,2610012052,120721526
 
 
 // Staccato-46 - Scorch Scout (god-pve)
