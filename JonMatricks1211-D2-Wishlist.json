@@ -21084,25 +21084,28 @@
             ]
         },
         {
-            "description": "Re-skinned Stochastic Variable (s14). MW: Range [JonMatricks#1211, S18]",
+            "description": "Re-skinned Stochastic Variable (s14). Subsistence rolls for continuous shooting. MW: Range [JonMatricks#1211, S18]",
             "hash": 2988121501,
             "name": "Variable Stochastic",
             "plugs": [
                 [
-                    839105230
+                    839105230,
+                    1467527085
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     1820235745
                 ],
                 [
                     4082225868,
-                    11612903
+                    11612903,
+                    3708227201
                 ],
                 [
-                    2839173408
+                    4091460919
                 ]
             ],
             "tags": [
@@ -21110,17 +21113,17 @@
             ]
         },
         {
-            "description": "Arc melee builds. MW: Handling [JonMatricks#1211, S18]",
+            "description": "Grave buckler: Arc melee builds. MW: Handling [JonMatricks#1211, S18]",
             "hash": 2988121501,
             "name": "Grave buckler",
             "plugs": [
                 [
                     839105230,
-                    1482024992,
                     1467527085
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     1631667848
@@ -21129,7 +21132,8 @@
                     4082225868
                 ],
                 [
-                    2839173408
+                    2839173408,
+                    4091460919
                 ]
             ],
             "tags": [
@@ -21137,18 +21141,17 @@
             ]
         },
         {
-            "description": "Grenadier builds. [JonMatricks#1211, S18]",
+            "description": "Demo Junkie: Grenadier builds. MW: Range [JonMatricks#1211, S18]",
             "hash": 2988121501,
-            "name": "",
+            "name": "Demo Junkie",
             "plugs": [
                 [
                     839105230,
-                    4090651448,
-                    1467527085,
-                    1482024992
+                    1467527085
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     3523296417
@@ -21157,7 +21160,8 @@
                     11612903
                 ],
                 [
-                    2839173408
+                    2839173408,
+                    4091460919
                 ]
             ],
             "tags": [
@@ -21165,18 +21169,17 @@
             ]
         },
         {
-            "description": "MW: Range [JonMatricks#1211, S18]",
+            "description": "Surrounded by Threats: Hi-cal rounds helpful for enemy flinch. Ricochet is nice for stability and secondary hits in crowds. MW: Range [JonMatricks#1211, S18]",
             "hash": 2988121501,
-            "name": "",
+            "name": "Surrounded by Threats",
             "plugs": [
                 [
                     839105230,
-                    1482024992,
-                    4090651448,
                     1467527085
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     4071163871
@@ -21679,6 +21682,34 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "In bounds: for stabilitiy / accuracy. MW: Stability",
+            "hash": 2988121501,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    3708227201,
+                    4082225868,
+                    11612903,
+                    1365187766
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
