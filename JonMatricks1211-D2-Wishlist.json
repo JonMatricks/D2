@@ -17166,34 +17166,6 @@
             ]
         },
         {
-            "description": "Tears of Joy. For this Godroll. Wellrounded is a unique perk, but Triple Tap works too.",
-            "hash": 1366394399,
-            "name": "Tears of Joy",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    744594675,
-                    2139363611
-                ],
-                [
-                    3038247973,
-                    64866129
-                ],
-                [
-                    1250481499
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
             "description": "Precision shots. ",
             "hash": 1366394399,
             "name": "Tears of Something",
@@ -17220,30 +17192,30 @@
             ]
         },
         {
-            "description": "Good for scouts. Although Hung Jury may be better (uncraftable) precision frame. Nightwatch also rolls with Payload.",
+            "description": "Good perks for scouts. Although Hung Jury may be a better (uncraftable) precision frame. Nightwatch also rolls with Payload.",
             "hash": 1366394399,
-            "name": "Scouts",
+            "name": "Tears of Joy",
             "plugs": [
                 [
-                    839105230,
-                    4090651448,
-                    1467527085
+                    839105230
                 ],
                 [
                     3142289711
                 ],
                 [
-                    3400784728
+                    3400784728,
+                    573122728
                 ],
                 [
-                    3038247973
+                    3038247973,
+                    64866129
                 ],
                 [
                     1250481499
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -17800,7 +17772,8 @@
                     3796465595
                 ],
                 [
-                    3528046508
+                    3528046508,
+                    3300816228
                 ],
                 [
                     1546637391
@@ -17819,7 +17792,8 @@
             "name": "Stasis, direct hits.",
             "plugs": [
                 [
-                    981914802
+                    981914802,
+                    1478423395
                 ],
                 [
                     3796465595,
@@ -17847,7 +17821,6 @@
             "plugs": [
                 [
                     1478423395,
-                    981914802,
                     3525010810
                 ],
                 [
@@ -22641,6 +22614,83 @@
                 ],
                 [
                     3989629871
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Only MG (and only heavy) with Incandescent. Feeding Frenzy for faster reloads. Range and stability in 1st two columns. MW: Range.",
+            "hash": 2194955522,
+            "name": "House Always Wins",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2779035018,
+                    1171147302
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    1905044254
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "decent alternative perks with Incandescent",
+            "hash": 2194955522,
+            "name": "Decent Odds",
+            "plugs": [
+                [
+                    839105230,
+                    1467527085
+                ],
+                [
+                    3142289711,
+                    3230963543
+                ],
+                [
+                    706527188,
+                    2869569095
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "More ammo capacity for Killing Tally.",
+            "hash": 2194955522,
+            "name": "Count the Odds",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    1645158859,
+                    2779035018
+                ],
+                [
+                    557221067
                 ]
             ],
             "tags": [
