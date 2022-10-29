@@ -22795,33 +22795,33 @@
             ]
         },
         {
-            "description": "Stability focused perks. BXR-55 is my preferred solar pulse. The alternative for solar pulse with Adaptive Muni is Ogma PR6.",
+            "description": "Subsistencent",
             "hash": 2603335652,
-            "name": "Perpetual Frenzy",
+            "name": "Subsistencent",
             "plugs": [
                 [
                     839105230
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
-                    1428297954
+                    1820235745
                 ],
                 [
-                    4293542123,
-                    4104185692
+                    4293542123
                 ],
                 [
                     2250679103
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "Range & Stability. Revamped with incandescent vs last year. MW: Range [S18]",
+            "description": "Range & Stability. Revamped with incandescent vs last year. Subsistence is a potential alternative too. MW: Range [S18]",
             "hash": 2603335652,
             "name": "Rangefinder",
             "plugs": [
@@ -22829,7 +22829,8 @@
                     839105230
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     2846385770
@@ -23119,6 +23120,85 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "PvP Godroll. MW: Handling?",
+            "hash": 1280894514,
+            "name": "Opening Snapshot",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Stability focused perks. BXR-55 is my preferred solar pulse. The alternative for solar pulse with Adaptive Muni is Ogma PR6.",
+            "hash": 2603335652,
+            "name": "Persistent Frenzy",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    4293542123,
+                    4104185692
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Green Tricorn: Gotta be some use for this in PvE, requires some skill to use in PvP for the .4 TTK. MW: Range, Handling.",
+            "hash": 2603335652,
+            "name": "Green Tricorn",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    1428297954,
+                    2846385770
+                ],
+                [
+                    2610012052
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
