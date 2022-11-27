@@ -1261,47 +1261,26 @@
                 [
                     1482024992,
                     839105230,
-                    4090651448
+                    4090651448,
+                    3250034553
                 ],
                 [
                     2420895100,
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     1820235745
                 ],
                 [
-                    4049631843,
                     3708227201,
-                    3592538738
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": " Vorpal.\nMW: Stability",
-            "hash": 409551876,
-            "name": "Vorpal",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    3250034553,
-                    3661387068
+                    3592538738,
+                    2213355989,
+                    1546637391,
+                    2848615171
                 ],
                 [
-                    1885400500,
-                    1561002382
-                ],
-                [
-                    1820235745,
-                    1631667848,
-                    3161816588
-                ],
-                [
-                    1546637391
+                    4091460919
                 ]
             ],
             "tags": [
@@ -3489,8 +3468,7 @@
                 [
                     1885400500,
                     1561002382,
-                    679225683,
-                    1087426260
+                    679225683
                 ],
                 [
                     1631667848
@@ -3499,7 +3477,8 @@
                     4082225868
                 ],
                 [
-                    744217850
+                    744217850,
+                    4008116374
                 ]
             ],
             "tags": [
@@ -3550,12 +3529,12 @@
                     1885400500
                 ],
                 [
-                    1820235745
+                    1820235745,
+                    3643424744
                 ],
                 [
                     11612903,
-                    4104185692,
-                    4082225868
+                    4104185692
                 ],
                 [
                     744217850
@@ -4723,7 +4702,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -4735,20 +4714,17 @@
                     466087222,
                     1482024992,
                     1300023272,
-                    4090651448,
                     1047830412
                 ],
                 [
                     791862061,
-                    106909392,
-                    3177308360
+                    106909392
                 ],
                 [
                     4071163871
                 ],
                 [
-                    3708227201,
-                    3425386926
+                    3708227201
                 ]
             ],
             "tags": [
@@ -4814,36 +4790,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 1821724780,
-            "name": "",
-            "plugs": [
-                [
-                    466087222,
-                    1482024992,
-                    4090651448,
-                    1047830412
-                ],
-                [
-                    3177308360,
-                    791862061,
-                    3142289711,
-                    106909392
-                ],
-                [
-                    1556840489,
-                    3161816588
-                ],
-                [
-                    3275789089,
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "CQC shotty. Surrounded (30%) or Frenzy (15%, +50 handling, +50 reload) pair well with Thread Detector.\nMW: Handling, Reload",
             "hash": 599895591,
             "name": "Frenzy Threat",
@@ -4874,9 +4820,9 @@
             ]
         },
         {
-            "description": "Precision hits with shotgun is not my style but this is a nice perk combo for it.\nMW: Range, Handling, Stability",
+            "description": "Precision hits with shotgun is not my style, and scorch is better than dragonfly but whatevs.\nMW: Range, Handling, Stability",
             "hash": 599895591,
-            "name": "Precision",
+            "name": "Dragonfly",
             "plugs": [
                 [
                     3250034553,
@@ -4889,7 +4835,9 @@
                     3142289711
                 ],
                 [
-                    247725512
+                    706527188,
+                    588594999,
+                    2946784966
                 ],
                 [
                     2848615171
@@ -4975,36 +4923,6 @@
                 ],
                 [
                     1683379515
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Punching. Popular perks.MW: Range",
-            "hash": 2891672170,
-            "name": "Swashbuckler",
-            "plugs": [
-                [
-                    1047830412,
-                    466087222,
-                    1482024992
-                ],
-                [
-                    791862061,
-                    106909392,
-                    3142289711
-                ],
-                [
-                    1631667848
-                ],
-                [
-                    4082225868,
-                    2360754333
-                ],
-                [
-                    744217850
                 ]
             ],
             "tags": [
@@ -5878,7 +5796,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "power crept by later guns & brigand's law [Season 18, WQ]",
             "hash": 2414141462,
             "name": "OFA",
             "plugs": [
@@ -5906,7 +5824,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "power crept by later guns & brigand's law [Season 18, WQ]",
             "hash": 2414141462,
             "name": "Swashbuckler",
             "plugs": [
@@ -5936,7 +5854,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "power crept by later guns & brigand's law [Season 18, WQ]",
             "hash": 2414141462,
             "name": "K Clip",
             "plugs": [
@@ -9993,36 +9911,6 @@
             ]
         },
         {
-            "description": "Adrenaline junkie roll (in anticipation of some unknown buff for 30th anniv)",
-            "hash": 599895591,
-            "name": "Junkie",
-            "plugs": [
-                [
-                    3250034553,
-                    4090651448,
-                    1840239774,
-                    1467527085,
-                    1392496348,
-                    1482024992
-                ],
-                [
-                    791862061,
-                    106909392,
-                    2420895100,
-                    3177308360,
-                    3142289711
-                ],
-                [
-                    4071163871,
-                    706527188
-                ],
-                [
-                    11612903
-                ]
-            ],
-            "tags": []
-        },
-        {
             "description": "Demolitionist edition\nMW: Range, Handling",
             "hash": 217140611,
             "name": "Demolitionicide",
@@ -11339,8 +11227,7 @@
                 ],
                 [
                     791862061,
-                    3142289711,
-                    2420895100
+                    3142289711
                 ],
                 [
                     706527188,
@@ -11618,7 +11505,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -12297,7 +12184,8 @@
                     3142289711
                 ],
                 [
-                    4071163871
+                    4071163871,
+                    1428297954
                 ],
                 [
                     47981717
@@ -14363,7 +14251,7 @@
             ]
         },
         {
-            "description": "Vorpal edition. MW: RANGE",
+            "description": "Vorpal edition. Someday shotguns may be meta. MW: RANGE",
             "hash": 2821430069,
             "name": "vorpal",
             "plugs": [
@@ -14380,7 +14268,8 @@
                     106909392
                 ],
                 [
-                    3523296417,
+                    1354429876,
+                    1556840489,
                     1820235745
                 ],
                 [
@@ -17068,33 +16957,31 @@
             ]
         },
         {
-            "description": "one-two punch.  light.gg MW: Range",
+            "description": "Punching perks.  1-2 punch is most preferred. light.gg MW: Range",
             "hash": 2891672170,
             "name": "one-two punch",
             "plugs": [
                 [
                     1332244541,
-                    466087222,
                     1482024992
                 ],
                 [
-                    791862061,
-                    106909392
+                    791862061
                 ],
                 [
-                    3161816588,
                     1631667848
                 ],
                 [
-                    2679249093
+                    2679249093,
+                    4082225868,
+                    2360754333
                 ],
                 [
                     744217850
                 ]
             ],
             "tags": [
-                "PVP",
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -19510,34 +19397,6 @@
             ]
         },
         {
-            "description": "PvP build(?) The Crucibleing",
-            "hash": 409551876,
-            "name": "The Crucibleing",
-            "plugs": [
-                [
-                    4090651448,
-                    839105230,
-                    1467527085,
-                    1840239774
-                ],
-                [
-                    1561002382
-                ],
-                [
-                    4071163871
-                ],
-                [
-                    957782887
-                ],
-                [
-                    4091460919
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
             "description": "Demigodroll",
             "hash": 681067419,
             "name": "Demigodroll",
@@ -19964,27 +19823,6 @@
             ]
         },
         {
-            "description": "adagio for 30% dmg for 10 sec",
-            "hash": 2591111628,
-            "name": "adagio",
-            "plugs": [
-                [
-                    1556840489,
-                    3096702027,
-                    3436462433
-                ],
-                [
-                    3673922083
-                ],
-                [
-                    1380061575
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "Shepherds Watch. Team shooting, PvE",
             "hash": 3743729616,
             "name": "Shepherds Watch",
@@ -20380,13 +20218,9 @@
                     3300816228
                 ],
                 [
-                    3523296417,
                     2679249093,
-                    3425386926,
-                    2360754333,
                     1546637391,
-                    3708227201,
-                    4082225868
+                    3708227201
                 ],
                 [
                     744217850
@@ -20394,80 +20228,6 @@
             ],
             "tags": [
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "demigodroll",
-            "hash": 2821430069,
-            "name": "demigodroll",
-            "plugs": [
-                [
-                    106909392,
-                    791862061,
-                    1087426260,
-                    3142289711,
-                    679225683
-                ],
-                [
-                    3523296417,
-                    1820235745
-                ],
-                [
-                    1774574192,
-                    1546637391
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "novelty roll",
-            "hash": 2821430069,
-            "name": "novelty roll",
-            "plugs": [
-                [
-                    3523296417
-                ],
-                [
-                    3592538738
-                ],
-                [
-                    744217850
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "demi-godroll with threat detector. Fortissimo has A LOT of useful perks. MW: Range",
-            "hash": 2821430069,
-            "name": "Threat Detector",
-            "plugs": [
-                [
-                    106909392,
-                    791862061,
-                    1087426260,
-                    3142289711,
-                    679225683
-                ],
-                [
-                    4071163871
-                ],
-                [
-                    3708227201,
-                    4104185692
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -23200,6 +22960,292 @@
             ],
             "tags": [
                 "PVP"
+            ]
+        },
+        {
+            "description": "Light.gg likes this combo, also useful for ability focused builds.",
+            "hash": 1916287826,
+            "name": "Ambitious Osmosis",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    3661387068
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    1774574192
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "light.gg faves",
+            "hash": 409551876,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    3661387068
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    247725512,
+                    2450788523
+                ],
+                [
+                    2458213969
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Under Reserves. MW: Stability, Range",
+            "hash": 409551876,
+            "name": "Under Reserves",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    1645158859
+                ],
+                [
+                    2213355989
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "ability regen",
+            "hash": 2821430069,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992,
+                    3250034553,
+                    1467527085
+                ],
+                [
+                    791862061
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "1-2 punch alternate roll.",
+            "hash": 1478986057,
+            "name": "",
+            "plugs": [
+                [
+                    1332244541,
+                    1300023272
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1866048759,
+                    4071163871
+                ],
+                [
+                    2679249093
+                ],
+                [
+                    1250481499
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If there's ever a chance to get a different roll, auto-loading holster is good for 3rd column. [S18, WQ]",
+            "hash": 599895591,
+            "name": "ALH",
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1467527085,
+                    1482024992
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "according to light.gg",
+            "hash": 1821724780,
+            "name": "according to light.gg",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    791862061
+                ],
+                [
+                    706527188
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "vorpal",
+            "hash": 1821724780,
+            "name": "vorpal",
+            "plugs": [
+                [
+                    4090651448,
+                    1300023272,
+                    1482024992
+                ],
+                [
+                    791862061
+                ],
+                [
+                    3300816228,
+                    3161816588
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "1-2 punch.\nMW: Handling",
+            "hash": 2563012876,
+            "name": "1-2",
+            "plugs": [
+                [
+                    1482024992,
+                    1332244541
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "auto-loading ",
+            "hash": 3197270240,
+            "name": "auto-loading ",
+            "plugs": [
+                [
+                    1332244541,
+                    1482024992
+                ],
+                [
+                    791862061,
+                    106909392
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2679249093,
+                    4104185692,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "1-2 punch",
+            "hash": 346136302,
+            "name": "1-2 punch",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    706527188,
+                    3300816228
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
