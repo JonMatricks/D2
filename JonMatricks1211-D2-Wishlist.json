@@ -919,9 +919,9 @@
             ]
         },
         {
-            "description": "light.gg godroll MW: Handling",
+            "description": "light.gg godroll, although not many people have it (less than 2k) MW: Handling",
             "hash": 2807687156,
-            "name": "",
+            "name": "light.gg",
             "plugs": [
                 [
                     839105230,
@@ -9153,7 +9153,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "per light.gg",
             "hash": 3297863558,
             "name": "",
             "plugs": [
@@ -9161,20 +9161,17 @@
                     839105230
                 ],
                 [
-                    3177308360,
                     3142289711
                 ],
                 [
-                    957782887,
-                    2450788523,
                     47981717
                 ],
                 [
-                    1546637391
+                    957782887
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -12838,42 +12835,15 @@
             ]
         },
         {
-            "description": "Team sniping. light.gg godroll. MW: Range",
+            "description": "Team / Boss Sniping, also light.gg fave. MW: Range",
             "hash": 2233545123,
-            "name": "Team sniping",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1354429876
-                ],
-                [
-                    1771339417
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Boss Sniping, also light.gg fave. MW: Range",
-            "hash": 2233545123,
-            "name": "Boss Sniping ",
+            "name": "Team / Boss Sniping ",
             "plugs": [
                 [
                     839105230,
                     4090651448,
                     1467527085,
-                    3661387068
+                    3250034553
                 ],
                 [
                     3142289711
@@ -12883,14 +12853,15 @@
                     3300816228
                 ],
                 [
-                    1546637391
+                    1546637391,
+                    1771339417
                 ],
                 [
                     4008116374
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -13806,16 +13777,13 @@
         {
             "description": "Precision hits",
             "hash": 3865728990,
-            "name": "",
+            "name": "Triple Fury",
             "plugs": [
                 [
-                    1467527085,
-                    1482024992,
-                    1392496348,
-                    4090651448
+                    839105230,
+                    1840239774
                 ],
                 [
-                    3177308360,
                     3142289711
                 ],
                 [
@@ -13825,6 +13793,9 @@
                 [
                     2402480669,
                     2896038713
+                ],
+                [
+                    567997816
                 ]
             ],
             "tags": [
@@ -15414,7 +15385,8 @@
             "name": "light.gg",
             "plugs": [
                 [
-                    839105230
+                    839105230,
+                    4090651448
                 ],
                 [
                     3142289711
@@ -15847,9 +15819,9 @@
             ]
         },
         {
-            "description": "demigodroll. MW: Handling",
+            "description": "demigodroll. although not many people have it (less than 2k) MW: Handling",
             "hash": 2807687156,
-            "name": "",
+            "name": "light.gg demi",
             "plugs": [
                 [
                     839105230,
@@ -17474,7 +17446,7 @@
                     3643424744
                 ],
                 [
-                    2848615171
+                    957782887
                 ],
                 [
                     2839173408
@@ -17492,14 +17464,12 @@
                 [
                     839105230,
                     4090651448,
-                    3661387068
+                    1840239774
                 ],
                 [
-                    3142289711,
-                    1087426260
+                    3142289711
                 ],
                 [
-                    3643424744,
                     2866798147
                 ],
                 [
@@ -17510,8 +17480,7 @@
                 ]
             ],
             "tags": [
-                "PVP",
-                "PVE"
+                "PVP"
             ]
         },
         {
@@ -19867,28 +19836,6 @@
                 ],
                 [
                     1607056502
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "demigodroll",
-            "hash": 2233545123,
-            "name": "demigodroll",
-            "plugs": [
-                [
-                    3300816228,
-                    1354429876,
-                    1556840489
-                ],
-                [
-                    1771339417,
-                    1546637391
-                ],
-                [
-                    4008116374
                 ]
             ],
             "tags": [
@@ -22637,7 +22584,7 @@
             ]
         },
         {
-            "description": "For run-n-gun vs Majors/Ultras. MW: Handling.",
+            "description": "For run-n-gun vs Majors/Ultras. MW: Handling.  Adored (ritual weapon) is another arc vorpal sniper.",
             "hash": 1280894514,
             "name": "Auto-Clown",
             "plugs": [
@@ -22686,7 +22633,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -22884,7 +22831,7 @@
             ]
         },
         {
-            "description": "PvP Godroll. MW: Handling?",
+            "description": "PvP Godroll. Most common roll too (per light.gg) MW: Handling?",
             "hash": 1280894514,
             "name": "Opening Snapshot",
             "plugs": [
@@ -23242,6 +23189,201 @@
                 ],
                 [
                     2679249093
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demi-godroll for PvE, ammo perks help, but Auto-loading generally more useful.",
+            "hash": 3473290087,
+            "name": "ammo economy",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    2284787283,
+                    1556840489,
+                    2010801679
+                ],
+                [
+                    2848615171,
+                    957782887
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demi-godroll also light.gg preferred perks. MW: Range",
+            "hash": 2233545123,
+            "name": "Team / Boss Sniping demigodroll",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392
+                ],
+                [
+                    1354429876,
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    1771339417
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "see 1000 yard stare for a snapshot no distractions roll",
+            "hash": 3865728990,
+            "name": "see 1000 yard stare",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    957782887
+                ],
+                [
+                    567997816
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Snapshot - No Distractions",
+            "hash": 4164201232,
+            "name": "Snapshot - No Distractions",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        },
+        {
+            "description": "light.gg",
+            "hash": 2164448701,
+            "name": "light.gg",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1168162263,
+                    2866798147
+                ],
+                [
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2164448701,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147,
+                    588594999
+                ],
+                [
+                    706527188,
+                    957782887,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "I like dragonfly, but it's less useful w/ Arc 3.0. MW: Range, obvs.",
+            "hash": 617501162,
+            "name": "Izume, but Arc",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3661387068
+                ],
+                [
+                    3142289711,
+                    1087426260
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    2848615171
+                ],
+                [
+                    2839173408
                 ]
             ],
             "tags": [
