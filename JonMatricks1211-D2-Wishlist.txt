@@ -8494,6 +8494,17 @@ dimwishlist:item=2263839058&perks=839105230,689005463,706527188,1600092898,19050
 dimwishlist:item=2263839058&perks=839105230,689005463,706527188,2846385770,1905044254
 
 
+// Fire and Forget - All-in on stasis here. (pve)
+//notes: All-in on stasis here. tags:pve
+dimwishlist:item=2272041093&perks=839105230,2680121939,124408337,2978966579,3988215619
+
+
+// Fire and Forget (pve)
+//notes: Reduced flinch for those boss encounters tags:pve
+dimwishlist:item=2272041093&perks=839105230,2680121939,2272927194,1546637391,3988215619
+dimwishlist:item=2272041093&perks=839105230,2680121939,2272927194,2896038713,3988215619
+
+
 // Stochastic Variable - Invariable (pve,god-pve)
 //notes: Stability build w/ Zen
 MW: Stability tags:pve,god-pve

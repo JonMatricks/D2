@@ -25622,6 +25622,57 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "All-in on stasis here.",
+            "hash": 2272041093,
+            "name": "All-in on stasis here.",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    124408337
+                ],
+                [
+                    2978966579
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reduced flinch for those boss encounters",
+            "hash": 2272041093,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    2272927194
+                ],
+                [
+                    1546637391,
+                    2896038713
+                ],
+                [
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
