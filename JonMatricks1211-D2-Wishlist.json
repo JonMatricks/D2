@@ -23363,13 +23363,6 @@
             ]
         },
         {
-            "description": "",
-            "hash": 1751893422,
-            "name": "",
-            "plugs": [],
-            "tags": []
-        },
-        {
             "description": "Punch Pulse. Melee builds.",
             "hash": 1751893422,
             "name": "Punch Pulse",
@@ -23387,7 +23380,7 @@
                     4082225868
                 ],
                 [
-                    192157151
+                    1607056502
                 ]
             ],
             "tags": [
@@ -23395,7 +23388,7 @@
             ]
         },
         {
-            "description": "for precision blows. new in S19 MW: Range",
+            "description": "for precision blows, or shooting stasis crystals. new in S19. MW: Range",
             "hash": 1751893422,
             "name": "Precision Headstone",
             "plugs": [
@@ -23413,7 +23406,7 @@
                     124408337
                 ],
                 [
-                    192157151
+                    1607056502
                 ]
             ],
             "tags": [
@@ -23421,7 +23414,7 @@
             ]
         },
         {
-            "description": "Dispa-rado new in S19",
+            "description": "Dispa-rado new in S19. Only stasis pulse with desperado AND rapid-hit / Outlaw. Outlaw is better perk combo.",
             "hash": 1751893422,
             "name": "Dispa-rado",
             "plugs": [
@@ -23429,22 +23422,23 @@
                     839105230
                 ],
                 [
-                    3142289711,
-                    3230963543,
-                    106909392
+                    3142289711
                 ],
                 [
-                    1168162263
+                    1168162263,
+                    247725512,
+                    1347741687
                 ],
                 [
-                    3047969693
+                    3047969693,
+                    624891305
                 ],
                 [
-                    192157151
+                    1607056502
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -23659,18 +23653,21 @@
             ]
         },
         {
-            "description": "Desperado Tunnel [S19] pending Dawning event",
+            "description": "Desperado [S19]  Dawning event. MW: Range",
             "hash": 2812100428,
-            "name": "Desperado Tunnel",
+            "name": "Desperado",
             "plugs": [
                 [
-                    839105230
+                    839105230,
+                    4090651448
                 ],
                 [
                     1885400500,
                     3230963543
                 ],
                 [
+                    2450788523,
+                    1195158366,
                     2946784966
                 ],
                 [
@@ -23685,7 +23682,7 @@
             ]
         },
         {
-            "description": "Encore Headstone",
+            "description": "Encore Headstone. Killing wind is an alternative option. MW: Range",
             "hash": 2812100428,
             "name": "Encore Headstone",
             "plugs": [
@@ -23696,7 +23693,8 @@
                     1885400500
                 ],
                 [
-                    1195158366
+                    1195158366,
+                    2450788523
                 ],
                 [
                     124408337
@@ -23710,7 +23708,7 @@
             ]
         },
         {
-            "description": "Sheild breaker",
+            "description": "Sheild breaker. MW: Range",
             "hash": 2812100428,
             "name": "Sheild breaker",
             "plugs": [
@@ -23726,8 +23724,7 @@
                     2450788523
                 ],
                 [
-                    1048183818,
-                    1870851715
+                    1048183818
                 ],
                 [
                     2839173408
@@ -26284,6 +26281,31 @@
                 ],
                 [
                     1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Only stasis pulse with golden Tricorn (as of S19)",
+            "hash": 2812100428,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    744594675
+                ],
+                [
+                    2610012052
+                ],
+                [
+                    2839173408
                 ]
             ],
             "tags": [
