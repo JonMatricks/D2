@@ -21400,16 +21400,16 @@
             ]
         },
         {
-            "description": "Iron Rangefinder: max range  MW: Range [jonmatricks#1211, S18]",
+            "description": "Iron Rangefinder: max range  MW: Range [jonmatricks#1211, S19]",
             "hash": 1532276803,
             "name": "Iron Rangefinder.",
             "plugs": [
                 [
-                    3661387068,
-                    1467527085
+                    3250034553,
+                    4090651448
                 ],
                 [
-                    1885400500
+                    3142289711
                 ],
                 [
                     2846385770
@@ -21422,7 +21422,7 @@
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -22263,27 +22263,18 @@
             ]
         },
         {
-            "description": "Demi-godroll.",
+            "description": "Demi-godroll. Supsistence + incandescent are the fave combo here",
             "hash": 2603335652,
             "name": "Demi-godroll.",
             "plugs": [
                 [
-                    1467527085,
-                    3661387068
+                    1820235745
                 ],
                 [
-                    1885400500,
-                    1561002382
+                    4293542123
                 ],
                 [
-                    1428297954,
-                    1820235745,
-                    2846385770
-                ],
-                [
-                    4104185692,
-                    4293542123,
-                    11612903
+                    2250679103
                 ]
             ],
             "tags": [
@@ -23459,6 +23450,7 @@
                     3038247973
                 ],
                 [
+                    1281216113,
                     744217850
                 ]
             ],
@@ -23482,8 +23474,7 @@
                 ],
                 [
                     3824105627,
-                    3038247973,
-                    4104185692
+                    3038247973
                 ],
                 [
                     744217850
@@ -23529,11 +23520,13 @@
                     247725512
                 ],
                 [
+                    3038247973,
                     3824105627,
-                    3038247973
+                    4104185692
                 ],
                 [
-                    2839173408
+                    744217850,
+                    1281216113
                 ]
             ],
             "tags": [
@@ -24738,24 +24731,26 @@
             "name": "",
             "plugs": [
                 [
-                    4090651448
+                    4090651448,
+                    839105230
                 ],
                 [
-                    1140096971,
-                    3142289711
+                    1140096971
                 ],
                 [
-                    3643424744
+                    3643424744,
+                    1354429876
                 ],
                 [
-                    4293542123
+                    4293542123,
+                    2675184851
                 ],
                 [
                     566815328
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -25458,7 +25453,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "Snap Construction",
             "hash": 2990047042,
             "name": "",
             "plugs": [
@@ -25481,7 +25476,8 @@
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVP",
+                "PVE"
             ]
         },
         {
@@ -25914,7 +25910,7 @@
             ]
         },
         {
-            "description": "",
+            "description": "godroll",
             "hash": 8293111,
             "name": "",
             "plugs": [
@@ -25925,8 +25921,8 @@
                     3142289711
                 ],
                 [
-                    1820235745,
-                    247725512
+                    247725512,
+                    1820235745
                 ],
                 [
                     3038247973
@@ -26363,6 +26359,164 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Hipfire Rifle. MW: Range, Reload",
+            "hash": 8293111,
+            "name": "Hipfire Rifle",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    1866048759
+                ],
+                [
+                    3038247973,
+                    11612903
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "headseeker more viable option, especially on high-impact (as of S19, per CoolGuy)",
+            "hash": 2050789284,
+            "name": "headseeker ",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    4071163871,
+                    1168162263,
+                    2450788523
+                ],
+                [
+                    957782887,
+                    460017080
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Box Distractions. Could be interesting use when underfire and have to do ADS shooting. [S19]",
+            "hash": 4074251943,
+            "name": "Box Distractions",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1467527085,
+                    1392496348,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2866798147
+                ],
+                [
+                    2551157718
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 4074251943,
+            "name": "demigodroll",
+            "plugs": [
+                [
+                    3700496672
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    744217850,
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll",
+            "hash": 3138208275,
+            "name": "",
+            "plugs": [
+                [
+                    1561002382,
+                    1885400500,
+                    1968497646
+                ],
+                [
+                    124408337
+                ],
+                [
+                    3047969693
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Demigod-craft-roll. Firing line could be good for team shooting, and the sniper meta OGs long for. [As of S19: Seraph] MW: Range",
+            "hash": 2990047042,
+            "name": "Partial Success",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    1771339417
+                ],
+                [
+                    766321425
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
