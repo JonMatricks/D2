@@ -17810,20 +17810,20 @@
             ]
         },
         {
-            "description": "Solar Synergy. Melee apply scorch and reload mag.",
+            "description": "Unrelenting Scorch. MW: Range",
             "hash": 2490988246,
             "name": "Solar Synergy",
             "plugs": [
                 [
                     4090651448,
-                    839105230
+                    1482024992
                 ],
                 [
                     3142289711
                 ],
                 [
-                    1631667848,
-                    402033656
+                    3108830275,
+                    855168139
                 ],
                 [
                     4293542123,
