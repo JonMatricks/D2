@@ -25712,9 +25712,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "godroll w/ blinding nades",
             "hash": 2306182339,
-            "name": "",
+            "name": "auto-blinding",
             "plugs": [
                 [
                     1478423395,
@@ -27009,7 +27009,7 @@
             ]
         },
         {
-            "description": "spiked nades",
+            "description": "spiked nades demigodroll (blinding nades better)",
             "hash": 2306182339,
             "name": "spiked nades",
             "plugs": [
