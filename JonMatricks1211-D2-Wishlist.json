@@ -4804,7 +4804,7 @@
         {
             "description": "Vorpal edition.\nMW: Range, Handling",
             "hash": 217140611,
-            "name": "Gwod-killer",
+            "name": "Gawd-killer",
             "plugs": [
                 [
                     1047830412,
@@ -28803,6 +28803,230 @@
                 [
                     2213355989,
                     3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reconstruction Threadlings",
+            "hash": 484515708,
+            "name": "Reconstruction Threadlings",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    831391274,
+                    102912326
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "not sure what to get on this",
+            "hash": 231031173,
+            "name": "??",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    3215448563,
+                    4104185692,
+                    831391274
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 231031173,
+            "name": "float frenzy",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2272927194
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reconstruction volatile shotty",
+            "hash": 135029084,
+            "name": "Reconstruction volatile shotty",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2048641572,
+                    1926441324
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "incandescent",
+            "hash": 1471212226,
+            "name": "incandescent",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    732557052
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If there is ever a trace rifle meta this might be nice to have.",
+            "hash": 1471212226,
+            "name": "target lock",
+            "plugs": [
+                [
+                    839105230,
+                    1482024992
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    365154968,
+                    2939589096
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "If LFRs are ever meta again this will be excellent for long damage phases.",
+            "hash": 1491665733,
+            "name": "Focused Contempt",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    2896038713,
+                    2402480669
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "alternative roll",
+            "hash": 1491665733,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939,
+                    689005463
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    4104185692,
+                    3215448563
+                ],
+                [
+                    3186078099
                 ]
             ],
             "tags": [
