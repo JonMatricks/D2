@@ -12989,7 +12989,6 @@
                 [
                     1478423395,
                     1844523823,
-                    3809316345,
                     1441682018
                 ],
                 [
@@ -13006,18 +13005,18 @@
                 ]
             ],
             "tags": [
-                "PVE",
-                "GodPVE"
+                "PVE"
             ]
         },
         {
-            "description": "Direct Hits For chill clip. Demolitionist is ideal.",
+            "description": "Direct Hits For chill clip. Minimal blast radius. Demolitionist is ideal. [S19-S20]",
             "hash": 3568377122,
             "name": "Chill clip",
             "plugs": [
                 [
-                    1478423395,
-                    1844523823
+                    3809316345,
+                    3525010810,
+                    981914802
                 ],
                 [
                     3301904089
@@ -13033,7 +13032,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -19356,56 +19355,6 @@
                 ],
                 [
                     2988596335
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Direct Hits For chill clip. However, Demolitionist is ideal in column 3.",
-            "hash": 3568377122,
-            "name": "Chill clip b",
-            "plugs": [
-                [
-                    1478423395,
-                    1844523823
-                ],
-                [
-                    3301904089
-                ],
-                [
-                    951095735
-                ],
-                [
-                    2978966579
-                ],
-                [
-                    2839173408
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "demigodroll. Demo is nice for variety of situations, chill clip good for stasis synergy, other 2 are good for damage.",
-            "hash": 3568377122,
-            "name": "demigodroll",
-            "plugs": [
-                [
-                    3301904089
-                ],
-                [
-                    3523296417
-                ],
-                [
-                    2978966579,
-                    3194351027,
-                    4104185692
-                ],
-                [
-                    2839173408
                 ]
             ],
             "tags": [
@@ -28326,12 +28275,14 @@
             ]
         },
         {
-            "description": "Explosive light w/ void GL MW: Velocity, Blast Radius",
+            "description": "Explosive light w/ void GL. Minimum blast radius for spike nades. MW: Velocity, Handling",
             "hash": 268260372,
             "name": "PRegnant",
             "plugs": [
                 [
-                    1478423395
+                    981914802,
+                    3525010810,
+                    3809316345
                 ],
                 [
                     3301904089
@@ -28352,12 +28303,14 @@
             ]
         },
         {
-            "description": "Volatile GL, void synergy. MW: Velocity, Blast Radius",
+            "description": "Volatile GL, void synergy. Minimum blast radius. MW: Velocity, Handling",
             "hash": 268260372,
             "name": "Volatile GL",
             "plugs": [
                 [
-                    1478423395
+                    981914802,
+                    3525010810,
+                    3809316345
                 ],
                 [
                     3301904089
@@ -29333,6 +29286,33 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "GL meta not quite here, but they are much more viable now. Especially with surge mods. Did 4mil in Root of Nightmares with Starfire Protocol. [S20]",
+            "hash": 3568377122,
+            "name": "DPS",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810,
+                    3809316345
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3194351027
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
