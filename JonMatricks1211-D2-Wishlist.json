@@ -25820,16 +25820,18 @@
             ]
         },
         {
-            "description": "",
+            "description": "grenadier",
             "hash": 487205709,
-            "name": "",
+            "name": "grenadier",
             "plugs": [
                 [
                     839105230
                 ],
                 [
                     679225683,
-                    1087426260
+                    1087426260,
+                    1561002382,
+                    1885400500
                 ],
                 [
                     3523296417
@@ -26194,17 +26196,17 @@
         {
             "description": "Target Lock. MW: Range/reload",
             "hash": 487205709,
-            "name": "",
+            "name": "Target Lock",
             "plugs": [
                 [
                     839105230
                 ],
                 [
+                    2420895100,
                     679225683,
                     1087426260
                 ],
                 [
-                    3523296417,
                     3400784728
                 ],
                 [
@@ -27032,7 +27034,7 @@
             ]
         },
         {
-            "description": "If you want to swap weapons a lot",
+            "description": "Golder TRicorn with high APM (Actions-per-minute)",
             "hash": 392008588,
             "name": "",
             "plugs": [
@@ -27044,10 +27046,12 @@
                     106909392
                 ],
                 [
+                    3619207468,
+                    2450788523,
                     968510818
                 ],
                 [
-                    3751912585
+                    2610012052
                 ],
                 [
                     1823011807
@@ -27165,19 +27169,18 @@
         {
             "description": "Stability / Accuracy for precision kills and threadlings.  MW: Stability, Range",
             "hash": 2034215657,
-            "name": "",
+            "name": "Hatchling",
             "plugs": [
                 [
                     839105230,
                     4090651448
                 ],
                 [
-                    1561002382,
                     1885400500
                 ],
                 [
-                    1354429876,
-                    1645158859
+                    3619207468,
+                    968510818
                 ],
                 [
                     831391274
@@ -27193,7 +27196,7 @@
         {
             "description": "deeper mag for less reloading",
             "hash": 2034215657,
-            "name": "",
+            "name": "subsistence",
             "plugs": [
                 [
                     839105230,
@@ -27204,8 +27207,7 @@
                     1885400500
                 ],
                 [
-                    1820235745,
-                    968510818
+                    1820235745
                 ],
                 [
                     831391274
@@ -27747,7 +27749,7 @@
         {
             "description": "Strand synergy. MW: Range",
             "hash": 3920310144,
-            "name": "",
+            "name": "Threadling",
             "plugs": [
                 [
                     839105230
@@ -27757,7 +27759,9 @@
                 ],
                 [
                     3400784728,
-                    573122728
+                    573122728,
+                    3619207468,
+                    3198323828
                 ],
                 [
                     831391274,
@@ -27768,13 +27772,13 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
             "description": "MW: Range",
             "hash": 3920310144,
-            "name": "",
+            "name": "Volta Payload",
             "plugs": [
                 [
                     839105230
@@ -27795,7 +27799,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -27934,7 +27938,7 @@
             ]
         },
         {
-            "description": "Incandescent fusion. MW: Reload",
+            "description": "Incandescent fusion. MW: Reload, Range",
             "hash": 1720503118,
             "name": "Incandescent",
             "plugs": [
@@ -27972,8 +27976,8 @@
                     689005463
                 ],
                 [
-                    968510818,
-                    1556840489
+                    1556840489,
+                    4071163871
                 ],
                 [
                     1427256713,
@@ -27983,7 +27987,9 @@
                     1823011807
                 ]
             ],
-            "tags": []
+            "tags": [
+                "PVE"
+            ]
         },
         {
             "description": "Ritual weapon, only 1 roll.",
@@ -28069,7 +28075,7 @@
             ]
         },
         {
-            "description": "Voltshot GL MW: Reload",
+            "description": "Voltshot GL, lots of reloading. MW: Reload",
             "hash": 268260373,
             "name": "Voltshot GL",
             "plugs": [
@@ -28078,12 +28084,11 @@
                     3525010810
                 ],
                 [
-                    3032599245,
-                    3301904089
+                    3032599245
                 ],
                 [
-                    968510818,
-                    1556840489
+                    4071163871,
+                    2869569095
                 ],
                 [
                     2173046394,
@@ -28332,7 +28337,8 @@
                     3301904089
                 ],
                 [
-                    3300816228
+                    3300816228,
+                    968510818
                 ],
                 [
                     3194351027
@@ -28519,10 +28525,12 @@
                 ],
                 [
                     1583705720,
-                    4071163871
+                    4071163871,
+                    968510818
                 ],
                 [
-                    2396489472
+                    2396489472,
+                    598607952
                 ],
                 [
                     164468655
@@ -28645,8 +28653,8 @@
             "name": "Relentless Scorch",
             "plugs": [
                 [
-                    938542991,
-                    436053704
+                    436053704,
+                    938542991
                 ],
                 [
                     52780822
@@ -28750,23 +28758,24 @@
             ]
         },
         {
-            "description": "Reconstruction Threadlings",
+            "description": "Reconstruction Lock. Has deeper mag than Perpetualis (~70), plus reconstruction makes Target Lock more viable on this one. MW: Range",
             "hash": 484515708,
-            "name": "Reconstruction Threadlings",
+            "name": "Reconstruction Lock",
             "plugs": [
                 [
                     839105230
                 ],
                 [
-                    1885400500
+                    2420895100,
+                    1087426260
                 ],
                 [
                     1523832109,
                     461595545
                 ],
                 [
-                    831391274,
-                    102912326
+                    365154968,
+                    2939589096
                 ],
                 [
                     3186078099
@@ -28777,9 +28786,9 @@
             ]
         },
         {
-            "description": "not sure what to get on this",
+            "description": "Rewind Rounds. MW: Range",
             "hash": 231031173,
-            "name": "??",
+            "name": "Rewind Rounds",
             "plugs": [
                 [
                     839105230,
@@ -28787,23 +28796,21 @@
                     3250034553
                 ],
                 [
-                    1561002382,
-                    1885400500
+                    2420895100
                 ],
                 [
                     3418782618
                 ],
                 [
-                    3215448563,
-                    4104185692,
-                    831391274
+                    831391274,
+                    3215448563
                 ],
                 [
                     3186078099
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -28876,7 +28883,8 @@
                 ],
                 [
                     1523832109,
-                    461595545
+                    461595545,
+                    3418782618
                 ],
                 [
                     4293542123,
@@ -28887,7 +28895,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -28904,7 +28912,7 @@
                 ],
                 [
                     1523832109,
-                    461595545
+                    3418782618
                 ],
                 [
                     365154968,
@@ -28915,7 +28923,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -29051,6 +29059,276 @@
                 ],
                 [
                     566815328
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 268260373,
+            "name": "",
+            "plugs": [
+                [
+                    1478423395,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    968510818,
+                    1556840489
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "high damage roll",
+            "hash": 2508948099,
+            "name": "",
+            "plugs": [
+                [
+                    436053704,
+                    938542991
+                ],
+                [
+                    52780822
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    3708227201,
+                    4049631843
+                ],
+                [
+                    1823011807
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reconstruction Threadlings",
+            "hash": 484515708,
+            "name": "Reconstruction Threadlings",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    831391274,
+                    102912326
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Paracausal shotty",
+            "hash": 135029084,
+            "name": "Paracausal shotty",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1523832109,
+                    776531651,
+                    3523296417,
+                    968510818
+                ],
+                [
+                    3215448563
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "MW: Draw Time",
+            "hash": 45643573,
+            "name": "shoot-to-loot",
+            "plugs": [
+                [
+                    3768438372
+                ],
+                [
+                    16392701
+                ],
+                [
+                    3700496672
+                ],
+                [
+                    3365897133
+                ],
+                [
+                    1823011807
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Alternate roll for ammo pickup, very useful in raids, GMs and other hard content.",
+            "hash": 2827764482,
+            "name": "shoot-to-loot",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3700496672
+                ],
+                [
+                    2173046394
+                ],
+                [
+                    192157151,
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Target Lock demigodroll MW: Range/reload",
+            "hash": 487205709,
+            "name": "Target Lock",
+            "plugs": [
+                [
+                    3661387068,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    2420895100,
+                    679225683,
+                    1087426260
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    365154968
+                ],
+                [
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "?",
+            "hash": 2595497736,
+            "name": "",
+            "plugs": [
+                [
+                    1263609309
+                ],
+                [
+                    3721627275
+                ],
+                [
+                    1631667848
+                ],
+                [
+                    4104185692,
+                    3425386926
+                ],
+                [
+                    357495645
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reconstruction MW: Velocity, handling",
+            "hash": 2972949637,
+            "name": "Reconstruction",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    3215448563,
+                    4104185692
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "MW: Velocity, handling",
+            "hash": 2972949637,
+            "name": "",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    968510818,
+                    3523296417
+                ],
+                [
+                    4104185692,
+                    3215448563,
+                    3708227201
+                ],
+                [
+                    3186078099
                 ]
             ],
             "tags": [
