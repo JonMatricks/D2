@@ -17749,7 +17749,7 @@
             ]
         },
         {
-            "description": "Devoid of Heroism: Void ability synergy. E.g volatile rounds.",
+            "description": "Devoid of Heroism: Void synergy. [in S20, new version comes with destabilising rounds instead of repulsor brace]",
             "hash": 2488587246,
             "name": "Devoid of Heroism",
             "plugs": [
@@ -17763,7 +17763,8 @@
                     1885400500
                 ],
                 [
-                    744594675
+                    744594675,
+                    2779035018
                 ],
                 [
                     776531651
@@ -17774,36 +17775,6 @@
             ],
             "tags": [
                 "GodPVE"
-            ]
-        },
-        {
-            "description": "Void Vorpal edition.",
-            "hash": 2488587246,
-            "name": "Void Vorpal ",
-            "plugs": [
-                [
-                    839105230,
-                    1392496348,
-                    4090651448,
-                    1467527085
-                ],
-                [
-                    3142289711,
-                    1885400500,
-                    1561002382
-                ],
-                [
-                    744594675
-                ],
-                [
-                    1546637391
-                ],
-                [
-                    4008116374
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -29309,6 +29280,34 @@
                 ],
                 [
                     2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Newly Issued with d-rounds instead of repulsor brace.",
+            "hash": 1028124540,
+            "name": "Unstable Burden",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    2048641572
+                ],
+                [
+                    4008116374
                 ]
             ],
             "tags": [
