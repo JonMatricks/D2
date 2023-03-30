@@ -27224,9 +27224,9 @@
             ]
         },
         {
-            "description": "stat buffs in column 3 + kinetic damage. MW: Stability, Range",
+            "description": "Keep Away works at 15 meters and *passively* grants better stats than 2 stacks of Encore. MW: Stability, Range",
             "hash": 2099894368,
-            "name": "",
+            "name": "Keep Tremors Away",
             "plugs": [
                 [
                     839105230,
@@ -27236,10 +27236,7 @@
                     3142289711
                 ],
                 [
-                    1195158366,
-                    2272927194,
-                    3619207468,
-                    1428297954
+                    3619207468
                 ],
                 [
                     3891536761
@@ -27253,34 +27250,36 @@
             ]
         },
         {
-            "description": "Osmosis for ability synergy. subject to change... MW: Stability, Range",
+            "description": "Kinetic tremors turn the ammo pickup from S-t-L into a large AoE. MW: Stability, Range",
             "hash": 2099894368,
-            "name": "",
+            "name": "Shoot to loot",
             "plugs": [
                 [
                     839105230,
-                    4090651448
+                    4090651448,
+                    1482024992,
+                    3250034553
                 ],
                 [
-                    3142289711
+                    3142289711,
+                    106909392
                 ],
                 [
-                    3700496672,
-                    1195158366
+                    3700496672
                 ],
                 [
-                    1774574192
+                    3891536761
                 ],
                 [
                     2120661319
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "Hung Jury SR4 ver 3.0... new kinetic tremors perk.",
+            "description": "Hung Jury SR4 ver 3.0... new kinetic tremors perk. Also works well with shoot-to-loot.",
             "hash": 3832743906,
             "name": "Hung Jury SR4 ver 3.0 ",
             "plugs": [
@@ -27292,7 +27291,8 @@
                     3142289711
                 ],
                 [
-                    247725512
+                    247725512,
+                    3700496672
                 ],
                 [
                     3891536761
@@ -27359,7 +27359,7 @@
             ]
         },
         {
-            "description": "Subistence ",
+            "description": "Subsistence MW: Range",
             "hash": 2883684343,
             "name": "Hung Jury SR4 (Adept) ver 3.1",
             "plugs": [
@@ -27386,9 +27386,9 @@
             ]
         },
         {
-            "description": "explosive payload",
+            "description": "Explosive payload.  MW: Range",
             "hash": 996109059,
-            "name": "",
+            "name": "Explosive Payload",
             "plugs": [
                 [
                     839105230,
@@ -27400,7 +27400,6 @@
                 ],
                 [
                     3619207468,
-                    2387244414,
                     3400784728
                 ],
                 [
@@ -27415,9 +27414,9 @@
             ]
         },
         {
-            "description": "Kinetic tremors",
+            "description": "Kinetic tremors. MW: Range",
             "hash": 996109059,
-            "name": "",
+            "name": "Kinetic Tremors",
             "plugs": [
                 [
                     839105230,
@@ -27429,7 +27428,6 @@
                 ],
                 [
                     3619207468,
-                    2387244414,
                     1168162263,
                     3400784728
                 ],
@@ -27480,7 +27478,8 @@
                 [
                     4090651448,
                     3250034553,
-                    1482024992
+                    1482024992,
+                    839105230
                 ],
                 [
                     1561002382,
@@ -27488,7 +27487,8 @@
                 ],
                 [
                     3643424744,
-                    1428297954
+                    1428297954,
+                    1195158366
                 ],
                 [
                     3891536761,
@@ -29398,6 +29398,137 @@
             ],
             "tags": [
                 "GodPVP"
+            ]
+        },
+        {
+            "description": "demigodrolls MW: Stability, Range",
+            "hash": 2099894368,
+            "name": "demigodrolls",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    3661387068,
+                    1467527085,
+                    1840239774,
+                    1392496348
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    3230963543,
+                    3177308360
+                ],
+                [
+                    3619207468,
+                    3700496672,
+                    1195158366
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic Tremors increases area of ammo pickup for Shoot to Loot.  MW: Range",
+            "hash": 2883684343,
+            "name": "Shoot-to-Loot",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3700496672
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "kinetic tremors demi-godroll",
+            "hash": 2883684343,
+            "name": "demigodrolls",
+            "plugs": [
+                [
+                    247725512,
+                    1820235745,
+                    3700496672
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "new Hung Jury with Kinetic Tremors.",
+            "hash": 2883684343,
+            "name": "Hung Jury SR4 (Adept) ver 3.0",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 3832743906,
+            "name": "demigodrolls",
+            "plugs": [
+                [
+                    247725512,
+                    1820235745,
+                    3700496672
+                ],
+                [
+                    4104185692,
+                    3891536761
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
