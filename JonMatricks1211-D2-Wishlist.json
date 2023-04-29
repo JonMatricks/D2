@@ -7377,7 +7377,7 @@
                 ],
                 [
                     1546637391,
-                    124408337
+                    2896038713
                 ]
             ],
             "tags": [
@@ -10060,9 +10060,9 @@
             ]
         },
         {
-            "description": "For Posterity: unique DSC perk combo.\nMW: Range [jonmatricks#1211, lightly updated for S19 crafting]",
+            "description": "Reconstruction instead of Voltshot. MW: Range [jonmatricks#1211,S20]",
             "hash": 3281285075,
-            "name": "For Posterity",
+            "name": "Reconstruction",
             "plugs": [
                 [
                     4090651448,
@@ -10076,7 +10076,8 @@
                     1523832109
                 ],
                 [
-                    3201496230
+                    3425386926,
+                    4104185692
                 ],
                 [
                     766321425
@@ -10087,27 +10088,30 @@
             ]
         },
         {
-            "description": "Rampage. demi-godroll.\nMW: Range",
+            "description": "Voltshot instead of reconstruction. With Frenzy active reload will be at 100. MW: Range",
             "hash": 3281285075,
-            "name": "Damage Buffs",
+            "name": "Voltshot",
             "plugs": [
                 [
                     4090651448,
                     839105230
                 ],
                 [
-                    106909392,
-                    3142289711
+                    3142289711,
+                    106909392
                 ],
                 [
-                    1523832109
+                    2173046394
                 ],
                 [
-                    3425386926
+                    4104185692
+                ],
+                [
+                    766321425
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -10758,7 +10762,7 @@
             ]
         },
         {
-            "description": "Firebringer: Explosive + Firefly. Default perks. PvE maybe PvP\nMW: Range",
+            "description": "Firebringer: Explosive + Firefly. or Frenzybringer: Explosive + Frenzy for stable dmg bonus and 100 handling/reload.\nMW: Range",
             "hash": 1216319404,
             "name": "Firebringer",
             "plugs": [
@@ -10773,7 +10777,8 @@
                     3038247973
                 ],
                 [
-                    3824105627
+                    3824105627,
+                    4104185692
                 ]
             ],
             "tags": [
@@ -12041,33 +12046,6 @@
             ],
             "tags": [
                 "GodPVP"
-            ]
-        },
-        {
-            "description": "Light.gg fave perk combo\nMW: Range",
-            "hash": 1392919471,
-            "name": "Trustee Shooter",
-            "plugs": [
-                [
-                    4090651448,
-                    839105230
-                ],
-                [
-                    3142289711,
-                    106909392
-                ],
-                [
-                    1523832109
-                ],
-                [
-                    2213355989
-                ],
-                [
-                    766321425
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -16191,7 +16169,8 @@
                 ],
                 [
                     1687452232,
-                    2680121939
+                    2680121939,
+                    689005463
                 ],
                 [
                     3400784728
@@ -17029,6 +17008,8 @@
                 ],
                 [
                     2680121939,
+                    2969185026,
+                    689005463,
                     1687452232
                 ],
                 [
@@ -17462,7 +17443,7 @@
             ]
         },
         {
-            "description": "Vorpal edition?",
+            "description": "Vorpal edition. MW: Charge time, Range",
             "hash": 2715240478,
             "name": "Boss DPS",
             "plugs": [
@@ -17475,7 +17456,8 @@
                 [
                     689005463,
                     1687452232,
-                    2680121939
+                    2680121939,
+                    2969185026
                 ],
                 [
                     3300816228
@@ -25203,9 +25185,9 @@
             ]
         },
         {
-            "description": "Reduced flinch for those boss encounters",
+            "description": "Field Fury / Focused Prep. MW: Charge Time",
             "hash": 2272041093,
-            "name": "",
+            "name": "Field Fury",
             "plugs": [
                 [
                     839105230
@@ -25214,18 +25196,20 @@
                     2680121939
                 ],
                 [
-                    2272927194
+                    2869569095,
+                    2308090567
                 ],
                 [
+                    2896038713,
                     1546637391,
-                    2896038713
+                    2402480669
                 ],
                 [
                     3988215619
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -25300,31 +25284,6 @@
                     557221067,
                     3425386926,
                     1771339417
-                ],
-                [
-                    766321425
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "ability regen",
-            "hash": 3366545721,
-            "name": "",
-            "plugs": [
-                [
-                    436053704
-                ],
-                [
-                    52780822
-                ],
-                [
-                    3592538738
-                ],
-                [
-                    3523296417
                 ],
                 [
                     766321425
@@ -28689,7 +28648,7 @@
             ]
         },
         {
-            "description": "Reconstruction Lock. Has deeper mag than Perpetualis (~70), plus reconstruction makes Target Lock more viable on this one. MW: Range",
+            "description": "Reconstruction Lock. Has deeper mag than Perpetualis (~70), plus reconstruction makes Target Lock more viable on this one. However it's not really for single target DPS, so this combo isn't as useful as originally expected. MW: Range",
             "hash": 484515708,
             "name": "Reconstruction Lock",
             "plugs": [
@@ -28713,7 +28672,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -28966,21 +28925,20 @@
             ]
         },
         {
-            "description": "Demi-godroll (for me). MW: Range, Stability",
+            "description": "Demi-godroll (for me). When Frenzy is active reload and handling will be at 100, so prioritizing range or stability. MW: Range, Stability",
             "hash": 4070357005,
             "name": "6th Seraph",
             "plugs": [
                 [
                     839105230,
-                    3661387068,
                     1482024992,
-                    1392496348,
-                    4090651448
+                    4090651448,
+                    3250034553,
+                    1392496348
                 ],
                 [
                     106909392,
-                    3142289711,
-                    3230963543
+                    3142289711
                 ],
                 [
                     1523832109
@@ -29048,9 +29006,9 @@
             ]
         },
         {
-            "description": "Reconstruction Threadlings",
+            "description": "Rufus's Threadlings. ",
             "hash": 484515708,
-            "name": "Reconstruction Threadlings",
+            "name": "Rufus's Threadlings",
             "plugs": [
                 [
                     839105230
@@ -29060,7 +29018,9 @@
                 ],
                 [
                     1523832109,
-                    461595545
+                    461595545,
+                    3418782618,
+                    1563455254
                 ],
                 [
                     831391274,
@@ -30206,6 +30166,251 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "Taraxippos, the Ghost Gun. MW: Range, Stability",
+            "hash": 3234246770,
+            "name": "Ghost Gun",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1354429876,
+                    2387244414
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Precision hits. MW: Stability, Range",
+            "hash": 3234246770,
+            "name": "Hatchling",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1354429876,
+                    1168162263
+                ],
+                [
+                    831391274
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 3234246770,
+            "name": "demigodrolls",
+            "plugs": [
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    1354429876,
+                    2387244414
+                ],
+                [
+                    3619207468,
+                    1195158366
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll for explosive payload",
+            "hash": 3234246770,
+            "name": "demigodroll for explosive payload",
+            "plugs": [
+                [
+                    1354429876,
+                    2387244414
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll for hatchling",
+            "hash": 3234246770,
+            "name": "demigodroll for hatchling",
+            "plugs": [
+                [
+                    1168162263,
+                    2387244414,
+                    1354429876
+                ],
+                [
+                    831391274
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Rapid Hit. MW: Range",
+            "hash": 1392919471,
+            "name": "Rapit Hit",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    247725512
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    766321425
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls",
+            "hash": 3281285075,
+            "name": "demigodrolls",
+            "plugs": [
+                [
+                    1523832109,
+                    2173046394
+                ],
+                [
+                    4104185692,
+                    3425386926
+                ],
+                [
+                    766321425
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Combo of two of the best pve perks in the game. Passive big damage bonus plus handling and reload.",
+            "hash": 1937552980,
+            "name": "Doom of Adds",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    120721526
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Light.gg faves",
+            "hash": 1937552980,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    2848615171
+                ],
+                [
+                    120721526
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Rufus's Frenzy. Demo has ability synergy esp with lots of kills, Frenzy may be the overall best perk for PvE (100 handling & reload). HC rounds for staggering. Reloading should never be a big issue with these perks, but Rewind Rounds is an alternative. MW: Range [S20]",
+            "hash": 484515708,
+            "name": "Rufus's Frenzy",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    3523296417,
+                    3418782618,
+                    1906147653,
+                    1563455254
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         }
     ]
