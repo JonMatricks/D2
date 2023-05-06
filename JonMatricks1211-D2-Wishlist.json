@@ -14518,49 +14518,26 @@
             ]
         },
         {
-            "description": "Anti-Champion Pulse. Ricochet & Heating Up to help aim, appended mag for extra shots between reloads (use Backup Mag mod and/or Overflow for even more).",
+            "description": "PvE Pulse. [updated S20]",
             "hash": 2097055732,
-            "name": "Anti-Champion",
+            "name": "PvE of Mind",
             "plugs": [
                 [
                     839105230
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
                     3643424744,
-                    2682205016
+                    2682205016,
+                    1570042021,
+                    2748258257
                 ],
                 [
                     1546637391,
-                    3418165135
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Overflowing Capacitor. Deeper ammo reserves optional. Overflow for extra time between reloads.Capacitor for stat boosts. Or Junkie for damage buff. ",
-            "hash": 2097055732,
-            "name": "Overflow",
-            "plugs": [
-                [
-                    839105230,
-                    1482024992,
-                    1392496348
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    3643424744,
-                    2682205016
-                ],
-                [
-                    3511092054,
-                    711234314,
+                    3418165135,
                     11612903,
                     2422968039
                 ],
@@ -14569,31 +14546,34 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
-            "description": "?? these are the popular perks on Light.gg. Focused Fury does NOT work for me.",
+            "description": "PvP Pulse. [updated in S20]",
             "hash": 2097055732,
-            "name": "PvP Mind",
+            "name": "PvP of Mind",
             "plugs": [
                 [
                     839105230
                 ],
                 [
-                    1885400500
+                    1885400500,
+                    1561002382
                 ],
                 [
-                    671806388,
-                    595108252
+                    1428297954
                 ],
                 [
-                    2896038713,
-                    2402480669
+                    588594999,
+                    1546637391
+                ],
+                [
+                    1536798515
                 ]
             ],
             "tags": [
-                "PVP"
+                "GodPVP"
             ]
         },
         {
@@ -15070,30 +15050,6 @@
             ],
             "tags": [
                 "PVP"
-            ]
-        },
-        {
-            "description": "Grenadier's Precision Pulse. Arrowhead brake for recoil (add counterbalance mod for more), ricochet for stability (and fun!), Heating Up for more accuracy, Junkie for damage buff w/ grenadier builds. ",
-            "hash": 2097055732,
-            "name": "Precision Grenadier",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    2748258257,
-                    1570042021
-                ],
-                [
-                    2422968039,
-                    11612903
-                ]
-            ],
-            "tags": [
-                "PVE"
             ]
         },
         {
@@ -24615,23 +24571,23 @@
             ]
         },
         {
-            "description": "path of most subsistence",
+            "description": "Voltshot is godroll. ",
             "hash": 2827764482,
-            "name": "path of most subsistence",
+            "name": "Voltshot",
             "plugs": [
                 [
                     839105230,
-                    1482024992
+                    1840239774
                 ],
                 [
-                    2680121939
+                    2680121939,
+                    732557052
                 ],
                 [
+                    3700496672,
                     1820235745
                 ],
                 [
-                    2896038713,
-                    2848615171,
                     2173046394
                 ],
                 [
@@ -24639,7 +24595,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -24659,35 +24615,6 @@
                 ],
                 [
                     4049631843
-                ],
-                [
-                    2839173408
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "adaptive muni",
-            "hash": 2827764482,
-            "name": "",
-            "plugs": [
-                [
-                    839105230,
-                    1482024992,
-                    1467527085
-                ],
-                [
-                    2680121939,
-                    2969185026,
-                    732557052
-                ],
-                [
-                    1048183818
-                ],
-                [
-                    2173046394
                 ],
                 [
                     2839173408
@@ -28326,9 +28253,10 @@
             "name": "",
             "plugs": [
                 [
+                    839105230,
+                    3661387068,
                     4090651448,
-                    3250034553,
-                    839105230
+                    3250034553
                 ],
                 [
                     1087426260,
@@ -29083,33 +29011,6 @@
                 ],
                 [
                     1823011807
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Alternate roll for ammo pickup, very useful in raids, GMs and other hard content.",
-            "hash": 2827764482,
-            "name": "shoot-to-loot",
-            "plugs": [
-                [
-                    1840239774,
-                    839105230
-                ],
-                [
-                    2680121939
-                ],
-                [
-                    3700496672
-                ],
-                [
-                    2173046394
-                ],
-                [
-                    192157151,
-                    2839173408
                 ]
             ],
             "tags": [
@@ -29987,8 +29888,12 @@
                     1523832109
                 ],
                 [
-                    365154968,
-                    1546637391
+                    4293542123,
+                    4104185692,
+                    3215448563,
+                    3007133316,
+                    3299896859,
+                    2675184851
                 ],
                 [
                     3186078099
@@ -29999,28 +29904,25 @@
             ]
         },
         {
-            "description": "demigodroll",
+            "description": "Rewind Rounds",
             "hash": 3493494807,
-            "name": "demigodroll",
+            "name": "Rewind Rounds",
             "plugs": [
                 [
                     839105230,
-                    4090651448,
-                    1482024992
+                    4090651448
                 ],
                 [
                     2680121939,
                     732557052
                 ],
                 [
-                    968510818,
-                    3619207468,
                     3418782618
                 ],
                 [
-                    1546637391,
-                    3215448563,
-                    4104185692
+                    4293542123,
+                    4104185692,
+                    3215448563
                 ],
                 [
                     3186078099
@@ -30554,6 +30456,183 @@
                 ],
                 [
                     1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Tricorn may work well with Strand melee. ",
+            "hash": 2187717691,
+            "name": "Golden Circle",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500,
+                    1087426260
+                ],
+                [
+                    968510818,
+                    3619207468,
+                    2779035018
+                ],
+                [
+                    2610012052
+                ],
+                [
+                    164468655
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "rapid reload and deeper ammo reserves. w/ Extended mag never need to use Backup Mag mod.",
+            "hash": 2187717691,
+            "name": "Feeding Frenzy",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    831391274,
+                    1546637391,
+                    2610012052
+                ],
+                [
+                    164468655
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Deepest possible ammo reserves plus Envious can grant up to 165 in mag, 188 w/ Backup mod.",
+            "hash": 2187717691,
+            "name": "Target Lock",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    2420895100
+                ],
+                [
+                    968510818
+                ],
+                [
+                    365154968
+                ],
+                [
+                    164468655
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fourth Time's Fury. Nice roll, not as good as the meta roll tho.",
+            "hash": 1389546626,
+            "name": "Fourth Time's Fury",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3661387068,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    1087426260
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    2896038713
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll (sans barrell)",
+            "hash": 1389546626,
+            "name": "demigodroll",
+            "plugs": [
+                [
+                    3142289711,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    1354429876,
+                    1168162263,
+                    588594999
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "not ideal, but might have uses esp. with rewind rounds",
+            "hash": 3493494807,
+            "name": "Target lock",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448
+                ],
+                [
+                    732557052,
+                    2680121939
+                ],
+                [
+                    3418782618,
+                    1523832109,
+                    968510818
+                ],
+                [
+                    365154968
+                ],
+                [
+                    3186078099
                 ]
             ],
             "tags": [
