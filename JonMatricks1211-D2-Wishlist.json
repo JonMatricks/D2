@@ -25345,22 +25345,23 @@
             ]
         },
         {
-            "description": "New 7th Seraph Revolver [S19]",
+            "description": "Reconstruction Revolver MW: Range",
             "hash": 1555959830,
-            "name": "",
+            "name": "Reconstruction Revolver",
             "plugs": [
                 [
-                    839105230
+                    839105230,
+                    1482024992
                 ],
                 [
-                    1140096971
+                    1140096971,
+                    3142289711
                 ],
                 [
                     1523832109
                 ],
                 [
-                    1546637391,
-                    3201496230
+                    1546637391
                 ],
                 [
                     566815328
@@ -25398,25 +25399,24 @@
             ]
         },
         {
-            "description": "ammo economy",
+            "description": "4th time + vorpal. Seen Aztec Ross use this combo for fairly big damage with Lucky Pants [S20]",
             "hash": 1555959830,
-            "name": "",
+            "name": "4th time + vorpal",
             "plugs": [
                 [
                     839105230,
                     3661387068,
-                    4090651448
+                    4090651448,
+                    1482024992
                 ],
                 [
                     3142289711,
                     1140096971
                 ],
                 [
-                    1523832109,
-                    2010801679
+                    1354429876
                 ],
                 [
-                    3201496230,
                     1546637391
                 ],
                 [
@@ -31069,6 +31069,37 @@
                 ],
                 [
                     515704826
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "gutshot MW: Range, Stability",
+            "hash": 1555959830,
+            "name": "gutshot",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    1140096971,
+                    3142289711
+                ],
+                [
+                    1523832109,
+                    2010801679,
+                    1354429876
+                ],
+                [
+                    1365187766
+                ],
+                [
+                    566815328
                 ]
             ],
             "tags": [
