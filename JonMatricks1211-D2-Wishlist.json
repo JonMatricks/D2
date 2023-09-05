@@ -36709,6 +36709,222 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Heat Rises / Sunbracers build for low & mid-level content. Frequent melee, airborne kills, etc. Origin Trait may help.",
+            "hash": 833898322,
+            "name": "Heat Rises",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068
+                ],
+                [
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    691659142
+                ],
+                [
+                    2319119708,
+                    4082225868
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Finally a solar AR with reconstruction.",
+            "hash": 833898322,
+            "name": "Reconstruction",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382,
+                    1087426260,
+                    2420895100
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Target Lock",
+            "hash": 833898322,
+            "name": "Target Lock",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    365154968
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Rewind Lock - test for continuous single target damage.",
+            "hash": 2828278545,
+            "name": "Target Lock",
+            "plugs": [
+                [
+                    1392496348,
+                    839105230
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1561002382
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    365154968
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Finally we have a potential alternative to Commemoration.",
+            "hash": 2828278545,
+            "name": "Reconstruction",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    31345821,
+                    3078487919,
+                    365154968
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "?",
+            "hash": 1098171824,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3828510309,
+                    1195158366
+                ],
+                [
+                    31345821
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "?",
+            "hash": 1432682459,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3418782618
+                ],
+                [
+                    31345821,
+                    2610012052,
+                    831391274
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Melee builds?",
+            "hash": 3163900678,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    791862061
+                ],
+                [
+                    691659142
+                ],
+                [
+                    3708227201,
+                    2679249093
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
