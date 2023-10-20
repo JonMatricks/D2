@@ -34599,7 +34599,7 @@
             ]
         },
         {
-            "description": "Discord / Final Blows perks. MW: Range",
+            "description": "Sub-optimal roll. Discord / Final Blows perks. MW: Range",
             "hash": 3292795429,
             "name": "Discord",
             "plugs": [
@@ -35874,7 +35874,8 @@
                 ],
                 [
                     3324494224,
-                    1195158366
+                    1195158366,
+                    460017080
                 ],
                 [
                     2509860981
@@ -37662,9 +37663,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "grenadier",
             "hash": 1098171824,
-            "name": "",
+            "name": "grenadier",
             "plugs": [
                 [
                     839105230
@@ -37773,22 +37774,6 @@
             ]
         },
         {
-            "description": "grenadier demigodroll",
-            "hash": 177568179,
-            "name": "grenadier demigodroll",
-            "plugs": [
-                [
-                    3523296417
-                ],
-                [
-                    11612903
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "demigodroll",
             "hash": 177568179,
             "name": "demigodroll",
@@ -37889,6 +37874,239 @@
                 ],
                 [
                     2250679103
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodroll for threadling builds",
+            "hash": 1974641289,
+            "name": "demigodroll for threadling builds",
+            "plugs": [
+                [
+                    1168162263,
+                    1570042021
+                ],
+                [
+                    831391274
+                ],
+                [
+                    2509860981
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Vorpal",
+            "hash": 177568179,
+            "name": "Vorpal",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    968510818,
+                    3828510309,
+                    1359896290
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    2509860981
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "sub-optimal Vorpal roll",
+            "hash": 177568179,
+            "name": "Vorpal",
+            "plugs": [
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    968510818,
+                    3828510309,
+                    1359896290,
+                    3523296417
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    2509860981
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "grenadier demigodroll",
+            "hash": 177568179,
+            "name": "grenadier demigodroll",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ],
+                [
+                    2509860981
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Stasis synergy demigodroll",
+            "hash": 177568179,
+            "name": "Stasis synergy demigodroll",
+            "plugs": [
+                [
+                    3142289711,
+                    106909392,
+                    1087426260,
+                    3230963543,
+                    3177308360
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    124408337,
+                    3324494224
+                ],
+                [
+                    2509860981
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Cursed Jolt combo",
+            "hash": 1098171824,
+            "name": "Cursed Jolt combo",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382,
+                    1968497646
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    2173046394
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Thrall-buckler melee roll",
+            "hash": 1098171824,
+            "name": "Thrall-buckler",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1968497646,
+                    1561002382
+                ],
+                [
+                    3828510309,
+                    3523296417
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Voltshot keep away MW: Reload",
+            "hash": 3635821806,
+            "name": "Voltshot keep away",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543,
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ],
+                [
+                    164468655
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Keep Away Frenzy - for significant stat boosts (90 range, 100 Handling/Reload). Range Masterwork.",
+            "hash": 3635821806,
+            "name": "Keep Away Frenzy",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    164468655
                 ]
             ],
             "tags": [
