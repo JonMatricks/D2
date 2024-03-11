@@ -1,6 +1,6 @@
 {
-    "description": "Wishlist for D2 weapons based on personal play style and taste. PSN: JonMatricks, Bungie: JonMatricks#1211",
-    "name": "John Matrix wishlist for Destiny 2",
+    "description": "Personal wishlist for Destiny 2 weapons. Bungie: JonMatricks#1211",
+    "name": "Jon Matricks wishlist for Destiny 2",
     "data": [
         {
             "description": "",
@@ -30017,124 +30017,6 @@
             ]
         },
         {
-            "description": "Taraxippos, the Ghost Gun. MW: Range, Stability",
-            "hash": 3234246770,
-            "name": "Ghost Gun",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1354429876,
-                    2387244414
-                ],
-                [
-                    3038247973
-                ],
-                [
-                    1702976605
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Precision hits. MW: Stability, Range",
-            "hash": 3234246770,
-            "name": "Hatchling",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    3142289711
-                ],
-                [
-                    1354429876,
-                    1168162263
-                ],
-                [
-                    831391274
-                ],
-                [
-                    1702976605
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "demigodrolls",
-            "hash": 3234246770,
-            "name": "demigodrolls",
-            "plugs": [
-                [
-                    3142289711,
-                    106909392
-                ],
-                [
-                    1354429876,
-                    2387244414
-                ],
-                [
-                    3619207468,
-                    1195158366
-                ],
-                [
-                    1702976605
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "demigodroll for explosive payload",
-            "hash": 3234246770,
-            "name": "demigodroll for explosive payload",
-            "plugs": [
-                [
-                    1354429876,
-                    2387244414
-                ],
-                [
-                    3038247973
-                ],
-                [
-                    1702976605
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "demigodroll for hatchling",
-            "hash": 3234246770,
-            "name": "demigodroll for hatchling",
-            "plugs": [
-                [
-                    1168162263,
-                    2387244414,
-                    1354429876
-                ],
-                [
-                    831391274
-                ],
-                [
-                    1702976605
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "Rapid Hit. MW: Range",
             "hash": 1392919471,
             "name": "Rapit Hit",
@@ -42160,6 +42042,84 @@
                     2396489472,
                     4049631843,
                     2610012052
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Void synergy. S23.",
+            "hash": 655712834,
+            "name": "Void synergy",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Void synergy. demi-godroll. S23.",
+            "hash": 655712834,
+            "name": "Void synergy",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "CQC SMG. S23",
+            "hash": 655712834,
+            "name": "CQC SMG",
+            "plugs": [
+                [
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1087426260
+                ],
+                [
+                    776531651
+                ],
+                [
+                    3708227201,
+                    4082225868
                 ],
                 [
                     1702976605
