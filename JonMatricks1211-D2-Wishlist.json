@@ -43131,7 +43131,7 @@
             ]
         },
         {
-            "description": "Godroll(s) MW: Range",
+            "description": "Godroll(s) MW: Range \nXP+OFA, FF+OFA or Rampage\nDesperate Measures doesn't require powered abilities, activates while stowed.",
             "hash": 2763843898,
             "name": "Godroll(s)",
             "plugs": [
@@ -43143,7 +43143,9 @@
                 ],
                 [
                     3142289711,
-                    106909392
+                    106909392,
+                    1431678320,
+                    3230963543
                 ],
                 [
                     3038247973,
@@ -43151,7 +43153,8 @@
                 ],
                 [
                     3425386926,
-                    4049631843
+                    4049631843,
+                    2109543898
                 ],
                 [
                     2489430594
@@ -43162,7 +43165,7 @@
             ]
         },
         {
-            "description": "Wewind wounds",
+            "description": "Wewind wounds. DM & AJ work well for grenadier builds. DM doesn't required powered ability, activates when stowed.",
             "hash": 2372514509,
             "name": "Wewind Wounds",
             "plugs": [
@@ -43184,8 +43187,8 @@
                 ],
                 [
                     2109543898,
-                    4104185692,
-                    11612903
+                    11612903,
+                    4104185692
                 ],
                 [
                     2489430594
@@ -44285,7 +44288,7 @@
             ]
         },
         {
-            "description": "demigodroll, damage perk take a bit more effort",
+            "description": "demigodroll with Kinetic Tremors",
             "hash": 2763843898,
             "name": "demigodroll(s)",
             "plugs": [
@@ -44301,10 +44304,12 @@
                     106909392
                 ],
                 [
-                    3038247973
+                    3038247973,
+                    3700496672,
+                    243981275
                 ],
                 [
-                    2109543898
+                    3891536761
                 ],
                 [
                     2489430594
@@ -44664,7 +44669,7 @@
             ]
         },
         {
-            "description": "shiny",
+            "description": "shiny. Godroll(s) MW: Range \nXP+OFA, FF+OFA or Rampage\nDesperate Measures doesn't require powered abilities, activates while stowed.",
             "hash": 2499720827,
             "name": "shiny",
             "plugs": [
@@ -44684,7 +44689,8 @@
                 ],
                 [
                     4049631843,
-                    3425386926
+                    3425386926,
+                    2109543898
                 ],
                 [
                     2489430594
@@ -45029,9 +45035,9 @@
             ]
         },
         {
-            "description": "demigodroll",
+            "description": "demigodroll utility w/ Kinetic Tremors",
             "hash": 2499720827,
-            "name": "demigodroll",
+            "name": "utility gun",
             "plugs": [
                 [
                     1482024992,
@@ -45045,18 +45051,17 @@
                     106909392
                 ],
                 [
-                    3824105627,
-                    3038247973
+                    243981275,
+                    3700496672
                 ],
                 [
-                    2109543898
+                    3891536761
                 ],
                 [
                     2489430594
                 ]
             ],
             "tags": [
-                "GodPVE",
                 "PVE"
             ]
         },
@@ -45314,7 +45319,7 @@
             ]
         },
         {
-            "description": "wewind wounds",
+            "description": "Shiny Wewind wounds. DM & AJ work well for grenadier builds. DM doesn't required powered ability, activates when stowed.",
             "hash": 3851176026,
             "name": "wewind wounds",
             "plugs": [
@@ -46200,7 +46205,8 @@
                 ],
                 [
                     3142289711,
-                    1087426260
+                    1087426260,
+                    1431678320
                 ],
                 [
                     3038247973,
@@ -46416,7 +46422,6 @@
                 ],
                 [
                     2387244414,
-                    4104185692,
                     47981717
                 ],
                 [
