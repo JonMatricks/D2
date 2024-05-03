@@ -1,5 +1,5 @@
 {
-    "description": "JM's personal wishlist for Destiny 2 weapons as of Season 23 (30 APR 2024). Bungie: JonMatricks#1211",
+    "description": "JM's personal wishlist for Destiny 2 weapons as of Season 23 (03 May 2024). Bungie: JonMatricks#1211",
     "name": "Jon Matricks wishlist for Destiny 2",
     "data": [
         {
@@ -40623,8 +40623,8 @@
                     106909392,
                     3230963543,
                     3492396210,
-                    1380253176,
-                    2822142346
+                    2822142346,
+                    1431678320
                 ],
                 [
                     2859149211
@@ -40720,16 +40720,13 @@
                     3525010810
                 ],
                 [
-                    1380253176,
                     2822142346,
-                    3492396210,
                     106909392,
                     3230963543
                 ],
                 [
                     1556840489,
-                    3828510309,
-                    1119449540
+                    3828510309
                 ],
                 [
                     2173046394
@@ -40824,28 +40821,21 @@
             ]
         },
         {
-            "description": "Voltshot. MW: Reload or Handling",
+            "description": "Velocity Voltshot. MW: Velocity or Reload or Handling",
             "hash": 3381450498,
-            "name": "Voltshot",
+            "name": "Velocity Voltshot",
             "plugs": [
                 [
-                    3525010810,
                     981914802,
-                    1478423395,
-                    3798852852,
-                    3809316345,
-                    1441682018
+                    1441682018,
+                    3525010810,
+                    3798852852
                 ],
                 [
-                    2822142346,
-                    1380253176,
-                    3492396210,
-                    3230963543,
-                    106909392
+                    2822142346
                 ],
                 [
-                    951095735,
-                    3828510309
+                    951095735
                 ],
                 [
                     2173046394
@@ -46584,6 +46574,85 @@
                 ],
                 [
                     2489430594
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "strand bow",
+            "hash": 839344841,
+            "name": "strand bow",
+            "plugs": [
+                [
+                    2801223209,
+                    852209214
+                ],
+                [
+                    16392701
+                ],
+                [
+                    923806249
+                ],
+                [
+                    831391274,
+                    3324494224
+                ],
+                [
+                    220689851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "fast draw time",
+            "hash": 839344841,
+            "name": "fast draw time",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    2652708987
+                ],
+                [
+                    220689851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "damage bow",
+            "hash": 839344841,
+            "name": "damage bow",
+            "plugs": [
+                [
+                    2801223209,
+                    852209214
+                ],
+                [
+                    16392701
+                ],
+                [
+                    3365897133
+                ],
+                [
+                    555281244,
+                    3324494224
+                ],
+                [
+                    220689851
                 ]
             ],
             "tags": [
