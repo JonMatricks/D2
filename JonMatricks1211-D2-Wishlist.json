@@ -1,5 +1,5 @@
 {
-    "description": "JonMatricks personal wishlist for Destiny 2 weapons as of Season 23 (26 May 2024). Bungie: JonMatricks#1211",
+    "description": "JonMatricks personal wishlist for Destiny 2 weapons as of Season 23 (28 May 2024). Bungie: JonMatricks#1211",
     "name": "Jon Matricks wishlist for Destiny 2",
     "data": [
         {
@@ -36588,33 +36588,6 @@
             ]
         },
         {
-            "description": "?",
-            "hash": 1098171824,
-            "name": "",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    1885400500
-                ],
-                [
-                    3828510309,
-                    1195158366,
-                    3619207468
-                ],
-                [
-                    31345821
-                ],
-                [
-                    1156201379
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "Rewind Rounds",
             "hash": 1432682459,
             "name": "Rewind Rounds",
@@ -37409,32 +37382,6 @@
             ]
         },
         {
-            "description": "grenadier",
-            "hash": 1098171824,
-            "name": "grenadier",
-            "plugs": [
-                [
-                    839105230
-                ],
-                [
-                    1885400500,
-                    1561002382
-                ],
-                [
-                    3523296417
-                ],
-                [
-                    11612903
-                ],
-                [
-                    1156201379
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
             "description": "light.gg godroll",
             "hash": 1064132738,
             "name": "light.gg godroll",
@@ -37685,14 +37632,18 @@
                     839105230
                 ],
                 [
+                    3230963543,
+                    679225683,
                     1561002382,
-                    1968497646
+                    1885400500
                 ],
                 [
-                    3523296417
+                    3523296417,
+                    1906147653
                 ],
                 [
-                    2173046394
+                    2173046394,
+                    1720528630
                 ],
                 [
                     1156201379
@@ -42512,9 +42463,9 @@
             ]
         },
         {
-            "description": "Heal-Kill",
+            "description": "HC-Incandescent",
             "hash": 435821040,
-            "name": "Heal-Kill",
+            "name": "Heal-Incandescent",
             "plugs": [
                 [
                     839105230,
@@ -42525,25 +42476,24 @@
                 ],
                 [
                     3230963543,
-                    1431678320
+                    679225683
                 ],
                 [
                     3017780555
                 ],
                 [
-                    1015611457
+                    4293542123
                 ],
                 [
                     4129855581
                 ]
             ],
             "tags": [
-                "PVE",
-                "PVP"
+                "GodPVE"
             ]
         },
         {
-            "description": "Heal Clip",
+            "description": "Heal Clip demigodroll",
             "hash": 435821040,
             "name": "Heal Clip",
             "plugs": [
@@ -42557,17 +42507,17 @@
                     1482024992
                 ],
                 [
+                    3230963543,
+                    679225683,
                     1885400500,
-                    1561002382,
-                    1968497646
+                    1561002382
                 ],
                 [
                     3017780555
                 ],
                 [
-                    4293542123,
                     4049631843,
-                    460017080
+                    1015611457
                 ],
                 [
                     4129855581
@@ -42578,7 +42528,7 @@
             ]
         },
         {
-            "description": "Subsistence",
+            "description": "Subsistence-Incandescent",
             "hash": 435821040,
             "name": "Subsistence",
             "plugs": [
@@ -42600,15 +42550,14 @@
                     1820235745
                 ],
                 [
-                    4293542123,
-                    4049631843
+                    4293542123
                 ],
                 [
                     4129855581
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -43089,9 +43038,9 @@
             ]
         },
         {
-            "description": "PvP Stranger Danger",
+            "description": "Feeding Frenzy",
             "hash": 2372514509,
-            "name": "PvP Stranger Danger",
+            "name": "Feeding Frenzy",
             "plugs": [
                 [
                     4090651448,
@@ -43104,17 +43053,18 @@
                     1561002382
                 ],
                 [
-                    2387244414
+                    2779035018
                 ],
                 [
-                    460017080
+                    2109543898,
+                    11612903
                 ],
                 [
                     2489430594
                 ]
             ],
             "tags": [
-                "GodPVP"
+                "GodPVE"
             ]
         },
         {
@@ -44087,9 +44037,9 @@
             ]
         },
         {
-            "description": "void synergy. Desperate Measures or AJ for ability synergy. Destabilizing rounds didn't seem to work well.",
+            "description": "Repulsor Brace void synergy. Desperate Measures or AJ for ability synergy. Destabilizing rounds didn't seem to work well.",
             "hash": 2372514509,
-            "name": "void synergy",
+            "name": "Repulsor Brace",
             "plugs": [
                 [
                     4090651448,
@@ -44110,9 +44060,9 @@
                     776531651
                 ],
                 [
-                    11612903,
                     2109543898,
-                    2048641572
+                    2048641572,
+                    11612903
                 ],
                 [
                     2489430594
@@ -44903,9 +44853,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "Feeding Frenzy",
             "hash": 3851176026,
-            "name": "",
+            "name": "Feeding Fenzy",
             "plugs": [
                 [
                     839105230,
@@ -44924,11 +44874,16 @@
                     2779035018
                 ],
                 [
+                    2109543898,
+                    11612903,
                     1015611457
+                ],
+                [
+                    2489430594
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVE"
             ]
         },
         {
@@ -45027,9 +44982,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "shield break",
             "hash": 3851176026,
-            "name": "",
+            "name": "sheild break",
             "plugs": [
                 [
                     839105230,
@@ -45047,14 +45002,16 @@
                     1870851715
                 ],
                 [
-                    460017080
+                    4104185692,
+                    2109543898,
+                    11612903
                 ],
                 [
                     2489430594
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVE"
             ]
         },
         {
@@ -46567,6 +46524,88 @@
             "tags": [
                 "PVE",
                 "PVP"
+            ]
+        },
+        {
+            "description": "grenadier",
+            "hash": 1098171824,
+            "name": "grenadier",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "sword logic?",
+            "hash": 1098171824,
+            "name": "sword logic",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3828510309,
+                    3619207468,
+                    1583705720
+                ],
+                [
+                    31345821
+                ],
+                [
+                    1156201379
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "PvP Stranger Danger",
+            "hash": 2372514509,
+            "name": "PvP Stranger Danger",
+            "plugs": [
+                [
+                    4090651448,
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    460017080
+                ],
+                [
+                    2489430594
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]
