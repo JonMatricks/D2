@@ -1,5 +1,5 @@
 {
-    "description": "JonMatricks personal wishlist for Destiny 2 weapons as of TFS (12 JUL 2024). Bungie: JonMatricks#1211",
+    "description": "JonMatricks personal wishlist for Destiny 2 weapons as of TFS (13 JUL 2024). Bungie: JonMatricks#1211",
     "name": "Jon Matricks wishlist for Destiny 2",
     "data": [
         {
@@ -27136,40 +27136,9 @@
             ]
         },
         {
-            "description": "Explosive payload.  MW: Range",
+            "description": "Kinetic tremors or XP. Perfect godroll would have both. Maybe Rampage or Frenzy too. MW: Range",
             "hash": 996109059,
-            "name": "Explosive Payload",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    1482024992
-                ],
-                [
-                    3142289711,
-                    1087426260,
-                    106909392
-                ],
-                [
-                    3400784728,
-                    2387244414,
-                    3619207468
-                ],
-                [
-                    3038247973
-                ],
-                [
-                    744217850
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "Kinetic tremors. MW: Range",
-            "hash": 996109059,
-            "name": "Kinetic Tremors",
+            "name": "XP Kinetic Tremors",
             "plugs": [
                 [
                     839105230,
@@ -27187,7 +27156,8 @@
                     3619207468
                 ],
                 [
-                    3891536761
+                    3891536761,
+                    3038247973
                 ],
                 [
                     744217850
@@ -47857,7 +47827,8 @@
                 [
                     1482024992,
                     3250034553,
-                    4090651448
+                    4090651448,
+                    839105230
                 ],
                 [
                     3142289711,
@@ -47879,7 +47850,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "GodPVE"
             ]
         },
         {
@@ -49239,7 +49210,7 @@
             ]
         },
         {
-            "description": "S24 revison...blinding wave frame",
+            "description": "Episode 1 / Season 24 revison...blinding wave frame",
             "hash": 817909300,
             "name": "S24 revison...",
             "plugs": [
@@ -49247,9 +49218,6 @@
                     1478423395,
                     981914802,
                     3525010810
-                ],
-                [
-                    3032599245
                 ],
                 [
                     1556840489,
@@ -49264,7 +49232,7 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "PVE"
             ]
         },
         {
@@ -49395,9 +49363,9 @@
             ]
         },
         {
-            "description": "Auto-loading",
+            "description": "auto-loading damage rotation",
             "hash": 1492522228,
-            "name": "Keep shooting",
+            "name": "auto-loading damage rotation",
             "plugs": [
                 [
                     3250034553,
@@ -49489,44 +49457,26 @@
             ]
         },
         {
-            "description": "decent roll",
+            "description": "sustained fire. light.gg godroll",
             "hash": 3610521673,
-            "name": "",
+            "name": "someone's godroll",
             "plugs": [
                 [
-                    2420895100,
+                    839105230
+                ],
+                [
+                    3142289711,
                     1087426260,
                     106909392
                 ],
                 [
                     2284787283,
-                    1556840489
-                ],
-                [
-                    3038247973
-                ],
-                [
-                    744217850
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "sustained fire?",
-            "hash": 3610521673,
-            "name": "",
-            "plugs": [
-                [
-                    2420895100,
-                    1087426260
-                ],
-                [
+                    3978468247,
                     1354429876
                 ],
                 [
-                    555281244
+                    555281244,
+                    1546637391
                 ],
                 [
                     744217850
@@ -50030,17 +49980,29 @@
             ]
         },
         {
-            "description": "Ammo regeneration?  Discord, 4TTT, Deconstruct.",
+            "description": "Ammo regeneration?  Discord, 4TTT, etc.",
             "hash": 3610521673,
-            "name": "Ammo regeneration? ",
+            "name": "Ammo economy? ",
             "plugs": [
                 [
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    106909392
+                ],
+                [
                     3978468247,
-                    1354429876
+                    1354429876,
+                    1556840489
                 ],
                 [
                     3038247973,
-                    3993379141
+                    4293542123
                 ],
                 [
                     744217850
@@ -50095,6 +50057,111 @@
                 ],
                 [
                     905869860
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls?  MW: Range",
+            "hash": 996109059,
+            "name": "Demigodroll",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3400784728,
+                    2387244414,
+                    3619207468,
+                    3513791699
+                ],
+                [
+                    3425386926,
+                    4104185692
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "demigodrolls. MasterWork: Range",
+            "hash": 996109059,
+            "name": "demi",
+            "plugs": [
+                [
+                    3400784728,
+                    2387244414,
+                    3619207468,
+                    3513791699
+                ],
+                [
+                    3038247973,
+                    3891536761,
+                    4104185692,
+                    3425386926
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "precision hits",
+            "hash": 2063217087,
+            "name": "precision hits",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    555281244
+                ],
+                [
+                    1050127423
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "precision hits",
+            "hash": 2063217087,
+            "name": "precision hits",
+            "plugs": [
+                [
+                    201365942,
+                    3523746922
+                ],
+                [
+                    555281244,
+                    332733060
+                ],
+                [
+                    1050127423,
+                    744217850
                 ]
             ],
             "tags": [
