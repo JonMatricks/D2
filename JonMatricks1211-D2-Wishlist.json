@@ -1,6 +1,6 @@
 {
-    "description": "JonMatricks#1211 personal wish list of Destiny 2 weapons for The Final Shape, Episode Revenant (8.1.0.3)",
-    "name": "Destiny 2 Wishlist 8.1.0.3 a",
+    "description": "JonMatricks#1211 personal weapons wish list for Destiny 2 \nThe Final Shape - Episode Revenant  ver 8.1.0.4",
+    "name": "Destiny 2 Wishlist 8.1.0.4",
     "data": [
         {
             "description": "",
@@ -53594,6 +53594,107 @@
                 ],
                 [
                     2120661319
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "KT. Season 25 FOTL refresh.",
+            "hash": 3558681245,
+            "name": "KT",
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    839105230,
+                    1482024992,
+                    1840239774,
+                    3661387068
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3418782618,
+                    1820235745
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Season 25 FOTL refresh. Melee",
+            "hash": 3558681245,
+            "name": "Melee",
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1431678320,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    691659142
+                ],
+                [
+                    4082225868
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Desperate Measures or Onslaught. Veiled Threat has DM. No other top slot AR has Wewind Wounds with Onsluaght",
+            "hash": 3558681245,
+            "name": "Desperate Measures / Onslaught",
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1885400500
+                ],
+                [
+                    3418782618,
+                    1820235745
+                ],
+                [
+                    2109543898,
+                    95528736
+                ],
+                [
+                    2250679103
                 ]
             ],
             "tags": [
