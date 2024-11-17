@@ -1,6 +1,6 @@
 {
-    "description": "JonMatricks#1211 personal weapons wish list for Destiny 2 \nThe Final Shape - Episode Revenant - ver 8.1.0.4",
-    "name": "Destiny 2 Wishlist ver 8.1.0.4",
+    "description": "JonMatricks#1211 personal wish list for Destiny 2 weapons.\nThe Final Shape - Episode II Revenant - ver 8.1.0.4",
+    "name": "Destiny 2 Wishlist EP2 v 8.1.0.4",
     "data": [
         {
             "description": "",
@@ -53338,7 +53338,7 @@
             ]
         },
         {
-            "description": "Anti-Tank Rifle demigodroll",
+            "description": "Anti-BRig Crit Spot Rifle (demigodroll)",
             "hash": 4200122994,
             "name": "Anti-Tank Rifle demigodroll",
             "plugs": [
@@ -53359,8 +53359,7 @@
                     1164602481
                 ],
                 [
-                    2896038713,
-                    1771339417
+                    2896038713
                 ],
                 [
                     1607056502
@@ -53966,6 +53965,127 @@
             ],
             "tags": [
                 "PVE"
+            ]
+        },
+        {
+            "description": "Anti-Tank Rifle demigodroll for teamshooting",
+            "hash": 4200122994,
+            "name": "Anti-Tank Rifle demigodroll",
+            "plugs": [
+                [
+                    3250034553,
+                    1482024992,
+                    4090651448,
+                    1840239774,
+                    839105230
+                ],
+                [
+                    3142289711,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    3993379141,
+                    1164602481
+                ],
+                [
+                    1771339417
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2477980485,
+            "name": "",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598
+                ],
+                [
+                    1194056669
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "demigodroll for pvp",
+            "hash": 2477980485,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    2579169598
+                ],
+                [
+                    1194056669,
+                    47981717
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "3rd best roll for pvp?",
+            "hash": 2477980485,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    3661387068,
+                    4090651448,
+                    1467527085,
+                    3250034553
+                ],
+                [
+                    3142289711,
+                    106909392
+                ],
+                [
+                    957782887
+                ],
+                [
+                    47981717,
+                    1194056669
+                ],
+                [
+                    2250679103
+                ]
+            ],
+            "tags": [
+                "PVP"
             ]
         }
     ]
